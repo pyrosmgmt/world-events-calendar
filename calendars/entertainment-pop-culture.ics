@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Award shows\, blockbuster releases & major pop-culture moment
  s (curated)
-X-WR-CALNAME:Pyros · Entertainment & Pop Culture
+X-WR-CALNAME:Entertainment & Pop Culture
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Brand New Day (theatrical release)

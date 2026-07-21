@@ -7,7 +7,7 @@ meta:
   window: 2026-07-21 to 2027-12-31
 calendars:
 - id: uk-sporting
-  name: Pyros · UK Sporting
+  name: UK Sporting
   description: UK marquee sporting tentpoles (curated; season-level, not per-fixture)
   events:
   - summary: The Hundred 2026
@@ -294,7 +294,7 @@ calendars:
       as host through 2031; event runs mid-Dec into early Jan (2026/27 edition: 10 Dec 2026 - 3 Jan 2027).
       Start estimated ~16 Dec 2027; final ~early Jan 2028.'
 - id: us-sporting
-  name: Pyros · US Sporting
+  name: US Sporting
   description: US marquee sporting tentpoles (curated; championship/season level)
   events:
   - summary: US Open Tennis 2026
@@ -617,7 +617,7 @@ calendars:
       Saturday after US Thanksgiving (Nov 25 2027) = Sat Nov 27 2027. Tentpole viewership window, not
       a single competition.'
 - id: global-sporting
-  name: Pyros · Global Sporting
+  name: Global Sporting
   description: Global mega sporting events (one entry per tournament)
   events:
   - summary: Tour de France 2026 — Final Stage
@@ -836,7 +836,7 @@ calendars:
       and Namibia, 4 Oct - 21 Nov 2027. South Africa stages 44 of 54 matches across 8 venues; Namibia
       hosts for the first time. New format with a Super 7 stage (announced 15 Jul 2026).'
 - id: combat-sports
-  name: Pyros · Combat Sports
+  name: Combat Sports
   description: Marquee boxing & crossover cards (UFC/MMA via separate auto-feed)
   events:
   - summary: Tyson Fury vs Mariusz Wach
@@ -1027,7 +1027,7 @@ calendars:
     notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Full Gear is AEW''s November PPV (2026
       edition mid/late Nov). Estimate = mid/late Nov 2027. Re-verify when AEW announces.'
 - id: motorsport
-  name: Pyros · Motorsport
+  name: Motorsport
   description: Non-F1 marquee motorsport (F1 is a separate auto-updating feed)
   events:
   - summary: MotoGP British Grand Prix (Silverstone) 2026
@@ -1167,7 +1167,7 @@ calendars:
       Recent finales have fallen late Aug to mid-Sep (2024 Nashville Sep 15; 2025 Nashville late Aug).
       Estimate = Labor Day weekend, early Sep 2027. Re-verify on full-schedule release.'
 - id: gaming
-  name: Pyros · Gaming
+  name: Gaming
   description: Major game launches, showcases & esports finals (curated)
   events:
   - summary: gamescom 2026
@@ -1403,7 +1403,7 @@ calendars:
       a Thursday in mid-December in Los Angeles (2025 Dec 11, 2026 Dec 10), so Thu Dec 9 2027 is the estimate.
       Re-verify when the date is announced.'
 - id: entertainment-pop-culture
-  name: Pyros · Entertainment & Pop Culture
+  name: Entertainment & Pop Culture
   description: Award shows, blockbuster releases & major pop-culture moments (curated)
   events:
   - summary: 'Spider-Man: Brand New Day (theatrical release)'
@@ -1701,7 +1701,7 @@ calendars:
     notes: 'CONFIRMED via Warner Bros.: Fri Dec 17, 2027 (same day as Avengers: Secret Wars). Andy Serkis
       directs and stars; Peter Jackson producing. Delayed from 2026.'
 - id: music-festivals
-  name: Pyros · Music & Festivals
+  name: Music & Festivals
   description: Major music festivals (one entry per festival)
   events:
   - summary: Lollapalooza 2026
@@ -1778,7 +1778,7 @@ calendars:
       in early October at Zilker Park (2026 was Oct 2-4 & 9-11). Estimated Oct 1-3 & 8-10, 2027. Verify
       closer to date.'
 - id: shopping-events
-  name: Pyros · Shopping Events
+  name: Shopping Events
   description: Retail/e-commerce tentpoles (dates computed from weekday rules)
   events:
   - summary: Back-to-School Peak (2026)
@@ -1893,7 +1893,7 @@ calendars:
     last_verified: '2026-07-21'
     notes: Fixed Dec 26 (UK / CA / AU) - retail sales event.
 - id: holidays-awareness
-  name: Pyros · Holidays & Awareness
+  name: Holidays & Awareness
   description: Awareness / social-media days only (public holidays are a separate subscribed feed)
   events:
   - summary: International Women's Day (2027)
@@ -1922,7 +1922,7 @@ calendars:
     last_verified: '2026-07-21'
     notes: Fixed Dec 31 (global, promo-relevant). Falls on a Friday in 2027.
 - id: technology-social-media
-  name: Pyros · Technology & Social Media
+  name: Technology & Social Media
   description: Major tech launches & keynotes (curated; radar via Techmeme feed)
   events:
   - summary: Samsung Galaxy Unpacked (Fold/Flip) 2026
@@ -2053,7 +2053,7 @@ calendars:
     notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Estimated mid-Nov (Ignite 2026 was Nov
       17-20; some listings suggest Nov 2027 in Chicago).'
 - id: space-science
-  name: Pyros · Space & Science
+  name: Space & Science
   description: Stable astronomy (eclipses, meteor peaks, solstices) + headline launches
   events:
   - summary: Total Solar Eclipse (Spain / N. Africa) 2026

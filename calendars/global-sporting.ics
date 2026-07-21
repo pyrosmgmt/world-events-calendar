@@ -4,7 +4,7 @@ PRODID:-//Pyros//World Events Calendar//global-sporting//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Global mega sporting events (one entry per tournament)
-X-WR-CALNAME:Pyros · Global Sporting
+X-WR-CALNAME:Global Sporting
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Tour de France 2026 — Final Stage

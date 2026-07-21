@@ -4,7 +4,7 @@ PRODID:-//Pyros//World Events Calendar//gaming//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Major game launches\, showcases & esports finals (curated)
-X-WR-CALNAME:Pyros · Gaming
+X-WR-CALNAME:Gaming
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:gamescom 2026

@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:US marquee sporting tentpoles (curated\; championship/season 
  level)
-X-WR-CALNAME:Pyros · US Sporting
+X-WR-CALNAME:US Sporting
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:US Open Tennis 2026

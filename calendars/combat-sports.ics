@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Marquee boxing & crossover cards (UFC/MMA via separate auto-f
  eed)
-X-WR-CALNAME:Pyros · Combat Sports
+X-WR-CALNAME:Combat Sports
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Tyson Fury vs Mariusz Wach

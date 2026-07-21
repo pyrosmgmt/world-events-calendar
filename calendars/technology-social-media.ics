@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Major tech launches & keynotes (curated\; radar via Techmeme 
  feed)
-X-WR-CALNAME:Pyros · Technology & Social Media
+X-WR-CALNAME:Technology & Social Media
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Samsung Galaxy Unpacked (Fold/Flip) 2026

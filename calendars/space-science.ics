@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Stable astronomy (eclipses\, meteor peaks\, solstices) + head
  line launches
-X-WR-CALNAME:Pyros · Space & Science
+X-WR-CALNAME:Space & Science
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Total Solar Eclipse (Spain / N. Africa) 2026

@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Non-F1 marquee motorsport (F1 is a separate auto-updating fee
  d)
-X-WR-CALNAME:Pyros · Motorsport
+X-WR-CALNAME:Motorsport
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:MotoGP British Grand Prix (Silverstone) 2026

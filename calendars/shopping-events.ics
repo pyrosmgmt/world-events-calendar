@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Retail/e-commerce tentpoles (dates computed from weekday rule
  s)
-X-WR-CALNAME:Pyros · Shopping Events
+X-WR-CALNAME:Shopping Events
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Back-to-School Peak (2026)

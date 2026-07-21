@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Awareness / social-media days only (public holidays are a sep
  arate subscribed feed)
-X-WR-CALNAME:Pyros · Holidays & Awareness
+X-WR-CALNAME:Holidays & Awareness
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:International Women's Day (2027)

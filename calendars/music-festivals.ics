@@ -4,7 +4,7 @@ PRODID:-//Pyros//World Events Calendar//music-festivals//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Major music festivals (one entry per festival)
-X-WR-CALNAME:Pyros · Music & Festivals
+X-WR-CALNAME:Music & Festivals
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Lollapalooza 2026
