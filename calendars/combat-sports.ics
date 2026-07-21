@@ -284,4 +284,85 @@ DESCRIPTION:Annual Misfits Mania flagship crossover event (DAZN). Date ann
 TRANSP:TRANSPARENT
 URL:https://en.wikipedia.org/wiki/2026_in_Misfits_Boxing_and_MF_Pro
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE SummerSlam 2026
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260721T000000Z
+UID:wwe-summerslam-2026-2026-08-01@combat-sports.pyros-world-events-calend
+ ar
+DESCRIPTION:Two-night event\; U.S. Bank Stadium\, Minneapolis\, Minnesota.
+ \nSource: https://en.wikipedia.org/wiki/SummerSlam_(2026)\nVerified: 2026-
+ 07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/SummerSlam_(2026)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE Money in the Bank 2026
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260721T000000Z
+UID:wwe-money-in-the-bank-2026-2026-10-10@combat-sports.pyros-world-events
+ -calendar
+DESCRIPTION:Smoothie King Center\, New Orleans\, Louisiana.\nSource: https
+ ://www.fightful.com/wrestling/wwe-money-in-the-bank-to-take-place-on-octob
+ er-10/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.fightful.com/wrestling/wwe-money-in-the-bank-to-take-place
+ -on-october-10/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE Survivor Series: WarGames 2026
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20260721T000000Z
+UID:wwe-survivor-series-wargames-2026-2026-11-28@combat-sports.pyros-world
+ -events-calendar
+DESCRIPTION:Daikin Park\, Houston\, Texas.\nSource: https://www.fightful.c
+ om/wrestling/wwe-survivor-series-to-take-place-at-daikin-park-in-houston/\
+ nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.fightful.com/wrestling/wwe-survivor-series-to-take-place-a
+ t-daikin-park-in-houston/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] WWE WrestleMania 43 (2027)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20260721T000000Z
+UID:tbc-wwe-wrestlemania-43-2027-2027-04-10@combat-sports.pyros-world-even
+ ts-calendar
+DESCRIPTION:TENTATIVE: date not officially confirmed as of 2026-07-21. WWE
+  has officially confirmed a two-part WrestleMania 43 in Riyadh\, Saudi Ara
+ bia (its first outside North America)\, but not the exact date\; reported 
+ targets are the weekend of March 27 or April 10\, 2027.\nSource: https://c
+ orporate.wwe.com/about/news/2025/09-12-2025\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://corporate.wwe.com/about/news/2025/09-12-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEW All Out 2026
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260721T000000Z
+UID:aew-all-out-2026-2026-09-26@combat-sports.pyros-world-events-calendar
+DESCRIPTION:NOW Arena\, Chicago (Hoffman Estates)\, Illinois.\nSource: htt
+ ps://en.wikipedia.org/wiki/All_Out_(2026)\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/All_Out_(2026)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEW Full Gear 2026
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260721T000000Z
+UID:aew-full-gear-2026-2026-11-14@combat-sports.pyros-world-events-calenda
+ r
+DESCRIPTION:Mortgage Matchup Center\, Phoenix\, Arizona.\nSource: https://
+ prowrestling.net/site/2026/07/13/aew-full-gear-date-and-location-announced
+ -2/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://prowrestling.net/site/2026/07/13/aew-full-gear-date-and-locati
+ on-announced-2/
+END:VEVENT
 END:VCALENDAR

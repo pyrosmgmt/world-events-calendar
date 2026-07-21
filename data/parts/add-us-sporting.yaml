@@ -1,0 +1,7 @@
+target: us-sporting
+events:
+  - summary: "[TBC] WNBA Finals 2026 (Game 1)"
+    start: "2026-10-04"
+    source_url: "https://www.wnba.com/news/2026-regular-season-key-dates"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. WNBA has not announced Playoffs/Finals dates ('Stay tuned for... WNBA Finals dates!'). CONFIRMED context: regular season ends Thu 24 Sep 2026, so Finals fall in early-to-mid October 2026 per recent seasons. Start date is an estimate, not official."

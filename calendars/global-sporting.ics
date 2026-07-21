@@ -62,4 +62,51 @@ DESCRIPTION:CONFIRMED: Grand Départ Grande-Bretagne — Stage 1 Edinburgh
 TRANSP:TRANSPARENT
 URL:https://www.letourgb.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Australian Open 2027
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20260721T000000Z
+UID:australian-open-2027-2027-01-17@global-sporting.pyros-world-events-cal
+ endar
+DESCRIPTION:CONFIRMED by ausopen.com: main-draw action begins Sun 17 Jan 2
+ 027 (fourth straight Sunday start)\; singles finals 30-31 Jan. Tennis Gran
+ d Slam\, Melbourne Park. (Opening Week/qualifying 11-16 Jan.)\nSource: htt
+ ps://ausopen.com/articles/news/australian-open-2027-dates-announced\nVerif
+ ied: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://ausopen.com/articles/news/australian-open-2027-dates-announced
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Roland-Garros (French Open) 2027
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20260721T000000Z
+UID:tbc-roland-garros-french-open-2027-2027-05-23@global-sporting.pyros-wo
+ rld-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Official
+  rolandgarros.com still shows only the 2026 provisional schedule\; 2027 da
+ tes not yet published. Widely reported (ticketing/travel sources) as main 
+ draw Sun 23 May -> final Sun 6 Jun 2027\, qualifying from 17 May. Tennis G
+ rand Slam\, Paris.\nSource: https://www.rolandgarros.com/en-us/\nVerified:
+  2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.rolandgarros.com/en-us/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIFA Women's World Cup 2027 (Brazil)
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270726
+DTSTAMP:20260721T000000Z
+UID:fifa-womens-world-cup-2027-brazil-2027-06-24@global-sporting.pyros-wor
+ ld-events-calendar
+DESCRIPTION:CONFIRMED by FIFA Council: opening match Thu 24 Jun 2027\, fin
+ al Sun 25 Jul 2027. First Women's World Cup in South America\; 32 teams\, 
+ 8 host cities. Entire tournament (incl. final) falls within window (ends 2
+ 027-07-31).\nSource: https://inside.fifa.com/media-releases/fifa-womens-wo
+ rld-cup-brazil-2027-dates-confirmed\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://inside.fifa.com/media-releases/fifa-womens-world-cup-brazil-20
+ 27-dates-confirmed
+END:VEVENT
 END:VCALENDAR

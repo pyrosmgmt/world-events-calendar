@@ -206,6 +206,14 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'Confirmed via MLB.com: All-Star Game Tue Jul 13 2027 at Wrigley Field, Chicago (All-Star Week
       Jul 9-13).'
+  - summary: '[TBC] WNBA Finals 2026 (Game 1)'
+    start: '2026-10-04'
+    source_url: https://www.wnba.com/news/2026-regular-season-key-dates
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. WNBA has not announced Playoffs/Finals
+      dates (''Stay tuned for... WNBA Finals dates!''). CONFIRMED context: regular season ends Thu 24
+      Sep 2026, so Finals fall in early-to-mid October 2026 per recent seasons. Start date is an estimate,
+      not official.'
 - id: global-sporting
   name: Pyros · Global Sporting
   description: Global mega sporting events (one entry per tournament)
@@ -234,6 +242,31 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'CONFIRMED: Grand Départ Grande-Bretagne — Stage 1 Edinburgh–Carlisle Fri 2 Jul 2027 (official
       letourgb.com/ASO); finishes Paris Sun 25 Jul 2027. Full edition in-window.'
+  - summary: Australian Open 2027
+    start: '2027-01-17'
+    end: '2027-01-31'
+    source_url: https://ausopen.com/articles/news/australian-open-2027-dates-announced
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED by ausopen.com: main-draw action begins Sun 17 Jan 2027 (fourth straight Sunday
+      start); singles finals 30-31 Jan. Tennis Grand Slam, Melbourne Park. (Opening Week/qualifying 11-16
+      Jan.)'
+  - summary: '[TBC] Roland-Garros (French Open) 2027'
+    start: '2027-05-23'
+    end: '2027-06-06'
+    source_url: https://www.rolandgarros.com/en-us/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Official rolandgarros.com still shows
+      only the 2026 provisional schedule; 2027 dates not yet published. Widely reported (ticketing/travel
+      sources) as main draw Sun 23 May -> final Sun 6 Jun 2027, qualifying from 17 May. Tennis Grand Slam,
+      Paris.'
+  - summary: FIFA Women's World Cup 2027 (Brazil)
+    start: '2027-06-24'
+    end: '2027-07-25'
+    source_url: https://inside.fifa.com/media-releases/fifa-womens-world-cup-brazil-2027-dates-confirmed
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED by FIFA Council: opening match Thu 24 Jun 2027, final Sun 25 Jul 2027. First Women''s
+      World Cup in South America; 32 teams, 8 host cities. Entire tournament (incl. final) falls within
+      window (ends 2027-07-31).'
 - id: combat-sports
   name: Pyros · Combat Sports
   description: Marquee boxing & crossover cards (UFC/MMA via separate auto-feed)
@@ -343,6 +376,40 @@ calendars:
     last_verified: '2026-07-21'
     notes: Annual Misfits Mania flagship crossover event (DAZN). Date announced 17 July 2026 in Misfits'
       Q4 schedule; main event not yet named. Date confirmed via Wikipedia.
+  - summary: WWE SummerSlam 2026
+    start: '2026-08-01'
+    end: '2026-08-02'
+    source_url: https://en.wikipedia.org/wiki/SummerSlam_(2026)
+    last_verified: '2026-07-21'
+    notes: Two-night event; U.S. Bank Stadium, Minneapolis, Minnesota.
+  - summary: WWE Money in the Bank 2026
+    start: '2026-10-10'
+    source_url: https://www.fightful.com/wrestling/wwe-money-in-the-bank-to-take-place-on-october-10/
+    last_verified: '2026-07-21'
+    notes: Smoothie King Center, New Orleans, Louisiana.
+  - summary: 'WWE Survivor Series: WarGames 2026'
+    start: '2026-11-28'
+    source_url: https://www.fightful.com/wrestling/wwe-survivor-series-to-take-place-at-daikin-park-in-houston/
+    last_verified: '2026-07-21'
+    notes: Daikin Park, Houston, Texas.
+  - summary: '[TBC] WWE WrestleMania 43 (2027)'
+    start: '2027-04-10'
+    end: '2027-04-11'
+    source_url: https://corporate.wwe.com/about/news/2025/09-12-2025
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: date not officially confirmed as of 2026-07-21. WWE has officially confirmed a
+      two-part WrestleMania 43 in Riyadh, Saudi Arabia (its first outside North America), but not the
+      exact date; reported targets are the weekend of March 27 or April 10, 2027.'
+  - summary: AEW All Out 2026
+    start: '2026-09-26'
+    source_url: https://en.wikipedia.org/wiki/All_Out_(2026)
+    last_verified: '2026-07-21'
+    notes: NOW Arena, Chicago (Hoffman Estates), Illinois.
+  - summary: AEW Full Gear 2026
+    start: '2026-11-14'
+    source_url: https://prowrestling.net/site/2026/07/13/aew-full-gear-date-and-location-announced-2/
+    last_verified: '2026-07-21'
+    notes: Mortgage Matchup Center, Phoenix, Arizona.
 - id: motorsport
   name: Pyros · Motorsport
   description: Non-F1 marquee motorsport (F1 is a separate auto-updating feed)
@@ -524,6 +591,41 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'Confirmed via Paramount/BET press release: BET Awards set for June 28, 2027; BETX in LA Jun
       25-27. Corrected from Jun 27.'
+  - summary: 'Star Trek: Strange New Worlds S4 — Premiere (Paramount+)'
+    start: '2026-07-23'
+    source_url: https://variety.com/2026/tv/news/star-trek-strange-new-worlds-season-4-release-date-1236730007/
+    last_verified: '2026-07-21'
+    notes: Paramount+ — Season 4 premiere; 10 episodes weekly on Thursdays through finale 24 Sep 2026.
+      Part of Star Trek's 60th-anniversary year.
+  - summary: Ted Lasso S4 — Premiere (Apple TV)
+    start: '2026-08-05'
+    source_url: https://www.apple.com/tv-pr/news/2026/04/apple-tvs-emmy-award-winning-global-smash-hit-series-ted-lasso-returns-for-season-four-on-wednesday-august-5/
+    last_verified: '2026-07-21'
+    notes: Apple TV+ — Season 4 premiere after a three-year hiatus; 10 episodes weekly on Wednesdays through
+      7 Oct 2026. Confirmed by Apple TV press.
+  - summary: House of the Dragon S3 — Finale (HBO / HBO Max)
+    start: '2026-08-09'
+    source_url: https://deadline.com/2026/06/house-of-the-dragon-season-3-release-schedule-new-episodes-1236966652/
+    last_verified: '2026-07-21'
+    notes: HBO / HBO Max — Season 3 finale (in-window event). Season premiered 21 Jun 2026 (before window);
+      8 episodes aired weekly on Sundays, concluding 9 Aug 2026.
+  - summary: Slow Horses S6 — Premiere (Apple TV)
+    start: '2026-09-16'
+    source_url: https://www.apple.com/tv-pr/news/2026/06/apple-tv-unveils-first-look-at-season-six-of-emmy-and-bafta-award-winning-espionage-drama-slow-horses-starring-academy-award-winner-sir-gary-oldman/
+    last_verified: '2026-07-21'
+    notes: Apple TV+ — Season 6 premiere; 6 episodes weekly on Wednesdays through 21 Oct 2026. Confirmed
+      by Apple TV press.
+  - summary: 'The Lord of the Rings: The Rings of Power S3 — Premiere (Prime Video)'
+    start: '2026-11-11'
+    source_url: https://press.amazonmgmstudios.com/us/en/press-release/prime-video-confirms-season-three-premiere-date-of
+    last_verified: '2026-07-21'
+    notes: Prime Video — Season 3 premiere; depicts the War of the Elves and Sauron and the Fall of Numenor.
+      Date confirmed at Prime Video Upfronts and by Amazon MGM press.
+  - summary: Percy Jackson and the Olympians S3 — Premiere (Disney+)
+    start: '2026-11-20'
+    source_url: https://www.imdb.com/news/ni65669032/
+    last_verified: '2026-07-21'
+    notes: Disney+ — Season 3 premiere, adapting 'The Titan's Curse'. Premiere date confirmed by Disney+.
 - id: music-festivals
   name: Pyros · Music & Festivals
   description: Major music festivals (one entry per festival)

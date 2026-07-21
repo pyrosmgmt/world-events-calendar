@@ -250,4 +250,20 @@ DESCRIPTION:Confirmed via MLB.com: All-Star Game Tue Jul 13 2027 at Wrigle
 TRANSP:TRANSPARENT
 URL:https://www.mlb.com/news/2027-mlb-all-star-game-at-wrigley-field
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] WNBA Finals 2026 (Game 1)
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DTSTAMP:20260721T000000Z
+UID:tbc-wnba-finals-2026-game-1-2026-10-04@us-sporting.pyros-world-events-
+ calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. WNBA has
+  not announced Playoffs/Finals dates ('Stay tuned for... WNBA Finals dates
+ !'). CONFIRMED context: regular season ends Thu 24 Sep 2026\, so Finals fa
+ ll in early-to-mid October 2026 per recent seasons. Start date is an estim
+ ate\, not official.\nSource: https://www.wnba.com/news/2026-regular-season
+ -key-dates\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.wnba.com/news/2026-regular-season-key-dates
+END:VEVENT
 END:VCALENDAR
