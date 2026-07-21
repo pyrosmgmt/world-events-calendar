@@ -1,0 +1,122 @@
+id: combat-sports
+name: "Pyros · Combat Sports"
+description: "Marquee boxing & crossover cards (UFC/MMA via separate auto-feed)"
+# Curated 2026-07-21. Window: 2026-07-21 -> 2027-07-31. BOXING + Misfits/crossover only (no UFC/MMA).
+# Boxing marquee cards are typically only announced ~2-3 months out, so firm-dated events
+# thin out sharply after Sept 2026 and nothing beyond is confirmed yet. Quality over quantity.
+events:
+  # ---- Late July 2026 (heavyweight comebacks / marquee returns) ----
+  - summary: "Tyson Fury vs Mariusz Wach"
+    start: "2026-07-24"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "Heavyweight; Pattaya, Thailand. Fury comeback bout. Confirmed via CBS Sports boxing schedule."
+
+  - summary: "Anthony Joshua vs Kristian Prenga"
+    start: "2026-07-25"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "Heavyweight; Riyadh, Saudi Arabia (DAZN). Card also features Hamzah Sheeraz WBO super-middleweight defence. Confirmed via CBS Sports / Sky Sports."
+
+  - summary: "Errol Spence Jr vs Tim Tszyu"
+    start: "2026-07-25"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "Junior middleweight; Sydney, Australia (Prime Video). Spence comeback. Confirmed via CBS Sports."
+
+  - summary: "Zuffa Boxing: Edgar Berlanga vs Steven Butler"
+    start: "2026-07-26"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "Super middleweight; Madison Square Garden, NYC (Paramount+). Richardson Hitchins vs Ricardo Salas co-feature. Confirmed via CBS Sports / Sky Sports."
+
+  # ---- August 2026 ----
+  - summary: "Lamont Roach vs William Zepeda"
+    start: "2026-08-01"
+    source_url: "https://www.dazn.com/en-US/news/boxing/dazn-boxing-schedule-2026-fight-dates-and-live-stream-for-confirmed-cards/ehgk0syi2n4a13u2yglrd8h84"
+    last_verified: "2026-07-21"
+    notes: "Lightweight; The Theater at Virgin Hotels, Las Vegas (DAZN). Muratalla vs Conceicao IBF lightweight title on undercard. Confirmed via DAZN boxing schedule."
+
+  - summary: "Aaron McKenna vs Etinosa Oliha (vacant IBF middleweight title)"
+    start: "2026-08-08"
+    source_url: "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
+    last_verified: "2026-07-21"
+    notes: "Vacant IBF world middleweight title; 3Arena, Dublin (Sky Sports). Callum Walsh vs Tyler Denny co-feature. Confirmed via Sky Sports."
+
+  - summary: "Cherneka Johnson vs Dina Thorslund (undisputed bantamweight titles)"
+    start: "2026-08-09"
+    source_url: "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
+    last_verified: "2026-07-21"
+    notes: "Undisputed women's bantamweight; Caribe Royale Resort, Orlando (Sky Sports / ESPN+). Confirmed via Sky Sports."
+
+  - summary: "Claressa Shields vs Kaye Scott (unified middleweight titles)"
+    start: "2026-08-15"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "Unified women's middleweight (WBC & WBA); Atlanta, USA (DAZN). Confirmed via CBS Sports / Sky Sports."
+
+  - summary: "Rolly Romero vs Teofimo Lopez (WBA welterweight title)"
+    start: "2026-08-22"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "WBA welterweight title; T-Mobile Arena, Las Vegas (DAZN PPV). Confirmed via CBS Sports / Sky Sports."
+
+  - summary: "Moses Itauma vs Filip Hrgovic"
+    start: "2026-08-29"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "Heavyweight; London, England (DAZN PPV). Confirmed via CBS Sports / Sky Sports."
+
+  - summary: "Chantelle Cameron vs Mikaela Mayer (unified junior middleweight titles)"
+    start: "2026-08-29"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "Unified women's junior/super-middleweight; BP Pulse LIVE Arena, Birmingham, England (ESPN+). Caroline Dubois vs Amelia Moore co-feature. Confirmed via CBS Sports / Sky Sports."
+
+  # ---- September 2026 ----
+  - summary: "Katie Taylor vs Flora Pili (undisputed super-lightweight titles)"
+    start: "2026-09-05"
+    source_url: "https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more"
+    last_verified: "2026-07-21"
+    notes: "Undisputed women's super-lightweight; Croke Park, Dublin (DAZN). Confirmed via CBS Sports / Sky Sports."
+
+  - summary: "Canelo Alvarez vs Christian Mbilli (WBC super middleweight title)"
+    start: "2026-09-12"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "WBC super middleweight title; Riyadh, Saudi Arabia (DAZN). Confirmed via CBS Sports / Sky Sports (both list 12 Sep)."
+
+  - summary: "Ryan Garcia vs Conor Benn (WBC welterweight title)"
+    start: "2026-09-12"
+    source_url: "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/"
+    last_verified: "2026-07-21"
+    notes: "WBC welterweight title; Las Vegas, USA (Zuffa Boxing / Paramount+). Confirmed via CBS Sports / Sky Sports."
+
+  # ---- Misfits / crossover (influencer boxing, DAZN) ----
+  - summary: "Misfits Boxing: Jordan McCann vs Big Stacks"
+    start: "2026-09-12"
+    source_url: "https://en.wikipedia.org/wiki/2026_in_Misfits_Boxing_and_MF_Pro"
+    last_verified: "2026-07-21"
+    notes: "Crossover/influencer card (DAZN); Newcastle Arena, Newcastle upon Tyne, England. Headline bout announced 25 June 2026. Confirmed via Wikipedia (2026 in Misfits Boxing)."
+
+  - summary: "Misfits Boxing (September card - card TBA)"
+    start: "2026-09-26"
+    source_url: "https://en.wikipedia.org/wiki/2026_in_Misfits_Boxing_and_MF_Pro"
+    last_verified: "2026-07-21"
+    notes: "Crossover/influencer (DAZN). Date announced 17 July 2026 in Misfits' Q4 schedule; main event not yet named. Date confirmed via Wikipedia."
+
+  - summary: "Misfits Boxing (October card - card TBA)"
+    start: "2026-10-10"
+    source_url: "https://en.wikipedia.org/wiki/2026_in_Misfits_Boxing_and_MF_Pro"
+    last_verified: "2026-07-21"
+    notes: "Crossover/influencer (DAZN). Date announced 17 July 2026 in Misfits' Q4 schedule; main event not yet named. Date confirmed via Wikipedia."
+
+  - summary: "Misfits Mania 2 (year-end card - card TBA)"
+    start: "2026-12-05"
+    source_url: "https://en.wikipedia.org/wiki/2026_in_Misfits_Boxing_and_MF_Pro"
+    last_verified: "2026-07-21"
+    notes: "Annual Misfits Mania flagship crossover event (DAZN). Date announced 17 July 2026 in Misfits' Q4 schedule; main event not yet named. Date confirmed via Wikipedia."
+
+  # ---- 2027: nothing firmly dated as of 2026-07-21 ----
+  # Boxing marquee cards are announced ~2-3 months out; no in-window 2027 card had a confirmed
+  # date at curation time. Refresh quarterly (ESPN/BoxRec/Matchroom/Queensberry/DAZN/Misfits).

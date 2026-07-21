@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//entertainment-pop-culture//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Award shows\, blockbuster releases & major pop-culture moment
+ s (curated)
+X-WR-CALNAME:Pyros · Entertainment & Pop Culture
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day (theatrical release)
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20260721T000000Z
+UID:spider-man-brand-new-day-theatrical-release-2026-07-31@entertainment-p
+ op-culture.pyros-world-events-calendar
+DESCRIPTION:Confirmed via Marvel/Sony\; moved from Jul 24 to Jul 31\, 2026
+ . Tentpole summer blockbuster.\nSource: https://www.marvel.com/movies/spid
+ er-man-brand-new-day\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.marvel.com/movies/spider-man-brand-new-day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime Emmy Awards 2026 (78th)
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260721T000000Z
+UID:primetime-emmy-awards-2026-78th-2026-09-14@entertainment-pop-culture.p
+ yros-world-events-calendar
+DESCRIPTION:Confirmed: Mon Sep 14\, 2026 at Peacock Theater\, LA (NBC/Peac
+ ock). Host Mariska Hargitay.\nSource: https://www.nbc.com/nbc-insider/2026
+ -emmys-air-date-host-nominees-details\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nbc.com/nbc-insider/2026-emmys-air-date-host-nominees-deta
+ ils
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MTV Video Music Awards 2026
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260721T000000Z
+UID:mtv-video-music-awards-2026-2026-09-27@entertainment-pop-culture.pyros
+ -world-events-calendar
+DESCRIPTION:Confirmed: Sun Sep 27\, 2026\, Los Angeles (CBS/MTV simulcast)
+ . Corrected from feed's Sep 6.\nSource: https://www.billboard.com/music/aw
+ ards/2026-mtv-vmas-nickelodeon-kids-choice-awards-dates-1236223878/\nVerif
+ ied: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.billboard.com/music/awards/2026-mtv-vmas-nickelodeon-kids-
+ choice-awards-dates-1236223878/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday (theatrical release)
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20260721T000000Z
+UID:avengers-doomsday-theatrical-release-2026-12-18@entertainment-pop-cult
+ ure.pyros-world-events-calendar
+DESCRIPTION:Confirmed via Marvel Studios/Disney\; Fri Dec 18\, 2026. Major
+  franchise tentpole.\nSource: https://www.marvel.com/movies/avengers-dooms
+ day\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.marvel.com/movies/avengers-doomsday
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Critics Choice Awards 2027 (32nd)
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20260721T000000Z
+UID:critics-choice-awards-2027-32nd-2027-01-03@entertainment-pop-culture.p
+ yros-world-events-calendar
+DESCRIPTION:Confirmed via Critics Choice Association: Sun Jan 3\, 2027\, B
+ arker Hangar (E!/USA). Corrected from Jan 17.\nSource: https://www.critics
+ choice.com/2026/04/20/32nd-annual-critics-choice-awards-to-be-held-on-sund
+ ay-january-3-2027-at-the-barker-hangar/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.criticschoice.com/2026/04/20/32nd-annual-critics-choice-aw
+ ards-to-be-held-on-sunday-january-3-2027-at-the-barker-hangar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden Globe Awards 2027 (84th)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20260721T000000Z
+UID:golden-globe-awards-2027-84th-2027-01-10@entertainment-pop-culture.pyr
+ os-world-events-calendar
+DESCRIPTION:Confirmed: Sun Jan 10\, 2027 (CBS/Paramount+). Host Nikki Glas
+ er.\nSource: https://www.hollywoodreporter.com/movies/movie-news/golden-gl
+ obes-nominations-date-key-awards-deadlines-1236589222/\nVerified: 2026-07-
+ 21
+TRANSP:TRANSPARENT
+URL:https://www.hollywoodreporter.com/movies/movie-news/golden-globes-nomi
+ nations-date-key-awards-deadlines-1236589222/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grammy Awards 2027 (69th)
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20260721T000000Z
+UID:grammy-awards-2027-69th-2027-02-07@entertainment-pop-culture.pyros-wor
+ ld-events-calendar
+DESCRIPTION:Confirmed via Recording Academy: Sun Feb 7\, 2027\, Crypto.com
+  Arena LA (ABC/Disney+/Hulu). Corrected from Feb 1.\nSource: https://www.r
+ ecordingacademy.com/press-releases/2027-grammys-show-air-date-nominations-
+ announced\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.recordingacademy.com/press-releases/2027-grammys-show-air-
+ date-nominations-announced
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAFTA Film Awards 2027 (80th)
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20260721T000000Z
+UID:bafta-film-awards-2027-80th-2027-02-14@entertainment-pop-culture.pyros
+ -world-events-calendar
+DESCRIPTION:Confirmed: Sun Feb 14\, 2027\, Royal Festival Hall\, London (p
+ er BAFTA + trade press).\nSource: https://www.bafta.org/awards/awards-info
+ rmation/film/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.bafta.org/awards/awards-information/film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAG Awards / The Actor Awards 2027 (33rd)
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+DTSTAMP:20260721T000000Z
+UID:sag-awards-the-actor-awards-2027-33rd-2027-02-28@entertainment-pop-cul
+ ture.pyros-world-events-calendar
+DESCRIPTION:Confirmed via SAG-AFTRA/Netflix: Sun Feb 28\, 2027 (streams li
+ ve on Netflix). Corrected from Feb 27\; now branded 'The Actor Awards'.\nS
+ ource: https://www.netflix.com/tudum/articles/actor-awards-sag-aftra-2027-
+ 2028-date-time\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.netflix.com/tudum/articles/actor-awards-sag-aftra-2027-202
+ 8-date-time
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Academy Awards (Oscars) 2027 (99th)
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20260721T000000Z
+UID:academy-awards-oscars-2027-99th-2027-03-14@entertainment-pop-culture.p
+ yros-world-events-calendar
+DESCRIPTION:Confirmed via Academy press office: Sun Mar 14\, 2027\, Dolby 
+ Theatre (ABC). Noms Jan 21\, 2027. Host Conan O'Brien.\nSource: https://pr
+ ess.oscars.org/news/academy-and-abc-announce-show-dates-99th-and-100th-osc
+ arsr\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://press.oscars.org/news/academy-and-abc-announce-show-dates-99th
+ -and-100th-oscarsr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Gala 2027
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20260721T000000Z
+UID:met-gala-2027-2027-05-03@entertainment-pop-culture.pyros-world-events-
+ calendar
+DESCRIPTION:First Monday of May 2027 (reliable annual rule\; Costume Insti
+ tute). Feed omits it\, added manually.\nSource: https://www.metmuseum.org\
+ nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.metmuseum.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: Starfighter (theatrical release)
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+DTSTAMP:20260721T000000Z
+UID:star-wars-starfighter-theatrical-release-2027-05-28@entertainment-pop-
+ culture.pyros-world-events-calendar
+DESCRIPTION:Confirmed via Lucasfilm/Disney: Fri May 28\, 2027. Ryan Goslin
+ g\; dir. Shawn Levy.\nSource: https://thewaltdisneycompany.com/news/star-w
+ ars-starfighter/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://thewaltdisneycompany.com/news/star-wars-starfighter/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Tony Awards 2027 (80th)
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+DTSTAMP:20260721T000000Z
+UID:tbc-tony-awards-2027-80th-2027-06-13@entertainment-pop-culture.pyros-w
+ orld-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21 (American
+  Theatre Wing lists 80th ceremony as forthcoming). Date is a mid-June esti
+ mate.\nSource: https://www.tonyawards.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.tonyawards.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BET Awards 2027
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260721T000000Z
+UID:bet-awards-2027-2027-06-28@entertainment-pop-culture.pyros-world-event
+ s-calendar
+DESCRIPTION:Confirmed via Paramount/BET press release: BET Awards set for 
+ June 28\, 2027\; BETX in LA Jun 25-27. Corrected from Jun 27.\nSource: htt
+ ps://www.paramountpressexpress.com/bet/releases/?view=112401-cultures-bigg
+ est-week-dates-announced-bet-awards-set-for-june-28-betx-returns-to-los-an
+ geles-june-25-27\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.paramountpressexpress.com/bet/releases/?view=112401-cultur
+ es-biggest-week-dates-announced-bet-awards-set-for-june-28-betx-returns-to
+ -los-angeles-june-25-27
+END:VEVENT
+END:VCALENDAR

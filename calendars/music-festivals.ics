@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//music-festivals//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Major music festivals (one entry per festival)
+X-WR-CALNAME:Pyros · Music & Festivals
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Lollapalooza 2026
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260721T000000Z
+UID:lollapalooza-2026-2026-07-30@music-festivals.pyros-world-events-calend
+ ar
+DESCRIPTION:Chicago\; confirmed official.\nSource: https://www.lollapalooz
+ a.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.lollapalooza.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading & Leeds 2026
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260721T000000Z
+UID:reading-leeds-2026-2026-08-27@music-festivals.pyros-world-events-calen
+ dar
+DESCRIPTION:UK\; confirmed.\nSource: https://www.readingandleedsfestival.c
+ om\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.readingandleedsfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin City Limits 2026
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260721T000000Z
+UID:austin-city-limits-2026-2026-10-02@music-festivals.pyros-world-events-
+ calendar
+DESCRIPTION:Confirmed\; spans both weekends (Oct 2-4 & Oct 9-11).\nSource:
+  https://www.aclfestival.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.aclfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Tomorrowland Winter 2027
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270328
+DTSTAMP:20260721T000000Z
+UID:tbc-tomorrowland-winter-2027-2027-03-20@music-festivals.pyros-world-ev
+ ents-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21 (Alpe d'H
+ uez\; reported dates only).\nSource: https://www.tomorrowland.com\nVerifie
+ d: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.tomorrowland.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultra Music Festival 2027
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20260721T000000Z
+UID:ultra-music-festival-2027-2027-03-26@music-festivals.pyros-world-event
+ s-calendar
+DESCRIPTION:CONFIRMED on official site: Mar 26-28\, 2027\, Bayfront Park\,
+  Miami.\nSource: https://ultramusicfestival.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://ultramusicfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coachella 2027
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270419
+DTSTAMP:20260721T000000Z
+UID:coachella-2027-2027-04-09@music-festivals.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED (official announcement Apr 2026)\; spans both weeken
+ ds (Apr 9-11 & Apr 16-18)\, Empire Polo Club\, Indio.\nSource: https://www
+ .coachella.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.coachella.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EDC Las Vegas 2027
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20260721T000000Z
+UID:edc-las-vegas-2027-2027-05-14@music-festivals.pyros-world-events-calen
+ dar
+DESCRIPTION:CONFIRMED on official site: new 'Dusk Till Dawn' format — Du
+ sk May 14-16 & Dawn May 21-23\, 2027\, Las Vegas Motor Speedway.\nSource: 
+ https://lasvegas.electricdaisycarnival.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://lasvegas.electricdaisycarnival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glastonbury 2027
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20260721T000000Z
+UID:glastonbury-2027-2027-06-23@music-festivals.pyros-world-events-calenda
+ r
+DESCRIPTION:CONFIRMED on official site: Wed 23 – Sun 27 Jun 2027\, Worth
+ y Farm (2026 was a fallow year).\nSource: https://www.glastonburyfestivals
+ .co.uk/info/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.glastonburyfestivals.co.uk/info/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Tomorrowland Belgium 2027
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270727
+DTSTAMP:20260721T000000Z
+UID:tbc-tomorrowland-belgium-2027-2027-07-17@music-festivals.pyros-world-e
+ vents-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21\; reporte
+ d two weekends (Jul 16-18/17-19 & Jul 23-25/24-26)\, Boom.\nSource: https:
+ //www.tomorrowland.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.tomorrowland.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//shopping-events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Retail/e-commerce tentpoles (dates computed from weekday rule
+ s)
+X-WR-CALNAME:Pyros · Shopping Events
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Back-to-School Peak (2026)
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+DTSTAMP:20260721T000000Z
+UID:back-to-school-peak-2026-2026-08-01@shopping-events.pyros-world-events
+ -calendar
+DESCRIPTION:TENTATIVE: season not a single day\; anchored early August per
+  research.\nSource: https://www.officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Labor Day Sales (2026)
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260721T000000Z
+UID:us-labor-day-sales-2026-2026-09-07@shopping-events.pyros-world-events-
+ calendar
+DESCRIPTION:1st Monday of September 2026 (computed).\nSource: https://www.
+ officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singles' Day (2026)
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20260721T000000Z
+UID:singles-day-2026-2026-11-11@shopping-events.pyros-world-events-calenda
+ r
+DESCRIPTION:Fixed Nov 11 (global\, China-origin).\nSource: https://www.off
+ iceholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thanksgiving (US) 2026
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20260721T000000Z
+UID:thanksgiving-us-2026-2026-11-26@shopping-events.pyros-world-events-cal
+ endar
+DESCRIPTION:4th Thursday of November 2026 (computed).\nSource: https://www
+ .officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Friday (2026)
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260721T000000Z
+UID:black-friday-2026-2026-11-27@shopping-events.pyros-world-events-calend
+ ar
+DESCRIPTION:Day after US Thanksgiving (computed).\nSource: https://www.off
+ iceholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Business Saturday (2026)
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20260721T000000Z
+UID:small-business-saturday-2026-2026-11-28@shopping-events.pyros-world-ev
+ ents-calendar
+DESCRIPTION:Saturday after Thanksgiving (computed).\nSource: https://www.o
+ fficeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cyber Monday (2026)
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260721T000000Z
+UID:cyber-monday-2026-2026-11-30@shopping-events.pyros-world-events-calend
+ ar
+DESCRIPTION:Monday after Thanksgiving (computed).\nSource: https://www.off
+ iceholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Monday (2026)
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20260721T000000Z
+UID:green-monday-2026-2026-12-14@shopping-events.pyros-world-events-calend
+ ar
+DESCRIPTION:2nd Monday of December 2026 (computed).\nSource: https://www.o
+ fficeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing Day (2026)
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20260721T000000Z
+UID:boxing-day-2026-2026-12-26@shopping-events.pyros-world-events-calendar
+DESCRIPTION:Fixed Dec 26 (UK / CA / AU).\nSource: https://www.officeholida
+ ys.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Year Sales (2027)
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260721T000000Z
+UID:new-year-sales-2027-2027-01-01@shopping-events.pyros-world-events-cale
+ ndar
+DESCRIPTION:Fixed Jan 1 (global).\nSource: https://www.officeholidays.com\
+ nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valentine's Day (2027)
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20260721T000000Z
+UID:valentines-day-2027-2027-02-14@shopping-events.pyros-world-events-cale
+ ndar
+DESCRIPTION:Fixed Feb 14 (global).\nSource: https://www.officeholidays.com
+ \nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Presidents' Day Sales (2027)
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+DTSTAMP:20260721T000000Z
+UID:us-presidents-day-sales-2027-2027-02-15@shopping-events.pyros-world-ev
+ ents-calendar
+DESCRIPTION:3rd Monday of February 2027 (computed).\nSource: https://www.o
+ fficeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Memorial Day Sales (2027)
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DTSTAMP:20260721T000000Z
+UID:us-memorial-day-sales-2027-2027-05-31@shopping-events.pyros-world-even
+ ts-calendar
+DESCRIPTION:Last Monday of May 2027 (computed).\nSource: https://www.offic
+ eholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+END:VCALENDAR

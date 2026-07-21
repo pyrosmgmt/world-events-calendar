@@ -1,0 +1,834 @@
+# Pyros World Events Calendar — curated events (single source of truth).
+# Regenerate calendars after editing: python tools/generate_ics.py
+
+meta:
+  project: Pyros World Events Calendar
+  compiled: '2026-07-21'
+  window: 2026-07-21 to 2027-07-31
+calendars:
+- id: uk-sporting
+  name: Pyros · UK Sporting
+  description: UK marquee sporting tentpoles (curated; season-level, not per-fixture)
+  events:
+  - summary: The Hundred 2026
+    start: '2026-07-21'
+    end: '2026-08-16'
+    source_url: https://www.mynewsdesk.com/uk/england-and-wales-cricket-board/pressreleases/the-hundred-back-for-2026-3428995
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via ECB: opens Kia Oval 21 Jul, final at Lord''s 16 Aug 2026.'
+  - summary: QIPCO British Champions Day 2026
+    start: '2026-10-17'
+    source_url: https://www.ascot.com/racedays/champions-day
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Ascot: Saturday 17 October 2026 (Britain''s richest raceday).'
+  - summary: PDC World Darts Championship 2026
+    start: '2026-12-10'
+    end: '2027-01-03'
+    source_url: https://en.wikipedia.org/wiki/2026_PDC_World_Darts_Championship
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Alexandra Palace, 10 Dec 2026 - 3 Jan 2027 (34th PDC Worlds).'
+  - summary: Six Nations 2027 — Super Saturday
+    start: '2027-03-13'
+    source_url: https://www.sixnationsrugby.com/en/m6n/news/mens-six-nations-2027-fixtures-and-schedule-confirmed
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Six Nations: final round Super Saturday is 13 March 2027 (tournament opens 5
+      Feb).'
+  - summary: Cheltenham Festival 2027
+    start: '2027-03-16'
+    end: '2027-03-19'
+    source_url: https://www.thejockeyclub.co.uk/cheltenham-festival/about-the-event/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via The Jockey Club: 16-19 March 2027 (Gold Cup Day 19 Mar).'
+  - summary: Grand National 2027
+    start: '2027-04-10'
+    source_url: https://www.thejockeyclub.co.uk/the-grand-national/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via The Jockey Club: Grand National Day is Saturday 10 April 2027 (Aintree festival
+      8-10 Apr).'
+  - summary: The Boat Race 2027
+    start: '2027-04-11'
+    source_url: https://www.theboatrace.org/news/the-chanel-j12-boat-race-2027-date-confirmed
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via theboatrace.org: Sunday 11 April 2027 (corrected from earlier late-March estimate).'
+  - summary: Snooker World Championship 2027
+    start: '2027-04-17'
+    end: '2027-05-03'
+    source_url: https://en.wikipedia.org/wiki/2027_World_Snooker_Championship
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Crucible, Sheffield, 17 April - 3 May 2027 (centenary edition).'
+  - summary: TCS London Marathon 2027
+    start: '2027-04-24'
+    end: '2027-04-25'
+    source_url: https://www.londonmarathonevents.co.uk/london-marathon/article/2027-double-tcs-london-marathon-ballot-results-announced-today
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via London Marathon Events: one-off two-day event 24-25 April 2027 (corrected from
+      single-day estimate).'
+  - summary: FA Cup Final 2027
+    start: '2027-05-22'
+    source_url: https://www.thefa.com/competitions/thefacup/round-dates
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via The FA official round dates: Saturday 22 May 2027 at Wembley.'
+  - summary: The Derby (Epsom) 2027
+    start: '2027-06-05'
+    source_url: https://www.thejockeyclub.co.uk/epsom-derby/plan-your-day/when-and-what-time/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via The Jockey Club: Derby Day is Saturday 5 June 2027 (Derby Festival 4-5 Jun).'
+  - summary: Royal Ascot 2027
+    start: '2027-06-15'
+    end: '2027-06-19'
+    source_url: https://www.ascot.com/royal-ascot-2027
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Ascot: Tuesday 15 - Saturday 19 June 2027.'
+  - summary: '[TBC] The Ashes 2027 (1st Test, England)'
+    start: '2027-06-23'
+    source_url: https://www.ecb.co.uk
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. 2027 home Ashes confirmed for England
+      (June-Aug 2027, 1st Test Edgbaston) but ECB has not published exact Test dates; date is a best estimate.
+      Replaces an erroneous Nov-2026 Brisbane entry (the 2025-26 away Ashes had already concluded).'
+  - summary: Wimbledon 2027
+    start: '2027-06-28'
+    end: '2027-07-11'
+    source_url: https://www.wimbledon.com/en_GB/the_championships/dates
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Wimbledon.com future dates: 28 June - 11 July 2027.'
+- id: us-sporting
+  name: Pyros · US Sporting
+  description: US marquee sporting tentpoles (curated; championship/season level)
+  events:
+  - summary: US Open Tennis 2026
+    start: '2026-08-30'
+    end: '2026-09-13'
+    source_url: https://www.usopen.org/en_US/news/articles/2025-12-11/2026_us_open_tournament_dates.html
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via official usopen.org: main-draw singles Aug 30 - Sep 13 2026, finals weekend
+      Sep 12-13 (Fan Week/qualifying begins Aug 23).'
+  - summary: NFL Kickoff Game 2026
+    start: '2026-09-09'
+    source_url: https://www.nfl.com/news/seahawks-to-kick-off-2026-nfl-regular-season-on-wednesday-sept-9-in-seattle
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via NFL.com: Seahawks host Patriots at Lumen Field on Wed Sep 9 2026 (first Wednesday
+      opener in 75 years).'
+  - summary: NBA Opening Night 2026
+    start: '2026-10-20'
+    source_url: https://www.nbc.com/nbc-insider/when-does-the-2026-2027-nba-season-start
+    last_verified: '2026-07-21'
+    notes: 'Confirmed tip-off: 2026-27 regular season opens Tue Oct 20 2026 on NBC; full schedule/matchups
+      release mid-August 2026.'
+  - summary: MLB World Series 2026 (Game 1)
+    start: '2026-10-23'
+    source_url: https://www.mlb.com/schedule
+    last_verified: '2026-07-21'
+    notes: 'Confirmed scheduled slot: World Series Game 1 Fri Oct 23 2026 (Game 7 if needed Oct 31); on
+      FOX.'
+  - summary: NFL Thanksgiving Games 2026
+    start: '2026-11-26'
+    source_url: https://media.nfl.com/football-information/2026/news/2026-nfl-schedule-announced
+    last_verified: '2026-07-21'
+    notes: Confirmed on the released 2026 NFL schedule; Thanksgiving = 4th Thursday of Nov 2026.
+  - summary: NFL Playoffs Begin 2027 (Super Wild Card Weekend)
+    start: '2027-01-16'
+    source_url: https://www.nfl.com
+    last_verified: '2026-07-21'
+    notes: Super Wild Card Weekend Jan 16-18 2027, aligned to the officially confirmed Super Bowl LXI
+      date (Feb 14) and fixed NFL postseason structure.
+  - summary: College Football Playoff National Championship 2027
+    start: '2027-01-25'
+    source_url: https://collegefootballplayoff.com/news/2025/1/24/vegas-27.aspx
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via official CFP release: Mon Jan 25 2027 at Allegiant Stadium, Las Vegas (title
+      game for the 2026 season).'
+  - summary: Super Bowl LXI (2027)
+    start: '2027-02-14'
+    source_url: https://www.nfl.com/news/sofi-stadium-approved-to-host-super-bowl-lxi-in-2027
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via NFL.com: Sun Feb 14 2027 at SoFi Stadium, Inglewood CA (on ESPN/ABC).'
+  - summary: NBA All-Star Weekend 2027
+    start: '2027-02-19'
+    end: '2027-02-21'
+    source_url: https://www.nba.com/news/phoenix-suns-nba-all-star-2027-official-release
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via NBA.com: All-Star Weekend Feb 19-21 2027 in Phoenix; 76th All-Star Game on Sun
+      Feb 21.'
+  - summary: MLB Opening Day 2027
+    start: '2027-03-25'
+    source_url: https://www.mlb.com/news/mlb-2027-schedule-released
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via MLB.com released 2027 schedule: traditional Opening Day Thu Mar 25 2027 (14
+      games); Netflix Opening Night game Mar 24. Earliest Opening Day in MLB history.'
+  - summary: March Madness — Final Four 2027
+    start: '2027-04-03'
+    end: '2027-04-05'
+    source_url: https://www.ncaa.com/news/basketball-men/article/2026-05-07/2027-march-madness-mens-ncaa-tournament-schedule-dates
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via NCAA.com: men''s national semifinals Sat Apr 3 and championship Mon Apr 5 2027
+      at Ford Field, Detroit.'
+  - summary: The Masters 2027
+    start: '2027-04-08'
+    end: '2027-04-11'
+    source_url: https://www.masters.com
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: tournament rounds Thu Apr 8 - Sun Apr 11 2027 at Augusta National.'
+  - summary: NFL Draft 2027
+    start: '2027-04-29'
+    end: '2027-05-01'
+    source_url: https://www.nfl.com/news/nfl-announces-dates-for-2027-draft-in-washington-d-c
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via NFL.com: Apr 29 - May 1 2027 in Washington, D.C. (Round 1 Apr 29).'
+  - summary: Kentucky Derby 2027
+    start: '2027-05-01'
+    source_url: https://www.kentuckyderby.com
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via kentuckyderby.com: 153rd Kentucky Derby Sat May 1 2027 at Churchill Downs (Oaks
+      Apr 30).'
+  - summary: '[TBC] NHL Stanley Cup Final 2027 (Game 1)'
+    start: '2027-06-02'
+    source_url: https://www.nhl.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21 (Final dates depend on playoff progression;
+      projected early June 2027).'
+  - summary: '[TBC] NBA Finals 2027 (Game 1)'
+    start: '2027-06-03'
+    source_url: https://www.nba.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21 (Finals dates depend on playoff progression;
+      projected early June 2027).'
+  - summary: US Open (Golf) 2027
+    start: '2027-06-17'
+    end: '2027-06-20'
+    source_url: https://www.nbcsports.com/golf/news/where-is-the-2027-us-open-golf-championship-everything-to-know-for-pebble-beach
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: 2027 U.S. Open (golf) Thu Jun 17 - Sun Jun 20 2027 at Pebble Beach Golf Links,
+      CA.'
+  - summary: MLB All-Star Game 2027
+    start: '2027-07-13'
+    source_url: https://www.mlb.com/news/2027-mlb-all-star-game-at-wrigley-field
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via MLB.com: All-Star Game Tue Jul 13 2027 at Wrigley Field, Chicago (All-Star Week
+      Jul 9-13).'
+- id: global-sporting
+  name: Pyros · Global Sporting
+  description: Global mega sporting events (one entry per tournament)
+  events:
+  - summary: Tour de France 2026 — Final Stage
+    start: '2026-07-26'
+    source_url: https://www.letour.fr
+    last_verified: '2026-07-21'
+    notes: Only the final stage of the 2026 edition falls inside the window; rest of race concluded pre-window.
+  - summary: Rugby Nations Championship Finals 2026
+    start: '2026-11-27'
+    end: '2026-11-29'
+    source_url: https://www.world.rugby/beta/en/tournaments/nations-championship/2026
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: inaugural Nations Championship Finals Weekend at Allianz Stadium (Twickenham),
+      Fri 27–Sun 29 Nov 2026; Grand Final Sun 29 Nov.'
+  - summary: UEFA Champions League Final 2027
+    start: '2027-06-05'
+    source_url: https://www.uefa.com/uefachampionsleague/news/029d-1eb2d5faf53c-d67c9fed04fa-1000--2027-uefa-champions-league-final-estadio-metropolitano-m/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED by UEFA: Saturday 5 June 2027, Estadio Metropolitano, Madrid.'
+  - summary: Tour de France 2027
+    start: '2027-07-02'
+    end: '2027-07-25'
+    source_url: https://www.letourgb.com
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: Grand Départ Grande-Bretagne — Stage 1 Edinburgh–Carlisle Fri 2 Jul 2027 (official
+      letourgb.com/ASO); finishes Paris Sun 25 Jul 2027. Full edition in-window.'
+- id: combat-sports
+  name: Pyros · Combat Sports
+  description: Marquee boxing & crossover cards (UFC/MMA via separate auto-feed)
+  events:
+  - summary: Tyson Fury vs Mariusz Wach
+    start: '2026-07-24'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: Heavyweight; Pattaya, Thailand. Fury comeback bout. Confirmed via CBS Sports boxing schedule.
+  - summary: Anthony Joshua vs Kristian Prenga
+    start: '2026-07-25'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: Heavyweight; Riyadh, Saudi Arabia (DAZN). Card also features Hamzah Sheeraz WBO super-middleweight
+      defence. Confirmed via CBS Sports / Sky Sports.
+  - summary: Errol Spence Jr vs Tim Tszyu
+    start: '2026-07-25'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: Junior middleweight; Sydney, Australia (Prime Video). Spence comeback. Confirmed via CBS Sports.
+  - summary: 'Zuffa Boxing: Edgar Berlanga vs Steven Butler'
+    start: '2026-07-26'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: Super middleweight; Madison Square Garden, NYC (Paramount+). Richardson Hitchins vs Ricardo
+      Salas co-feature. Confirmed via CBS Sports / Sky Sports.
+  - summary: Lamont Roach vs William Zepeda
+    start: '2026-08-01'
+    source_url: https://www.dazn.com/en-US/news/boxing/dazn-boxing-schedule-2026-fight-dates-and-live-stream-for-confirmed-cards/ehgk0syi2n4a13u2yglrd8h84
+    last_verified: '2026-07-21'
+    notes: Lightweight; The Theater at Virgin Hotels, Las Vegas (DAZN). Muratalla vs Conceicao IBF lightweight
+      title on undercard. Confirmed via DAZN boxing schedule.
+  - summary: Aaron McKenna vs Etinosa Oliha (vacant IBF middleweight title)
+    start: '2026-08-08'
+    source_url: https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more
+    last_verified: '2026-07-21'
+    notes: Vacant IBF world middleweight title; 3Arena, Dublin (Sky Sports). Callum Walsh vs Tyler Denny
+      co-feature. Confirmed via Sky Sports.
+  - summary: Cherneka Johnson vs Dina Thorslund (undisputed bantamweight titles)
+    start: '2026-08-09'
+    source_url: https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more
+    last_verified: '2026-07-21'
+    notes: Undisputed women's bantamweight; Caribe Royale Resort, Orlando (Sky Sports / ESPN+). Confirmed
+      via Sky Sports.
+  - summary: Claressa Shields vs Kaye Scott (unified middleweight titles)
+    start: '2026-08-15'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: Unified women's middleweight (WBC & WBA); Atlanta, USA (DAZN). Confirmed via CBS Sports / Sky
+      Sports.
+  - summary: Rolly Romero vs Teofimo Lopez (WBA welterweight title)
+    start: '2026-08-22'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: WBA welterweight title; T-Mobile Arena, Las Vegas (DAZN PPV). Confirmed via CBS Sports / Sky
+      Sports.
+  - summary: Moses Itauma vs Filip Hrgovic
+    start: '2026-08-29'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: Heavyweight; London, England (DAZN PPV). Confirmed via CBS Sports / Sky Sports.
+  - summary: Chantelle Cameron vs Mikaela Mayer (unified junior middleweight titles)
+    start: '2026-08-29'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: Unified women's junior/super-middleweight; BP Pulse LIVE Arena, Birmingham, England (ESPN+).
+      Caroline Dubois vs Amelia Moore co-feature. Confirmed via CBS Sports / Sky Sports.
+  - summary: Katie Taylor vs Flora Pili (undisputed super-lightweight titles)
+    start: '2026-09-05'
+    source_url: https://www.skysports.com/boxing/news/12183/13491463/boxing-2026-fight-schedule-and-latest-results-tyson-fury-oleksandr-usyk-katie-taylor-and-more
+    last_verified: '2026-07-21'
+    notes: Undisputed women's super-lightweight; Croke Park, Dublin (DAZN). Confirmed via CBS Sports /
+      Sky Sports.
+  - summary: Canelo Alvarez vs Christian Mbilli (WBC super middleweight title)
+    start: '2026-09-12'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: WBC super middleweight title; Riyadh, Saudi Arabia (DAZN). Confirmed via CBS Sports / Sky Sports
+      (both list 12 Sep).
+  - summary: Ryan Garcia vs Conor Benn (WBC welterweight title)
+    start: '2026-09-12'
+    source_url: https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-deontay-wilder-tyson-fury-naoya-inoue/
+    last_verified: '2026-07-21'
+    notes: WBC welterweight title; Las Vegas, USA (Zuffa Boxing / Paramount+). Confirmed via CBS Sports
+      / Sky Sports.
+  - summary: 'Misfits Boxing: Jordan McCann vs Big Stacks'
+    start: '2026-09-12'
+    source_url: https://en.wikipedia.org/wiki/2026_in_Misfits_Boxing_and_MF_Pro
+    last_verified: '2026-07-21'
+    notes: Crossover/influencer card (DAZN); Newcastle Arena, Newcastle upon Tyne, England. Headline bout
+      announced 25 June 2026. Confirmed via Wikipedia (2026 in Misfits Boxing).
+  - summary: Misfits Boxing (September card - card TBA)
+    start: '2026-09-26'
+    source_url: https://en.wikipedia.org/wiki/2026_in_Misfits_Boxing_and_MF_Pro
+    last_verified: '2026-07-21'
+    notes: Crossover/influencer (DAZN). Date announced 17 July 2026 in Misfits' Q4 schedule; main event
+      not yet named. Date confirmed via Wikipedia.
+  - summary: Misfits Boxing (October card - card TBA)
+    start: '2026-10-10'
+    source_url: https://en.wikipedia.org/wiki/2026_in_Misfits_Boxing_and_MF_Pro
+    last_verified: '2026-07-21'
+    notes: Crossover/influencer (DAZN). Date announced 17 July 2026 in Misfits' Q4 schedule; main event
+      not yet named. Date confirmed via Wikipedia.
+  - summary: Misfits Mania 2 (year-end card - card TBA)
+    start: '2026-12-05'
+    source_url: https://en.wikipedia.org/wiki/2026_in_Misfits_Boxing_and_MF_Pro
+    last_verified: '2026-07-21'
+    notes: Annual Misfits Mania flagship crossover event (DAZN). Date announced 17 July 2026 in Misfits'
+      Q4 schedule; main event not yet named. Date confirmed via Wikipedia.
+- id: motorsport
+  name: Pyros · Motorsport
+  description: Non-F1 marquee motorsport (F1 is a separate auto-updating feed)
+  events:
+  - summary: MotoGP British Grand Prix (Silverstone) 2026
+    start: '2026-08-09'
+    source_url: https://www.motogp.com/en/news/2026/01/01/2026-motogp-calendar/755478
+    last_verified: '2026-07-21'
+    notes: Confirmed via official MotoGP 2026 calendar; Silverstone race Sunday, GP weekend Aug 7-9.
+  - summary: Petit Le Mans 2026 (Road Atlanta)
+    start: '2026-10-03'
+    source_url: https://www.imsa.com/events/2026-michelin-raceway-road-atlanta/
+    last_verified: '2026-07-21'
+    notes: Confirmed via IMSA; Motul Petit Le Mans 10-hour race Sat Oct 3 (event Sept 30-Oct 3).
+  - summary: MotoGP Valencia Grand Prix (Season Finale) 2026
+    start: '2026-11-22'
+    source_url: https://www.motogp.com/en/news/2026/01/01/2026-motogp-calendar/755478
+    last_verified: '2026-07-21'
+    notes: Confirmed via official MotoGP calendar; final 1000cc-era round, GP weekend Nov 20-22.
+  - summary: Rolex 24 At Daytona 2027
+    start: '2027-01-30'
+    end: '2027-01-31'
+    source_url: https://www.imsa.com/news/2026/01/13/daytona-international-speedway-announces-2027-rolex-24-date/
+    last_verified: '2026-07-21'
+    notes: Confirmed via IMSA; 65th running, 24h race green flag Sat Jan 30 to Sun Jan 31 (moved back
+      a week).
+  - summary: Daytona 500 (2027)
+    start: '2027-02-21'
+    source_url: https://www.daytonainternationalspeedway.com/2025/10/22/daytona-international-speedway-announces-2027-daytona-500-date/
+    last_verified: '2026-07-21'
+    notes: Confirmed via Daytona Int'l Speedway; 69th running moved off Presidents' Day to Feb 21 to avoid
+      Super Bowl LXI.
+  - summary: Indianapolis 500 (2027)
+    start: '2027-05-30'
+    source_url: https://www.indianapolismotorspeedway.com/events/indy500
+    last_verified: '2026-07-21'
+    notes: Confirmed; 111th running on Sunday May 30 over Memorial Day weekend.
+  - summary: 24 Hours of Le Mans 2027
+    start: '2027-06-12'
+    end: '2027-06-13'
+    source_url: https://www.fiawec.com/en/race/24-hours-of-le-mans-2027
+    last_verified: '2026-07-21'
+    notes: Confirmed via FIA WEC; 95th running, race Sat June 12 to Sun June 13 (full event June 9-13).
+- id: gaming
+  name: Pyros · Gaming
+  description: Major game launches, showcases & esports finals (curated)
+  events:
+  - summary: gamescom 2026
+    start: '2026-08-26'
+    end: '2026-08-30'
+    source_url: https://www.gamescom.global/en
+    last_verified: '2026-07-21'
+    notes: Confirmed via gamescom.global; Koelnmesse, Cologne. Opening Night Live streams Aug 25.
+  - summary: PAX West 2026
+    start: '2026-09-04'
+    end: '2026-09-07'
+    source_url: https://west.paxsite.com/en-us.html
+    last_verified: '2026-07-21'
+    notes: Confirmed via official PAX West site; Seattle Convention Center, Sept 4-7 (Labor Day weekend).
+  - summary: Tokyo Game Show 2026
+    start: '2026-09-17'
+    end: '2026-09-21'
+    source_url: https://tgs.cesa.or.jp/2026/en/about
+    last_verified: '2026-07-21'
+    notes: Confirmed via official CESA/TGS site; Makuhari Messe. 30th anniversary, first-ever 5-day run
+      (business days Sep 17-18, public days Sep 19-21). Corrects prior Sep 24-27 estimate.
+  - summary: '[TBC] EA Sports FC 27 Launch'
+    start: '2026-09-25'
+    source_url: https://www.ea.com/games/ea-sports-fc
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Reported Sep 25 launch (leaks) fits
+      annual late-Sep pattern; EA has not announced. Game launch dates slip — re-verify.'
+  - summary: 'Call of Duty: Modern Warfare 4 Launch'
+    start: '2026-10-23'
+    source_url: https://www.callofduty.com/blog/2026/05/call-of-duty-modern-warfare-4-announcement
+    last_verified: '2026-07-21'
+    notes: Confirmed via official Call of Duty announcement (Activision/Infinity Ward); Oct 23, 2026 on
+      PS5, Xbox Series X|S, PC, Switch 2. Launch dates can slip — re-verify.
+  - summary: League of Legends Worlds 2026 — Final
+    start: '2026-11-14'
+    source_url: https://lolesports.com/en-US/news/msi-and-worlds-updates
+    last_verified: '2026-07-21'
+    notes: Confirmed via official LoL Esports; Grand Final at Barclays Center, Brooklyn, New York. Tournament
+      runs Oct 15-Nov 14. Corrects prior Nov 7 estimate.
+  - summary: Grand Theft Auto VI Launch
+    start: '2026-11-19'
+    source_url: https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026
+    last_verified: '2026-07-21'
+    notes: Confirmed via official Rockstar Games Newswire; Nov 19, 2026 on PS5 & Xbox Series X|S (delayed
+      from May 26, 2026). Historically prone to slippage — re-verify.
+  - summary: The Game Awards 2026
+    start: '2026-12-10'
+    source_url: https://thegameawards.com/
+    last_verified: '2026-07-21'
+    notes: Confirmed via official site; Thursday Dec 10, 2026 at Peacock Theater, Los Angeles.
+  - summary: '[TBC] Summer Game Fest 2027'
+    start: '2027-06-11'
+    source_url: https://www.summergamefest.com/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. 2027 date not yet announced; estimate
+      from early-mid-June pattern (SGF 2026 was Jun 5). Re-verify when Geoff Keighley announces.'
+- id: entertainment-pop-culture
+  name: Pyros · Entertainment & Pop Culture
+  description: Award shows, blockbuster releases & major pop-culture moments (curated)
+  events:
+  - summary: 'Spider-Man: Brand New Day (theatrical release)'
+    start: '2026-07-31'
+    source_url: https://www.marvel.com/movies/spider-man-brand-new-day
+    last_verified: '2026-07-21'
+    notes: Confirmed via Marvel/Sony; moved from Jul 24 to Jul 31, 2026. Tentpole summer blockbuster.
+  - summary: Primetime Emmy Awards 2026 (78th)
+    start: '2026-09-14'
+    source_url: https://www.nbc.com/nbc-insider/2026-emmys-air-date-host-nominees-details
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Mon Sep 14, 2026 at Peacock Theater, LA (NBC/Peacock). Host Mariska Hargitay.'
+  - summary: MTV Video Music Awards 2026
+    start: '2026-09-27'
+    source_url: https://www.billboard.com/music/awards/2026-mtv-vmas-nickelodeon-kids-choice-awards-dates-1236223878/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Sun Sep 27, 2026, Los Angeles (CBS/MTV simulcast). Corrected from feed''s Sep 6.'
+  - summary: 'Avengers: Doomsday (theatrical release)'
+    start: '2026-12-18'
+    source_url: https://www.marvel.com/movies/avengers-doomsday
+    last_verified: '2026-07-21'
+    notes: Confirmed via Marvel Studios/Disney; Fri Dec 18, 2026. Major franchise tentpole.
+  - summary: Critics Choice Awards 2027 (32nd)
+    start: '2027-01-03'
+    source_url: https://www.criticschoice.com/2026/04/20/32nd-annual-critics-choice-awards-to-be-held-on-sunday-january-3-2027-at-the-barker-hangar/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Critics Choice Association: Sun Jan 3, 2027, Barker Hangar (E!/USA). Corrected
+      from Jan 17.'
+  - summary: Golden Globe Awards 2027 (84th)
+    start: '2027-01-10'
+    source_url: https://www.hollywoodreporter.com/movies/movie-news/golden-globes-nominations-date-key-awards-deadlines-1236589222/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Sun Jan 10, 2027 (CBS/Paramount+). Host Nikki Glaser.'
+  - summary: Grammy Awards 2027 (69th)
+    start: '2027-02-07'
+    source_url: https://www.recordingacademy.com/press-releases/2027-grammys-show-air-date-nominations-announced
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Recording Academy: Sun Feb 7, 2027, Crypto.com Arena LA (ABC/Disney+/Hulu).
+      Corrected from Feb 1.'
+  - summary: BAFTA Film Awards 2027 (80th)
+    start: '2027-02-14'
+    source_url: https://www.bafta.org/awards/awards-information/film/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Sun Feb 14, 2027, Royal Festival Hall, London (per BAFTA + trade press).'
+  - summary: SAG Awards / The Actor Awards 2027 (33rd)
+    start: '2027-02-28'
+    source_url: https://www.netflix.com/tudum/articles/actor-awards-sag-aftra-2027-2028-date-time
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via SAG-AFTRA/Netflix: Sun Feb 28, 2027 (streams live on Netflix). Corrected from
+      Feb 27; now branded ''The Actor Awards''.'
+  - summary: Academy Awards (Oscars) 2027 (99th)
+    start: '2027-03-14'
+    source_url: https://press.oscars.org/news/academy-and-abc-announce-show-dates-99th-and-100th-oscarsr
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Academy press office: Sun Mar 14, 2027, Dolby Theatre (ABC). Noms Jan 21, 2027.
+      Host Conan O''Brien.'
+  - summary: Met Gala 2027
+    start: '2027-05-03'
+    source_url: https://www.metmuseum.org
+    last_verified: '2026-07-21'
+    notes: First Monday of May 2027 (reliable annual rule; Costume Institute). Feed omits it, added manually.
+  - summary: 'Star Wars: Starfighter (theatrical release)'
+    start: '2027-05-28'
+    source_url: https://thewaltdisneycompany.com/news/star-wars-starfighter/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Lucasfilm/Disney: Fri May 28, 2027. Ryan Gosling; dir. Shawn Levy.'
+  - summary: '[TBC] Tony Awards 2027 (80th)'
+    start: '2027-06-13'
+    source_url: https://www.tonyawards.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21 (American Theatre Wing lists 80th ceremony
+      as forthcoming). Date is a mid-June estimate.'
+  - summary: BET Awards 2027
+    start: '2027-06-28'
+    source_url: https://www.paramountpressexpress.com/bet/releases/?view=112401-cultures-biggest-week-dates-announced-bet-awards-set-for-june-28-betx-returns-to-los-angeles-june-25-27
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Paramount/BET press release: BET Awards set for June 28, 2027; BETX in LA Jun
+      25-27. Corrected from Jun 27.'
+- id: music-festivals
+  name: Pyros · Music & Festivals
+  description: Major music festivals (one entry per festival)
+  events:
+  - summary: Lollapalooza 2026
+    start: '2026-07-30'
+    end: '2026-08-02'
+    source_url: https://www.lollapalooza.com
+    last_verified: '2026-07-21'
+    notes: Chicago; confirmed official.
+  - summary: Reading & Leeds 2026
+    start: '2026-08-27'
+    end: '2026-08-30'
+    source_url: https://www.readingandleedsfestival.com
+    last_verified: '2026-07-21'
+    notes: UK; confirmed.
+  - summary: Austin City Limits 2026
+    start: '2026-10-02'
+    end: '2026-10-11'
+    source_url: https://www.aclfestival.com
+    last_verified: '2026-07-21'
+    notes: Confirmed; spans both weekends (Oct 2-4 & Oct 9-11).
+  - summary: '[TBC] Tomorrowland Winter 2027'
+    start: '2027-03-20'
+    end: '2027-03-27'
+    source_url: https://www.tomorrowland.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21 (Alpe d''Huez; reported dates only).'
+  - summary: Ultra Music Festival 2027
+    start: '2027-03-26'
+    end: '2027-03-28'
+    source_url: https://ultramusicfestival.com
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED on official site: Mar 26-28, 2027, Bayfront Park, Miami.'
+  - summary: Coachella 2027
+    start: '2027-04-09'
+    end: '2027-04-18'
+    source_url: https://www.coachella.com
+    last_verified: '2026-07-21'
+    notes: CONFIRMED (official announcement Apr 2026); spans both weekends (Apr 9-11 & Apr 16-18), Empire
+      Polo Club, Indio.
+  - summary: EDC Las Vegas 2027
+    start: '2027-05-14'
+    end: '2027-05-23'
+    source_url: https://lasvegas.electricdaisycarnival.com
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED on official site: new ''Dusk Till Dawn'' format — Dusk May 14-16 & Dawn May 21-23,
+      2027, Las Vegas Motor Speedway.'
+  - summary: Glastonbury 2027
+    start: '2027-06-23'
+    end: '2027-06-27'
+    source_url: https://www.glastonburyfestivals.co.uk/info/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED on official site: Wed 23 – Sun 27 Jun 2027, Worthy Farm (2026 was a fallow year).'
+  - summary: '[TBC] Tomorrowland Belgium 2027'
+    start: '2027-07-17'
+    end: '2027-07-26'
+    source_url: https://www.tomorrowland.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21; reported two weekends (Jul 16-18/17-19
+      & Jul 23-25/24-26), Boom.'
+- id: shopping-events
+  name: Pyros · Shopping Events
+  description: Retail/e-commerce tentpoles (dates computed from weekday rules)
+  events:
+  - summary: Back-to-School Peak (2026)
+    start: '2026-08-01'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: season not a single day; anchored early August per research.'
+  - summary: US Labor Day Sales (2026)
+    start: '2026-09-07'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: 1st Monday of September 2026 (computed).
+  - summary: Singles' Day (2026)
+    start: '2026-11-11'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Fixed Nov 11 (global, China-origin).
+  - summary: Thanksgiving (US) 2026
+    start: '2026-11-26'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: 4th Thursday of November 2026 (computed).
+  - summary: Black Friday (2026)
+    start: '2026-11-27'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Day after US Thanksgiving (computed).
+  - summary: Small Business Saturday (2026)
+    start: '2026-11-28'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Saturday after Thanksgiving (computed).
+  - summary: Cyber Monday (2026)
+    start: '2026-11-30'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Monday after Thanksgiving (computed).
+  - summary: Green Monday (2026)
+    start: '2026-12-14'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: 2nd Monday of December 2026 (computed).
+  - summary: Boxing Day (2026)
+    start: '2026-12-26'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Fixed Dec 26 (UK / CA / AU).
+  - summary: New Year Sales (2027)
+    start: '2027-01-01'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Fixed Jan 1 (global).
+  - summary: Valentine's Day (2027)
+    start: '2027-02-14'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Fixed Feb 14 (global).
+  - summary: US Presidents' Day Sales (2027)
+    start: '2027-02-15'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: 3rd Monday of February 2027 (computed).
+  - summary: US Memorial Day Sales (2027)
+    start: '2027-05-31'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Last Monday of May 2027 (computed).
+- id: holidays-awareness
+  name: Pyros · Holidays & Awareness
+  description: Awareness / social-media days only (public holidays are a separate subscribed feed)
+  events:
+  - summary: International Women's Day (2027)
+    start: '2027-03-08'
+    source_url: https://www.un.org/en/observances
+    last_verified: '2026-07-21'
+    notes: Fixed Mar 8 (UN); missing from Google holiday feed, added manually.
+  - summary: Pride Month Begins (2027)
+    start: '2027-06-01'
+    source_url: https://www.loc.gov/lgbt-pride-month
+    last_verified: '2026-07-21'
+    notes: June is Pride Month; specific parade dates vary by city and are not in research.
+- id: technology-social-media
+  name: Pyros · Technology & Social Media
+  description: Major tech launches & keynotes (curated; radar via Techmeme feed)
+  events:
+  - summary: Samsung Galaxy Unpacked (Fold/Flip) 2026
+    start: '2026-07-22'
+    source_url: https://news.samsung.com
+    last_verified: '2026-07-21'
+    notes: London; confirmed (Samsung / press).
+  - summary: Made By Google / Pixel 11 Event 2026
+    start: '2026-08-12'
+    source_url: https://9to5google.com/2026/07/07/made-by-google-2026-invite/
+    last_verified: '2026-07-21'
+    notes: Confirmed; Google announced Aug 12 (New York) for Pixel 11 / Watch.
+  - summary: IFA Berlin 2026
+    start: '2026-09-04'
+    end: '2026-09-08'
+    source_url: https://www.ifa-berlin.com
+    last_verified: '2026-07-21'
+    notes: Confirmed (IFA / visitBerlin); Messe Berlin.
+  - summary: '[TBC] Apple September Event (iPhone 18) 2026'
+    start: '2026-09-08'
+    source_url: https://www.apple.com/newsroom
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21 (predicted ~Sept 8-9).'
+  - summary: Qualcomm Snapdragon Summit 2026
+    start: '2026-09-22'
+    end: '2026-09-24'
+    source_url: https://www.qualcomm.com/company/events/snapdragon-summit
+    last_verified: '2026-07-21'
+    notes: Confirmed by Qualcomm; Sept 22-24, Maui, Hawaii.
+  - summary: Meta Connect 2026
+    start: '2026-09-23'
+    end: '2026-09-24'
+    source_url: https://www.meta.com/connect/
+    last_verified: '2026-07-21'
+    notes: Confirmed by Meta; Sept 23-24, Menlo Park.
+  - summary: OpenAI DevDay 2026
+    start: '2026-09-29'
+    source_url: https://techmeme.com/events.ics
+    last_verified: '2026-07-21'
+    notes: Date present in verified Techmeme events feed.
+  - summary: MWC Las Vegas 2026
+    start: '2026-10-14'
+    end: '2026-10-16'
+    source_url: https://www.mwclasvegas.com
+    last_verified: '2026-07-21'
+    notes: Confirmed (GSMA); Oct 14-16, Las Vegas Convention Center.
+  - summary: TwitchCon 2026
+    start: '2026-11-12'
+    source_url: https://www.twitchcon.com
+    last_verified: '2026-07-21'
+    notes: Date present in verified Techmeme events feed.
+  - summary: Microsoft Ignite 2026
+    start: '2026-11-17'
+    end: '2026-11-20'
+    source_url: https://ignite.microsoft.com
+    last_verified: '2026-07-21'
+    notes: Confirmed by Microsoft; Nov 17-20, Moscone Center, San Francisco.
+  - summary: CES 2027
+    start: '2027-01-06'
+    end: '2027-01-09'
+    source_url: https://www.ces.tech
+    last_verified: '2026-07-21'
+    notes: Confirmed official (CES / CTA); Las Vegas, Jan 6-9 (60th anniversary).
+  - summary: '[TBC] Samsung Galaxy Unpacked (Galaxy S27) 2027'
+    start: '2027-01-28'
+    source_url: https://news.samsung.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21 (predicted late-Jan/Feb; S26 already
+      launched Feb 2026).'
+  - summary: MWC Barcelona 2027
+    start: '2027-03-01'
+    end: '2027-03-04'
+    source_url: https://www.mwcbarcelona.com
+    last_verified: '2026-07-21'
+    notes: Confirmed official (GSMA); Fira Gran Via, Barcelona, Mar 1-4.
+  - summary: '[TBC] Google I/O 2027'
+    start: '2027-05-11'
+    source_url: https://io.google
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21 (predicted ~May; I/O 2026 was May 19-20).'
+  - summary: Computex 2027
+    start: '2027-06-01'
+    end: '2027-06-04'
+    source_url: https://www.computextaipei.com.tw
+    last_verified: '2026-07-21'
+    notes: Confirmed on official site; Jun 1-4, Taipei Nangang Exhibition Center.
+  - summary: '[TBC] Apple WWDC 2027'
+    start: '2027-06-07'
+    end: '2027-06-11'
+    source_url: https://www.apple.com/newsroom
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21 (predicted week of June 7; WWDC 2026
+      was June 8-12).'
+- id: space-science
+  name: Pyros · Space & Science
+  description: Stable astronomy (eclipses, meteor peaks, solstices) + headline launches
+  events:
+  - summary: Total Solar Eclipse (Spain / N. Africa) 2026
+    start: '2026-08-12'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Confirmed; totality across Arctic, Greenland, Iceland, Spain.
+  - summary: Perseids Meteor Shower Peak 2026
+    start: '2026-08-12'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Peak ~Aug 12-13 2026 (research-confirmed).
+  - summary: September Equinox 2026
+    start: '2026-09-23'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Computed astronomical event.
+  - summary: Orionids Meteor Shower Peak 2026
+    start: '2026-10-21'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Standard annual peak (~Oct 21).
+  - summary: Leonids Meteor Shower Peak 2026
+    start: '2026-11-17'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Standard annual peak (~Nov 17).
+  - summary: Geminids Meteor Shower Peak 2026
+    start: '2026-12-14'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: The 'King' of showers; peak ~Dec 14 (research-confirmed in-window).
+  - summary: December Solstice 2026
+    start: '2026-12-21'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Computed astronomical event.
+  - summary: Ursids Meteor Shower Peak 2026
+    start: '2026-12-22'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Standard annual peak (~Dec 22).
+  - summary: Quadrantids Meteor Shower Peak 2027
+    start: '2027-01-03'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Peak early Jan 2027 (research-confirmed in-window).
+  - summary: March Equinox 2027
+    start: '2027-03-20'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Computed astronomical event.
+  - summary: Lyrids Meteor Shower Peak 2027
+    start: '2027-04-22'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Standard annual peak (~Apr 22).
+  - summary: Eta Aquariids Meteor Shower Peak 2027
+    start: '2027-05-06'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Standard annual peak (~May 6).
+  - summary: June Solstice 2027
+    start: '2027-06-21'
+    source_url: https://in-the-sky.org
+    last_verified: '2026-07-21'
+    notes: Computed astronomical event.

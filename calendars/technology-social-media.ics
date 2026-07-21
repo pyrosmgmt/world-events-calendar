@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//technology-social-media//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Major tech launches & keynotes (curated\; radar via Techmeme 
+ feed)
+X-WR-CALNAME:Pyros · Technology & Social Media
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Samsung Galaxy Unpacked (Fold/Flip) 2026
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+DTSTAMP:20260721T000000Z
+UID:samsung-galaxy-unpacked-foldflip-2026-2026-07-22@technology-social-med
+ ia.pyros-world-events-calendar
+DESCRIPTION:London\; confirmed (Samsung / press).\nSource: https://news.sa
+ msung.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://news.samsung.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Made By Google / Pixel 11 Event 2026
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260721T000000Z
+UID:made-by-google-pixel-11-event-2026-2026-08-12@technology-social-media.
+ pyros-world-events-calendar
+DESCRIPTION:Confirmed\; Google announced Aug 12 (New York) for Pixel 11 / 
+ Watch.\nSource: https://9to5google.com/2026/07/07/made-by-google-2026-invi
+ te/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://9to5google.com/2026/07/07/made-by-google-2026-invite/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFA Berlin 2026
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260721T000000Z
+UID:ifa-berlin-2026-2026-09-04@technology-social-media.pyros-world-events-
+ calendar
+DESCRIPTION:Confirmed (IFA / visitBerlin)\; Messe Berlin.\nSource: https:/
+ /www.ifa-berlin.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.ifa-berlin.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Apple September Event (iPhone 18) 2026
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260721T000000Z
+UID:tbc-apple-september-event-iphone-18-2026-2026-09-08@technology-social-
+ media.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21 (predicte
+ d ~Sept 8-9).\nSource: https://www.apple.com/newsroom\nVerified: 2026-07-2
+ 1
+TRANSP:TRANSPARENT
+URL:https://www.apple.com/newsroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualcomm Snapdragon Summit 2026
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260925
+DTSTAMP:20260721T000000Z
+UID:qualcomm-snapdragon-summit-2026-2026-09-22@technology-social-media.pyr
+ os-world-events-calendar
+DESCRIPTION:Confirmed by Qualcomm\; Sept 22-24\, Maui\, Hawaii.\nSource: h
+ ttps://www.qualcomm.com/company/events/snapdragon-summit\nVerified: 2026-0
+ 7-21
+TRANSP:TRANSPARENT
+URL:https://www.qualcomm.com/company/events/snapdragon-summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meta Connect 2026
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
+DTSTAMP:20260721T000000Z
+UID:meta-connect-2026-2026-09-23@technology-social-media.pyros-world-event
+ s-calendar
+DESCRIPTION:Confirmed by Meta\; Sept 23-24\, Menlo Park.\nSource: https://
+ www.meta.com/connect/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.meta.com/connect/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenAI DevDay 2026
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260721T000000Z
+UID:openai-devday-2026-2026-09-29@technology-social-media.pyros-world-even
+ ts-calendar
+DESCRIPTION:Date present in verified Techmeme events feed.\nSource: https:
+ //techmeme.com/events.ics\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://techmeme.com/events.ics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MWC Las Vegas 2026
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260721T000000Z
+UID:mwc-las-vegas-2026-2026-10-14@technology-social-media.pyros-world-even
+ ts-calendar
+DESCRIPTION:Confirmed (GSMA)\; Oct 14-16\, Las Vegas Convention Center.\nS
+ ource: https://www.mwclasvegas.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.mwclasvegas.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TwitchCon 2026
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20260721T000000Z
+UID:twitchcon-2026-2026-11-12@technology-social-media.pyros-world-events-c
+ alendar
+DESCRIPTION:Date present in verified Techmeme events feed.\nSource: https:
+ //www.twitchcon.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.twitchcon.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microsoft Ignite 2026
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260721T000000Z
+UID:microsoft-ignite-2026-2026-11-17@technology-social-media.pyros-world-e
+ vents-calendar
+DESCRIPTION:Confirmed by Microsoft\; Nov 17-20\, Moscone Center\, San Fran
+ cisco.\nSource: https://ignite.microsoft.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://ignite.microsoft.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CES 2027
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260721T000000Z
+UID:ces-2027-2027-01-06@technology-social-media.pyros-world-events-calenda
+ r
+DESCRIPTION:Confirmed official (CES / CTA)\; Las Vegas\, Jan 6-9 (60th ann
+ iversary).\nSource: https://www.ces.tech\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.ces.tech
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Samsung Galaxy Unpacked (Galaxy S27) 2027
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+DTSTAMP:20260721T000000Z
+UID:tbc-samsung-galaxy-unpacked-galaxy-s27-2027-2027-01-28@technology-soci
+ al-media.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21 (predicte
+ d late-Jan/Feb\; S26 already launched Feb 2026).\nSource: https://news.sam
+ sung.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://news.samsung.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MWC Barcelona 2027
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270305
+DTSTAMP:20260721T000000Z
+UID:mwc-barcelona-2027-2027-03-01@technology-social-media.pyros-world-even
+ ts-calendar
+DESCRIPTION:Confirmed official (GSMA)\; Fira Gran Via\, Barcelona\, Mar 1-
+ 4.\nSource: https://www.mwcbarcelona.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.mwcbarcelona.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Google I/O 2027
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+DTSTAMP:20260721T000000Z
+UID:tbc-google-io-2027-2027-05-11@technology-social-media.pyros-world-even
+ ts-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21 (predicte
+ d ~May\; I/O 2026 was May 19-20).\nSource: https://io.google\nVerified: 20
+ 26-07-21
+TRANSP:TRANSPARENT
+URL:https://io.google
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Computex 2027
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20260721T000000Z
+UID:computex-2027-2027-06-01@technology-social-media.pyros-world-events-ca
+ lendar
+DESCRIPTION:Confirmed on official site\; Jun 1-4\, Taipei Nangang Exhibiti
+ on Center.\nSource: https://www.computextaipei.com.tw\nVerified: 2026-07-2
+ 1
+TRANSP:TRANSPARENT
+URL:https://www.computextaipei.com.tw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Apple WWDC 2027
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20260721T000000Z
+UID:tbc-apple-wwdc-2027-2027-06-07@technology-social-media.pyros-world-eve
+ nts-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21 (predicte
+ d week of June 7\; WWDC 2026 was June 8-12).\nSource: https://www.apple.co
+ m/newsroom\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.apple.com/newsroom
+END:VEVENT
+END:VCALENDAR

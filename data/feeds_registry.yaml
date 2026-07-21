@@ -1,0 +1,162 @@
+# Pyros World Events Calendar — Feed Registry (single source of truth)
+#
+# One entry per category. `strategy` is how that calendar is produced:
+#   subscribe = official/third-party auto-updating .ics we subscribe to (zero maintenance)
+#   custom    = we generate it from data/events.yaml (yearly refresh)
+#   hybrid    = a subscribe feed as backbone + custom top-up
+#
+# `url` (when present) is a VERIFIED-LIVE feed (fetched HTTP 200 + valid VCALENDAR
+# during research on 2026-07-21). check_liveness.py re-verifies these.
+# Rejected/unverified candidates are documented in research/<category>.md.
+
+meta:
+  verified_on: "2026-07-21"
+  window: "rolling 12 months from build date"
+  granularity: "broad tentpole events (tournament/season/marquee level)"
+
+feeds:
+  # ---------------- Zero-maintenance official subscriptions ----------------
+  - category: holidays-awareness
+    provider: "Google Official — UK Holidays"
+    url: "https://calendar.google.com/calendar/ical/en.uk%23holiday%40group.v.calendar.google.com/public/basic.ics"
+    strategy: subscribe
+    official: true
+    price: free
+    cadence: auto (zero maintenance)
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "244 events through 2031; includes cultural tentpoles (Valentine's, Halloween, NYE, Black Friday). Pair with US feed + curated awareness days."
+  - category: holidays-awareness
+    provider: "Google Official — US Holidays"
+    url: "https://calendar.google.com/calendar/ical/en.usa%23holiday%40group.v.calendar.google.com/public/basic.ics"
+    strategy: subscribe
+    official: true
+    price: free
+    cadence: auto (zero maintenance)
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "317 events through 2031."
+  - category: holidays-awareness
+    provider: "gov.uk Bank Holidays (JSON) — validation source"
+    url: "https://www.gov.uk/bank-holidays.json"
+    strategy: reference
+    official: true
+    price: free
+    cadence: auto
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "Authoritative UK cross-check (JSON, not .ics)."
+
+  - category: combat-sports
+    provider: "clarencechaan/ufc-cal (UFC, scraped from ufc.com)"
+    url: "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics"
+    strategy: subscribe
+    official: false
+    price: free
+    cadence: "auto (updated multiple times daily)"
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "One entry per card (PPV + Fight Night) — perfect tentpole granularity. Boxing/crossover handled as custom (no reliable feed)."
+
+  # ---------------- Custom curated (yearly refresh) ----------------
+  - category: uk-sporting
+    provider: "Custom curated (seed: sporting-events.org + VisitBritain + official sites)"
+    url: null
+    strategy: custom
+    official: false
+    price: free
+    cadence: "yearly refresh (~1-2h)"
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "No official tentpole feed. sporting-events.org verified live but per-sport/global + gaps. Curate ~30-40 UK marquees (Wimbledon, Ascot, Grand National, Six Nations, The Open, Ashes, London Marathon, British GP, FA Cup Final)."
+  - category: us-sporting
+    provider: "Custom curated (seed: ESPN public API + official event sites)"
+    url: null
+    strategy: custom
+    official: false
+    price: free
+    cadence: "yearly refresh + mid-season playoff check"
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "All feeds found were per-fixture (too granular). ESPN API gives clean season/postseason windows. ~15-25 tentpoles (Super Bowl, NBA/Stanley Cup Finals, World Series, March Madness, Masters, US Open, Kentucky Derby, Daytona 500, Indy 500)."
+  - category: global-sporting
+    provider: "Custom curated (seed: governing bodies + Wikipedia '202X in sport')"
+    url: null
+    strategy: custom
+    official: false
+    price: free
+    cadence: "yearly refresh (~30 min)"
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "One entry per tournament. Verify each date at fifa.com/olympics.com/uefa.com/icc-cricket.com/world.rugby/letour.fr. Window note: WC2026 & Winter Olympics 2026 already past as of build date."
+  - category: gaming
+    provider: "Custom curated (seed: IGDB API + Wikipedia '20XX in video games')"
+    url: null
+    strategy: custom
+    official: false
+    price: "free (IGDB non-commercial only — ToS flag for agency use)"
+    cadence: "yearly + quarterly launch re-pull"
+    confidence: medium
+    last_verified: "2026-07-21"
+    notes: "OpenCritic.ics verified live but per-release & mostly historical. Curate launches (GTA VI, annual CoD, EA FC) + showcases (Summer Game Fest, Gamescom, TGS, The Game Awards) + esports finals. Dates slip — mark tentative."
+  - category: entertainment-pop-culture
+    provider: "Custom curated + AddEvent award feed (feeder)"
+    url: "https://www.addevent.com/feed/eeeuadduw.ics"
+    strategy: hybrid
+    official: false
+    price: free
+    cadence: "yearly refresh"
+    confidence: medium
+    last_verified: "2026-07-21"
+    notes: "Award feed verified live (42 events) but thin forward coverage + placeholder dumps + missing Met Gala — use as feeder, spot-check vs Deadline/THR/Variety. Movies/streaming: no working feed; curate from TMDB API. Tentpoles: Oscars, Grammys, Emmys, Golden Globes, Met Gala, VMAs, SAG, BAFTA + blockbuster releases."
+  - category: music-festivals
+    provider: "Custom curated (seed: official festival sites + Music Festival Wizard)"
+    url: null
+    strategy: custom
+    official: false
+    price: free
+    cadence: "yearly refresh + mid-year check"
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "No official feeds. Smart Calendars AI feeds REJECTED — hallucinated events, false [CANCELLED] tags, 3x duplicates. Curate ~15-20 festivals (Coachella, Glastonbury, Tomorrowland, Ultra, Lollapalooza, EDC, Reading & Leeds, ACL)."
+  - category: shopping-events
+    provider: "Custom generated (deterministic weekday rules)"
+    url: null
+    strategy: custom
+    official: false
+    price: free
+    cadence: "yearly (mostly rule-based, near-zero effort)"
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "Most dates follow fixed rules (Black Friday = 4th Thu Nov +1, etc.). Only Prime Day needs manual confirm from Amazon Newsroom. Tag by region. NEVER trust blog-summary dates (returned prior-year values)."
+  - category: technology-social-media
+    provider: "Custom curated + Techmeme events feed (radar)"
+    url: "https://techmeme.com/events.ics"
+    strategy: hybrid
+    official: false
+    price: free
+    cadence: "yearly refresh"
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "Techmeme verified live (117 events) but ~4-5mo rolling window + noisy (earnings). Use as radar for exact keynote dates. Curate CES, MWC, Apple events, Google I/O, WWDC, Samsung Unpacked, Meta Connect, gamescom, IFA from official sites."
+  - category: space-science
+    provider: "Custom curated (astronomy) + Launch Library 2 (launches)"
+    url: "https://in-the-sky.org/newscalyear_ical.php?year=2026"
+    strategy: hybrid
+    official: false
+    price: free
+    cadence: "yearly (astronomy) + weekly launch check if included"
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "in-the-sky.org verified live (513 events/2026, per-year URL). astrocal.ics also verified. Curate stable astronomy (eclipses, meteor showers — safe years ahead) as backbone; add only headline launches from thespacedevs API (mark 'subject to change')."
+
+  - category: motorsport
+    provider: "f1calendar.com — F1 race-only feed"
+    url: "https://files-f1.motorsportcalendars.com/f1-calendar_gp.ics"
+    strategy: hybrid
+    official: false
+    price: free
+    cadence: "auto (F1) + yearly refresh (other series)"
+    confidence: high
+    last_verified: "2026-07-21"
+    notes: "F1 SOLVED: verified live, one entry per Grand Prix (22 rounds), auto-rolls each season = zero maintenance. Other series (Daytona 500, Rolex 24, Indy 500, Le Mans 24h, ~4 marquee MotoGP rounds) curated yearly from official sites (nascar.com, imsa.com, indycar.com, fiawec.com, motogp.com). toomuchracing.com feeds verified but noisy/per-session — rejected as primary."

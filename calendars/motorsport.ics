@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//motorsport//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Non-F1 marquee motorsport (F1 is a separate auto-updating fee
+ d)
+X-WR-CALNAME:Pyros · Motorsport
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:MotoGP British Grand Prix (Silverstone) 2026
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+DTSTAMP:20260721T000000Z
+UID:motogp-british-grand-prix-silverstone-2026-2026-08-09@motorsport.pyros
+ -world-events-calendar
+DESCRIPTION:Confirmed via official MotoGP 2026 calendar\; Silverstone race
+  Sunday\, GP weekend Aug 7-9.\nSource: https://www.motogp.com/en/news/2026
+ /01/01/2026-motogp-calendar/755478\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.motogp.com/en/news/2026/01/01/2026-motogp-calendar/755478
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petit Le Mans 2026 (Road Atlanta)
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260721T000000Z
+UID:petit-le-mans-2026-road-atlanta-2026-10-03@motorsport.pyros-world-even
+ ts-calendar
+DESCRIPTION:Confirmed via IMSA\; Motul Petit Le Mans 10-hour race Sat Oct 
+ 3 (event Sept 30-Oct 3).\nSource: https://www.imsa.com/events/2026-micheli
+ n-raceway-road-atlanta/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.imsa.com/events/2026-michelin-raceway-road-atlanta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MotoGP Valencia Grand Prix (Season Finale) 2026
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20260721T000000Z
+UID:motogp-valencia-grand-prix-season-finale-2026-2026-11-22@motorsport.py
+ ros-world-events-calendar
+DESCRIPTION:Confirmed via official MotoGP calendar\; final 1000cc-era roun
+ d\, GP weekend Nov 20-22.\nSource: https://www.motogp.com/en/news/2026/01/
+ 01/2026-motogp-calendar/755478\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.motogp.com/en/news/2026/01/01/2026-motogp-calendar/755478
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rolex 24 At Daytona 2027
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20260721T000000Z
+UID:rolex-24-at-daytona-2027-2027-01-30@motorsport.pyros-world-events-cale
+ ndar
+DESCRIPTION:Confirmed via IMSA\; 65th running\, 24h race green flag Sat Ja
+ n 30 to Sun Jan 31 (moved back a week).\nSource: https://www.imsa.com/news
+ /2026/01/13/daytona-international-speedway-announces-2027-rolex-24-date/\n
+ Verified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.imsa.com/news/2026/01/13/daytona-international-speedway-an
+ nounces-2027-rolex-24-date/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daytona 500 (2027)
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20260721T000000Z
+UID:daytona-500-2027-2027-02-21@motorsport.pyros-world-events-calendar
+DESCRIPTION:Confirmed via Daytona Int'l Speedway\; 69th running moved off 
+ Presidents' Day to Feb 21 to avoid Super Bowl LXI.\nSource: https://www.da
+ ytonainternationalspeedway.com/2025/10/22/daytona-international-speedway-a
+ nnounces-2027-daytona-500-date/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.daytonainternationalspeedway.com/2025/10/22/daytona-intern
+ ational-speedway-announces-2027-daytona-500-date/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis 500 (2027)
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+DTSTAMP:20260721T000000Z
+UID:indianapolis-500-2027-2027-05-30@motorsport.pyros-world-events-calenda
+ r
+DESCRIPTION:Confirmed\; 111th running on Sunday May 30 over Memorial Day w
+ eekend.\nSource: https://www.indianapolismotorspeedway.com/events/indy500\
+ nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.indianapolismotorspeedway.com/events/indy500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:24 Hours of Le Mans 2027
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270614
+DTSTAMP:20260721T000000Z
+UID:24-hours-of-le-mans-2027-2027-06-12@motorsport.pyros-world-events-cale
+ ndar
+DESCRIPTION:Confirmed via FIA WEC\; 95th running\, race Sat June 12 to Sun
+  June 13 (full event June 9-13).\nSource: https://www.fiawec.com/en/race/2
+ 4-hours-of-le-mans-2027\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.fiawec.com/en/race/24-hours-of-le-mans-2027
+END:VEVENT
+END:VCALENDAR

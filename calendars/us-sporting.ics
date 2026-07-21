@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//us-sporting//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:US marquee sporting tentpoles (curated\; championship/season 
+ level)
+X-WR-CALNAME:Pyros · US Sporting
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:US Open Tennis 2026
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260721T000000Z
+UID:us-open-tennis-2026-2026-08-30@us-sporting.pyros-world-events-calendar
+DESCRIPTION:Confirmed via official usopen.org: main-draw singles Aug 30 - 
+ Sep 13 2026\, finals weekend Sep 12-13 (Fan Week/qualifying begins Aug 23)
+ .\nSource: https://www.usopen.org/en_US/news/articles/2025-12-11/2026_us_o
+ pen_tournament_dates.html\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.usopen.org/en_US/news/articles/2025-12-11/2026_us_open_tou
+ rnament_dates.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL Kickoff Game 2026
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+DTSTAMP:20260721T000000Z
+UID:nfl-kickoff-game-2026-2026-09-09@us-sporting.pyros-world-events-calend
+ ar
+DESCRIPTION:Confirmed via NFL.com: Seahawks host Patriots at Lumen Field o
+ n Wed Sep 9 2026 (first Wednesday opener in 75 years).\nSource: https://ww
+ w.nfl.com/news/seahawks-to-kick-off-2026-nfl-regular-season-on-wednesday-s
+ ept-9-in-seattle\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/news/seahawks-to-kick-off-2026-nfl-regular-season-
+ on-wednesday-sept-9-in-seattle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NBA Opening Night 2026
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260721T000000Z
+UID:nba-opening-night-2026-2026-10-20@us-sporting.pyros-world-events-calen
+ dar
+DESCRIPTION:Confirmed tip-off: 2026-27 regular season opens Tue Oct 20 202
+ 6 on NBC\; full schedule/matchups release mid-August 2026.\nSource: https:
+ //www.nbc.com/nbc-insider/when-does-the-2026-2027-nba-season-start\nVerifi
+ ed: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nbc.com/nbc-insider/when-does-the-2026-2027-nba-season-sta
+ rt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MLB World Series 2026 (Game 1)
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260721T000000Z
+UID:mlb-world-series-2026-game-1-2026-10-23@us-sporting.pyros-world-events
+ -calendar
+DESCRIPTION:Confirmed scheduled slot: World Series Game 1 Fri Oct 23 2026 
+ (Game 7 if needed Oct 31)\; on FOX.\nSource: https://www.mlb.com/schedule\
+ nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.mlb.com/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL Thanksgiving Games 2026
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20260721T000000Z
+UID:nfl-thanksgiving-games-2026-2026-11-26@us-sporting.pyros-world-events-
+ calendar
+DESCRIPTION:Confirmed on the released 2026 NFL schedule\; Thanksgiving = 4
+ th Thursday of Nov 2026.\nSource: https://media.nfl.com/football-informati
+ on/2026/news/2026-nfl-schedule-announced\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://media.nfl.com/football-information/2026/news/2026-nfl-schedule
+ -announced
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL Playoffs Begin 2027 (Super Wild Card Weekend)
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20260721T000000Z
+UID:nfl-playoffs-begin-2027-super-wild-card-weekend-2027-01-16@us-sporting
+ .pyros-world-events-calendar
+DESCRIPTION:Super Wild Card Weekend Jan 16-18 2027\, aligned to the offici
+ ally confirmed Super Bowl LXI date (Feb 14) and fixed NFL postseason struc
+ ture.\nSource: https://www.nfl.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:College Football Playoff National Championship 2027
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+DTSTAMP:20260721T000000Z
+UID:college-football-playoff-national-championship-2027-2027-01-25@us-spor
+ ting.pyros-world-events-calendar
+DESCRIPTION:Confirmed via official CFP release: Mon Jan 25 2027 at Allegia
+ nt Stadium\, Las Vegas (title game for the 2026 season).\nSource: https://
+ collegefootballplayoff.com/news/2025/1/24/vegas-27.aspx\nVerified: 2026-07
+ -21
+TRANSP:TRANSPARENT
+URL:https://collegefootballplayoff.com/news/2025/1/24/vegas-27.aspx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Bowl LXI (2027)
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20260721T000000Z
+UID:super-bowl-lxi-2027-2027-02-14@us-sporting.pyros-world-events-calendar
+DESCRIPTION:Confirmed via NFL.com: Sun Feb 14 2027 at SoFi Stadium\, Ingle
+ wood CA (on ESPN/ABC).\nSource: https://www.nfl.com/news/sofi-stadium-appr
+ oved-to-host-super-bowl-lxi-in-2027\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/news/sofi-stadium-approved-to-host-super-bowl-lxi-
+ in-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NBA All-Star Weekend 2027
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20260721T000000Z
+UID:nba-all-star-weekend-2027-2027-02-19@us-sporting.pyros-world-events-ca
+ lendar
+DESCRIPTION:Confirmed via NBA.com: All-Star Weekend Feb 19-21 2027 in Phoe
+ nix\; 76th All-Star Game on Sun Feb 21.\nSource: https://www.nba.com/news/
+ phoenix-suns-nba-all-star-2027-official-release\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nba.com/news/phoenix-suns-nba-all-star-2027-official-relea
+ se
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MLB Opening Day 2027
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+DTSTAMP:20260721T000000Z
+UID:mlb-opening-day-2027-2027-03-25@us-sporting.pyros-world-events-calenda
+ r
+DESCRIPTION:Confirmed via MLB.com released 2027 schedule: traditional Open
+ ing Day Thu Mar 25 2027 (14 games)\; Netflix Opening Night game Mar 24. Ea
+ rliest Opening Day in MLB history.\nSource: https://www.mlb.com/news/mlb-2
+ 027-schedule-released\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.mlb.com/news/mlb-2027-schedule-released
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:March Madness — Final Four 2027
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270406
+DTSTAMP:20260721T000000Z
+UID:march-madness-final-four-2027-2027-04-03@us-sporting.pyros-world-event
+ s-calendar
+DESCRIPTION:Confirmed via NCAA.com: men's national semifinals Sat Apr 3 an
+ d championship Mon Apr 5 2027 at Ford Field\, Detroit.\nSource: https://ww
+ w.ncaa.com/news/basketball-men/article/2026-05-07/2027-march-madness-mens-
+ ncaa-tournament-schedule-dates\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.ncaa.com/news/basketball-men/article/2026-05-07/2027-march
+ -madness-mens-ncaa-tournament-schedule-dates
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Masters 2027
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20260721T000000Z
+UID:the-masters-2027-2027-04-08@us-sporting.pyros-world-events-calendar
+DESCRIPTION:Confirmed: tournament rounds Thu Apr 8 - Sun Apr 11 2027 at Au
+ gusta National.\nSource: https://www.masters.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.masters.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NFL Draft 2027
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20260721T000000Z
+UID:nfl-draft-2027-2027-04-29@us-sporting.pyros-world-events-calendar
+DESCRIPTION:Confirmed via NFL.com: Apr 29 - May 1 2027 in Washington\, D.C
+ . (Round 1 Apr 29).\nSource: https://www.nfl.com/news/nfl-announces-dates-
+ for-2027-draft-in-washington-d-c\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/news/nfl-announces-dates-for-2027-draft-in-washing
+ ton-d-c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kentucky Derby 2027
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20260721T000000Z
+UID:kentucky-derby-2027-2027-05-01@us-sporting.pyros-world-events-calendar
+DESCRIPTION:Confirmed via kentuckyderby.com: 153rd Kentucky Derby Sat May 
+ 1 2027 at Churchill Downs (Oaks Apr 30).\nSource: https://www.kentuckyderb
+ y.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.kentuckyderby.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] NHL Stanley Cup Final 2027 (Game 1)
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+DTSTAMP:20260721T000000Z
+UID:tbc-nhl-stanley-cup-final-2027-game-1-2027-06-02@us-sporting.pyros-wor
+ ld-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21 (Final da
+ tes depend on playoff progression\; projected early June 2027).\nSource: h
+ ttps://www.nhl.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nhl.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] NBA Finals 2027 (Game 1)
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+DTSTAMP:20260721T000000Z
+UID:tbc-nba-finals-2027-game-1-2027-06-03@us-sporting.pyros-world-events-c
+ alendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21 (Finals d
+ ates depend on playoff progression\; projected early June 2027).\nSource: 
+ https://www.nba.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nba.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Open (Golf) 2027
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270621
+DTSTAMP:20260721T000000Z
+UID:us-open-golf-2027-2027-06-17@us-sporting.pyros-world-events-calendar
+DESCRIPTION:Confirmed: 2027 U.S. Open (golf) Thu Jun 17 - Sun Jun 20 2027 
+ at Pebble Beach Golf Links\, CA.\nSource: https://www.nbcsports.com/golf/n
+ ews/where-is-the-2027-us-open-golf-championship-everything-to-know-for-peb
+ ble-beach\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nbcsports.com/golf/news/where-is-the-2027-us-open-golf-cha
+ mpionship-everything-to-know-for-pebble-beach
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MLB All-Star Game 2027
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+DTSTAMP:20260721T000000Z
+UID:mlb-all-star-game-2027-2027-07-13@us-sporting.pyros-world-events-calen
+ dar
+DESCRIPTION:Confirmed via MLB.com: All-Star Game Tue Jul 13 2027 at Wrigle
+ y Field\, Chicago (All-Star Week Jul 9-13).\nSource: https://www.mlb.com/n
+ ews/2027-mlb-all-star-game-at-wrigley-field\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.mlb.com/news/2027-mlb-all-star-game-at-wrigley-field
+END:VEVENT
+END:VCALENDAR

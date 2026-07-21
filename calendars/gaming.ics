@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//gaming//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Major game launches\, showcases & esports finals (curated)
+X-WR-CALNAME:Pyros · Gaming
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:gamescom 2026
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260721T000000Z
+UID:gamescom-2026-2026-08-26@gaming.pyros-world-events-calendar
+DESCRIPTION:Confirmed via gamescom.global\; Koelnmesse\, Cologne. Opening 
+ Night Live streams Aug 25.\nSource: https://www.gamescom.global/en\nVerifi
+ ed: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.gamescom.global/en
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAX West 2026
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260721T000000Z
+UID:pax-west-2026-2026-09-04@gaming.pyros-world-events-calendar
+DESCRIPTION:Confirmed via official PAX West site\; Seattle Convention Cent
+ er\, Sept 4-7 (Labor Day weekend).\nSource: https://west.paxsite.com/en-us
+ .html\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://west.paxsite.com/en-us.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Game Show 2026
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260721T000000Z
+UID:tokyo-game-show-2026-2026-09-17@gaming.pyros-world-events-calendar
+DESCRIPTION:Confirmed via official CESA/TGS site\; Makuhari Messe. 30th an
+ niversary\, first-ever 5-day run (business days Sep 17-18\, public days Se
+ p 19-21). Corrects prior Sep 24-27 estimate.\nSource: https://tgs.cesa.or.
+ jp/2026/en/about\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://tgs.cesa.or.jp/2026/en/about
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] EA Sports FC 27 Launch
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260721T000000Z
+UID:tbc-ea-sports-fc-27-launch-2026-09-25@gaming.pyros-world-events-calend
+ ar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Reported
+  Sep 25 launch (leaks) fits annual late-Sep pattern\; EA has not announced
+ . Game launch dates slip — re-verify.\nSource: https://www.ea.com/games/
+ ea-sports-fc\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.ea.com/games/ea-sports-fc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Call of Duty: Modern Warfare 4 Launch
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260721T000000Z
+UID:call-of-duty-modern-warfare-4-launch-2026-10-23@gaming.pyros-world-eve
+ nts-calendar
+DESCRIPTION:Confirmed via official Call of Duty announcement (Activision/I
+ nfinity Ward)\; Oct 23\, 2026 on PS5\, Xbox Series X|S\, PC\, Switch 2. La
+ unch dates can slip — re-verify.\nSource: https://www.callofduty.com/blo
+ g/2026/05/call-of-duty-modern-warfare-4-announcement\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.callofduty.com/blog/2026/05/call-of-duty-modern-warfare-4-
+ announcement
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League of Legends Worlds 2026 — Final
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260721T000000Z
+UID:league-of-legends-worlds-2026-final-2026-11-14@gaming.pyros-world-even
+ ts-calendar
+DESCRIPTION:Confirmed via official LoL Esports\; Grand Final at Barclays C
+ enter\, Brooklyn\, New York. Tournament runs Oct 15-Nov 14. Corrects prior
+  Nov 7 estimate.\nSource: https://lolesports.com/en-US/news/msi-and-worlds
+ -updates\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://lolesports.com/en-US/news/msi-and-worlds-updates
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Theft Auto VI Launch
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20260721T000000Z
+UID:grand-theft-auto-vi-launch-2026-11-19@gaming.pyros-world-events-calend
+ ar
+DESCRIPTION:Confirmed via official Rockstar Games Newswire\; Nov 19\, 2026
+  on PS5 & Xbox Series X|S (delayed from May 26\, 2026). Historically prone
+  to slippage — re-verify.\nSource: https://www.rockstargames.com/newswir
+ e/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november
+ -19-2026\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-th
+ eft-auto-vi-is-now-set-to-launch-november-19-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Game Awards 2026
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260721T000000Z
+UID:the-game-awards-2026-2026-12-10@gaming.pyros-world-events-calendar
+DESCRIPTION:Confirmed via official site\; Thursday Dec 10\, 2026 at Peacoc
+ k Theater\, Los Angeles.\nSource: https://thegameawards.com/\nVerified: 20
+ 26-07-21
+TRANSP:TRANSPARENT
+URL:https://thegameawards.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Summer Game Fest 2027
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20260721T000000Z
+UID:tbc-summer-game-fest-2027-2027-06-11@gaming.pyros-world-events-calenda
+ r
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. 2027 dat
+ e not yet announced\; estimate from early-mid-June pattern (SGF 2026 was J
+ un 5). Re-verify when Geoff Keighley announces.\nSource: https://www.summe
+ rgamefest.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.summergamefest.com/
+END:VEVENT
+END:VCALENDAR

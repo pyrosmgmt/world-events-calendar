@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//holidays-awareness//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Awareness / social-media days only (public holidays are a sep
+ arate subscribed feed)
+X-WR-CALNAME:Pyros · Holidays & Awareness
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:International Women's Day (2027)
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+DTSTAMP:20260721T000000Z
+UID:international-womens-day-2027-2027-03-08@holidays-awareness.pyros-worl
+ d-events-calendar
+DESCRIPTION:Fixed Mar 8 (UN)\; missing from Google holiday feed\, added ma
+ nually.\nSource: https://www.un.org/en/observances\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.un.org/en/observances
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pride Month Begins (2027)
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DTSTAMP:20260721T000000Z
+UID:pride-month-begins-2027-2027-06-01@holidays-awareness.pyros-world-even
+ ts-calendar
+DESCRIPTION:June is Pride Month\; specific parade dates vary by city and a
+ re not in research.\nSource: https://www.loc.gov/lgbt-pride-month\nVerifie
+ d: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.loc.gov/lgbt-pride-month
+END:VEVENT
+END:VCALENDAR

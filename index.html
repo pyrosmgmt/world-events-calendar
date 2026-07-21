@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pyros World Events Calendar</title>
+<style>
+  :root {
+    --bg: #0e0f13; --card: #181a21; --line: #262a35;
+    --fg: #e8eaf0; --muted: #9aa0ae; --accent: #ff5a3c; --accent2: #6ea8fe; --ok:#3ecf8e;
+  }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#f6f7f9; --card:#fff; --line:#e6e8ee; --fg:#1a1c22; --muted:#5b616e; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+    font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 40px 20px 80px; }
+  h1 { font-size: 1.9rem; margin: 0 0 6px; letter-spacing:-0.02em; }
+  .sub { color: var(--muted); margin: 0 0 28px; }
+  h2 { font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--muted); margin: 34px 0 12px; font-weight: 600; }
+  .card { background: var(--card); border:1px solid var(--line); border-radius: 12px;
+    padding: 4px 4px; margin-bottom: 10px; }
+  .row { display:flex; align-items:center; gap:12px; padding: 12px 14px; }
+  .row + .row { border-top: 1px solid var(--line); }
+  .name { font-weight: 600; flex: 1; min-width: 0; }
+  .name small { display:block; font-weight: 400; color: var(--muted); font-size: 0.82rem;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .tag { font-size: 0.68rem; padding: 2px 8px; border-radius: 999px; font-weight:600;
+    border:1px solid var(--line); color: var(--muted); white-space:nowrap; }
+  .tag.auto { color: var(--ok); border-color: color-mix(in srgb, var(--ok) 40%, transparent); }
+  button { font: inherit; font-size: 0.85rem; font-weight:600; cursor:pointer;
+    border:1px solid var(--line); background: transparent; color: var(--fg);
+    padding: 7px 12px; border-radius: 8px; white-space:nowrap; }
+  button:hover { border-color: var(--accent2); color: var(--accent2); }
+  button.copied { color: var(--ok); border-color: var(--ok); }
+  a.add { text-decoration:none; }
+  .note { color: var(--muted); font-size: 0.85rem; margin-top: 26px;
+    border-left: 2px solid var(--line); padding-left: 14px; }
+  code { background: color-mix(in srgb, var(--muted) 18%, transparent);
+    padding: 1px 5px; border-radius: 4px; font-size: 0.85em; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Pyros World Events Calendar</h1>
+  <p class="sub">Subscribe to the category calendars you want. Copy a link and add it in
+    Google Calendar → <em>Other calendars → + → From URL</em>.</p>
+
+  <h2>Auto-updating feeds · zero maintenance</h2>
+  <div class="card" id="auto"></div>
+
+  <h2>Pyros curated calendars · refreshed yearly</h2>
+  <div class="card" id="custom"></div>
+
+  <p class="note">Events tagged <strong>[TBC]</strong> have an estimated date not yet
+    officially confirmed — check before promoting. Every event carries a source link
+    and a verified date in its notes. Full details in the project
+    <code>README.md</code>.</p>
+</div>
+
+<script>
+  // Official / third-party auto-updating feeds (fixed URLs).
+  const AUTO = [
+    ["UK Public Holidays", "https://calendar.google.com/calendar/ical/en.uk%23holiday%40group.v.calendar.google.com/public/basic.ics"],
+    ["US Public Holidays", "https://calendar.google.com/calendar/ical/en.usa%23holiday%40group.v.calendar.google.com/public/basic.ics"],
+    ["UFC (per card)", "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics"],
+    ["Formula 1 (per Grand Prix)", "https://files-f1.motorsportcalendars.com/f1-calendar_gp.ics"],
+  ];
+  // Pyros custom calendars — URLs derived from where THIS page is hosted.
+  const CUSTOM = [
+    ["uk-sporting", "UK Sporting"], ["us-sporting", "US Sporting"],
+    ["global-sporting", "Global Sporting"], ["combat-sports", "Combat Sports · Boxing"],
+    ["motorsport", "Motorsport · non-F1"], ["gaming", "Gaming"],
+    ["entertainment-pop-culture", "Entertainment & Pop Culture"],
+    ["music-festivals", "Music & Festivals"], ["shopping-events", "Shopping Events"],
+    ["holidays-awareness", "Awareness & Fun Days"],
+    ["technology-social-media", "Technology & Social Media"], ["space-science", "Space & Science"],
+  ];
+  const feedURL = id => new URL("calendars/" + id + ".ics", location.href).href;
+
+  function copyBtn(url) {
+    const b = document.createElement("button");
+    b.textContent = "Copy link";
+    b.onclick = async () => {
+      try { await navigator.clipboard.writeText(url); }
+      catch (e) { prompt("Copy this URL:", url); return; }
+      b.textContent = "Copied ✓"; b.classList.add("copied");
+      setTimeout(() => { b.textContent = "Copy link"; b.classList.remove("copied"); }, 1400);
+    };
+    return b;
+  }
+  function row(name, subtitle, url, isAuto) {
+    const r = document.createElement("div"); r.className = "row";
+    const n = document.createElement("div"); n.className = "name";
+    n.innerHTML = name + (subtitle ? "<small>" + subtitle + "</small>" : "");
+    const tag = document.createElement("span");
+    tag.className = "tag" + (isAuto ? " auto" : "");
+    tag.textContent = isAuto ? "auto" : "yearly";
+    r.append(n, tag, copyBtn(url));
+    return r;
+  }
+  const autoEl = document.getElementById("auto");
+  AUTO.forEach(([n, u]) => autoEl.append(row(n, u, u, true)));
+  const custEl = document.getElementById("custom");
+  CUSTOM.forEach(([id, n]) => custEl.append(row(n, feedURL(id), feedURL(id), false)));
+</script>
+</body>
+</html>

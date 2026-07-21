@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//global-sporting//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Global mega sporting events (one entry per tournament)
+X-WR-CALNAME:Pyros · Global Sporting
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Tour de France 2026 — Final Stage
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+DTSTAMP:20260721T000000Z
+UID:tour-de-france-2026-final-stage-2026-07-26@global-sporting.pyros-world
+ -events-calendar
+DESCRIPTION:Only the final stage of the 2026 edition falls inside the wind
+ ow\; rest of race concluded pre-window.\nSource: https://www.letour.fr\nVe
+ rified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.letour.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rugby Nations Championship Finals 2026
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20260721T000000Z
+UID:rugby-nations-championship-finals-2026-2026-11-27@global-sporting.pyro
+ s-world-events-calendar
+DESCRIPTION:CONFIRMED: inaugural Nations Championship Finals Weekend at Al
+ lianz Stadium (Twickenham)\, Fri 27–Sun 29 Nov 2026\; Grand Final Sun 29
+  Nov.\nSource: https://www.world.rugby/beta/en/tournaments/nations-champio
+ nship/2026\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.world.rugby/beta/en/tournaments/nations-championship/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA Champions League Final 2027
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+DTSTAMP:20260721T000000Z
+UID:uefa-champions-league-final-2027-2027-06-05@global-sporting.pyros-worl
+ d-events-calendar
+DESCRIPTION:CONFIRMED by UEFA: Saturday 5 June 2027\, Estadio Metropolitan
+ o\, Madrid.\nSource: https://www.uefa.com/uefachampionsleague/news/029d-1e
+ b2d5faf53c-d67c9fed04fa-1000--2027-uefa-champions-league-final-estadio-met
+ ropolitano-m/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.uefa.com/uefachampionsleague/news/029d-1eb2d5faf53c-d67c9f
+ ed04fa-1000--2027-uefa-champions-league-final-estadio-metropolitano-m/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de France 2027
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270726
+DTSTAMP:20260721T000000Z
+UID:tour-de-france-2027-2027-07-02@global-sporting.pyros-world-events-cale
+ ndar
+DESCRIPTION:CONFIRMED: Grand Départ Grande-Bretagne — Stage 1 Edinburgh
+ –Carlisle Fri 2 Jul 2027 (official letourgb.com/ASO)\; finishes Paris Su
+ n 25 Jul 2027. Full edition in-window.\nSource: https://www.letourgb.com\n
+ Verified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.letourgb.com
+END:VEVENT
+END:VCALENDAR

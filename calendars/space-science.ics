@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pyros//World Events Calendar//space-science//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Stable astronomy (eclipses\, meteor peaks\, solstices) + head
+ line launches
+X-WR-CALNAME:Pyros · Space & Science
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Total Solar Eclipse (Spain / N. Africa) 2026
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260721T000000Z
+UID:total-solar-eclipse-spain-n-africa-2026-2026-08-12@space-science.pyros
+ -world-events-calendar
+DESCRIPTION:Confirmed\; totality across Arctic\, Greenland\, Iceland\, Spa
+ in.\nSource: https://in-the-sky.org\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perseids Meteor Shower Peak 2026
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260721T000000Z
+UID:perseids-meteor-shower-peak-2026-2026-08-12@space-science.pyros-world-
+ events-calendar
+DESCRIPTION:Peak ~Aug 12-13 2026 (research-confirmed).\nSource: https://in
+ -the-sky.org\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:September Equinox 2026
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DTSTAMP:20260721T000000Z
+UID:september-equinox-2026-2026-09-23@space-science.pyros-world-events-cal
+ endar
+DESCRIPTION:Computed astronomical event.\nSource: https://in-the-sky.org\n
+ Verified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orionids Meteor Shower Peak 2026
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20260721T000000Z
+UID:orionids-meteor-shower-peak-2026-2026-10-21@space-science.pyros-world-
+ events-calendar
+DESCRIPTION:Standard annual peak (~Oct 21).\nSource: https://in-the-sky.or
+ g\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leonids Meteor Shower Peak 2026
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260721T000000Z
+UID:leonids-meteor-shower-peak-2026-2026-11-17@space-science.pyros-world-e
+ vents-calendar
+DESCRIPTION:Standard annual peak (~Nov 17).\nSource: https://in-the-sky.or
+ g\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geminids Meteor Shower Peak 2026
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20260721T000000Z
+UID:geminids-meteor-shower-peak-2026-2026-12-14@space-science.pyros-world-
+ events-calendar
+DESCRIPTION:The 'King' of showers\; peak ~Dec 14 (research-confirmed in-wi
+ ndow).\nSource: https://in-the-sky.org\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:December Solstice 2026
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260721T000000Z
+UID:december-solstice-2026-2026-12-21@space-science.pyros-world-events-cal
+ endar
+DESCRIPTION:Computed astronomical event.\nSource: https://in-the-sky.org\n
+ Verified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ursids Meteor Shower Peak 2026
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260721T000000Z
+UID:ursids-meteor-shower-peak-2026-2026-12-22@space-science.pyros-world-ev
+ ents-calendar
+DESCRIPTION:Standard annual peak (~Dec 22).\nSource: https://in-the-sky.or
+ g\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quadrantids Meteor Shower Peak 2027
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20260721T000000Z
+UID:quadrantids-meteor-shower-peak-2027-2027-01-03@space-science.pyros-wor
+ ld-events-calendar
+DESCRIPTION:Peak early Jan 2027 (research-confirmed in-window).\nSource: h
+ ttps://in-the-sky.org\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:March Equinox 2027
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20260721T000000Z
+UID:march-equinox-2027-2027-03-20@space-science.pyros-world-events-calenda
+ r
+DESCRIPTION:Computed astronomical event.\nSource: https://in-the-sky.org\n
+ Verified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lyrids Meteor Shower Peak 2027
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+DTSTAMP:20260721T000000Z
+UID:lyrids-meteor-shower-peak-2027-2027-04-22@space-science.pyros-world-ev
+ ents-calendar
+DESCRIPTION:Standard annual peak (~Apr 22).\nSource: https://in-the-sky.or
+ g\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eta Aquariids Meteor Shower Peak 2027
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260721T000000Z
+UID:eta-aquariids-meteor-shower-peak-2027-2027-05-06@space-science.pyros-w
+ orld-events-calendar
+DESCRIPTION:Standard annual peak (~May 6).\nSource: https://in-the-sky.org
+ \nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:June Solstice 2027
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+DTSTAMP:20260721T000000Z
+UID:june-solstice-2027-2027-06-21@space-science.pyros-world-events-calenda
+ r
+DESCRIPTION:Computed astronomical event.\nSource: https://in-the-sky.org\n
+ Verified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://in-the-sky.org
+END:VEVENT
+END:VCALENDAR
