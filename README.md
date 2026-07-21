@@ -49,7 +49,8 @@ python3 -m venv .venv && ./.venv/bin/pip install -r requirements.txt
 ./.venv/bin/python tools/gen_docs.py
 ```
 
-To add the calendars to Google Calendar, see
+**Subscribe page (hosted):** https://pyrosmgmt.github.io/world-events-calendar/
+— copy any feed link and add it in Google Calendar. Full instructions in
 [`guides/subscription_guide.md`](guides/subscription_guide.md).
 
 ## How it's organised (WAT framework)

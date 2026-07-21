@@ -23,9 +23,14 @@ In **Google Calendar** (web): left sidebar → **Other calendars** → **＋** �
 > (typically several hours to a day) — no action needed from you.
 
 ## B. Add the Pyros custom calendars
-Once the custom `.ics` files are hosted (GitHub Pages), subscribe the same way
-using their URLs, e.g.
-`https://<org>.github.io/world-events-calendar/shopping-events.ics`
+The custom `.ics` files are hosted on GitHub Pages. **Easiest:** open the landing
+page and use its copy-link buttons:
+
+**https://pyrosmgmt.github.io/world-events-calendar/**
+
+Or subscribe directly by URL — the pattern is
+`https://pyrosmgmt.github.io/world-events-calendar/calendars/<category>.ics`, e.g.
+`https://pyrosmgmt.github.io/world-events-calendar/calendars/shopping-events.ics`
 
 **Or** one-time import (does not auto-update): Google Calendar → **Settings** →
 **Import & export** → **Import** → choose an `.ics` from the `calendars/` folder →
