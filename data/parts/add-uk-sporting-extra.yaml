@@ -1,0 +1,8 @@
+target: uk-sporting
+events:
+  - summary: "Guinness Six Nations 2027 — Opening Weekend"
+    start: "2027-02-06"
+    end: "2027-02-07"
+    source_url: "https://www.sixnationsrugby.com"
+    last_verified: "2026-07-21"
+    notes: "Championship kick-off weekend (early February). Complements the existing Super Saturday finale entry. Confirm exact fixtures on the official site."

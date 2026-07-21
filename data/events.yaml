@@ -92,6 +92,125 @@ calendars:
     source_url: https://www.wimbledon.com/en_GB/the_championships/dates
     last_verified: '2026-07-21'
     notes: 'Confirmed via Wimbledon.com future dates: 28 June - 11 July 2027.'
+  - summary: Guinness Six Nations 2027 — Opening Weekend
+    start: '2027-02-06'
+    end: '2027-02-07'
+    source_url: https://www.sixnationsrugby.com
+    last_verified: '2026-07-21'
+    notes: Championship kick-off weekend (early February). Complements the existing Super Saturday finale
+      entry. Confirm exact fixtures on the official site.
+  - summary: Qatar Goodwood Festival 2026 (Glorious Goodwood)
+    start: '2026-07-28'
+    end: '2026-08-01'
+    source_url: https://www.goodwood.com/horseracing/qatar-goodwood-festival/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: 28 Jul - 1 Aug 2026 at Goodwood, five-day ITV flat racing festival (Sussex Stakes/Goodwood
+      Cup).'
+  - summary: FA Community Shield 2026
+    start: '2026-08-16'
+    source_url: https://www.thefa.com/news/2026/jun/04/2026-fa-community-shield
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via The FA: Sunday 16 Aug 2026, Arsenal v Man City. Played at Principality Stadium,
+      Cardiff (Wembley unavailable), 3pm BST. Season curtain-raiser.'
+  - summary: Premier League 2026/27 — Opening Weekend
+    start: '2026-08-21'
+    source_url: https://www.premierleague.com/en/news/4468487/dates-for-202627-premier-league-season-confirmed
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Premier League: opens Fri 21 Aug 2026 (Arsenal v Coventry); full opening round
+      21-23 Aug.'
+  - summary: Women's Super League (WSL) 2026/27 — Opening Weekend
+    start: '2026-09-04'
+    source_url: https://www.arsenal.com/news/wsl-details-final-day-and-start-202627
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: 2026/27 WSL season kicks off weekend of 4-6 Sep 2026.'
+  - summary: Betfred St Leger 2026 (Doncaster)
+    start: '2026-09-12'
+    source_url: https://www.doncaster-racecourse.co.uk/whats-on/betfred-st-leger-day-2026
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: St Leger Stakes Day is Sat 12 Sep 2026 (festival 10-13 Sep); 250th running, oldest
+      Classic.'
+  - summary: AJ Bell Great North Run 2026
+    start: '2026-09-13'
+    source_url: https://www.greatrun.org/events/great-north-run/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Sunday 13 Sep 2026, Newcastle to South Shields (world''s biggest half marathon,
+      ~60k runners).'
+  - summary: BMW PGA Championship 2026 (Wentworth)
+    start: '2026-09-17'
+    end: '2026-09-20'
+    source_url: https://www.europeantour.com/dpworld-tour/bmw-pga-championship-2026/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via DP World Tour: championship rounds Thu 17 - Sun 20 Sep 2026 at Wentworth (Tour
+      flagship).'
+  - summary: Betfred Super League Grand Final 2026
+    start: '2026-10-03'
+    source_url: https://www.superleague.co.uk/tickets/grand-final
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Saturday 3 Oct 2026 at Old Trafford (a week earlier than usual ahead of the RL
+      World Cup).'
+  - summary: Autumn Nations Series 2026 — England Opener
+    start: '2026-11-08'
+    source_url: https://allianzstadiumtwickenham.com/nations-championship
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: England''s autumn campaign opens Sun 8 Nov 2026 v Australia at Twickenham (then
+      Japan 14 Nov, New Zealand 21 Nov); Finals Weekend 27-29 Nov. Part of the new Nations Championship.'
+  - summary: Masters Snooker 2027 (Alexandra Palace)
+    start: '2027-01-10'
+    end: '2027-01-17'
+    source_url: https://en.wikipedia.org/wiki/2027_Masters_(snooker)
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: 10-17 Jan 2027 at Alexandra Palace, London (invitational, top 16).'
+  - summary: '[TBC] Premier League Darts 2027 — Night 1'
+    start: '2027-02-04'
+    source_url: https://www.pdc.tv/tournaments/betmgm-premier-league
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. 2026 edition ran 5 Feb - 28 May 2026
+      (weekly Thursday nights); 2027 fixtures not yet published. Estimate = first Thursday of Feb 2027.'
+  - summary: Carabao Cup (EFL Cup) Final 2027
+    start: '2027-03-21'
+    source_url: https://www.efl.com/competitions/carabao-cup/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via EFL: Sunday 21 Mar 2027 at Wembley.'
+  - summary: Adobe Women's FA Cup Final 2027
+    start: '2027-05-15'
+    source_url: https://www.thefa.com/competitions/the-womens-fa-cup/round-dates
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via The FA: Saturday 15 May 2027 at Wembley.'
+  - summary: Investec Champions Cup Final 2027
+    start: '2027-05-22'
+    source_url: https://www.rugbypass.com/news/venue-confirmed-for-2027-champions-cup-and-challenge-cup-finals/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Saturday 22 May 2027, held at OL Stadium, Lyon (not UK, but a marquee UK broadcast
+      fixture on TNT Sports).'
+  - summary: Sky Bet Championship Play-Off Final 2027
+    start: '2027-05-29'
+    source_url: https://www.efl.com/competitions/key-dates/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via EFL: Saturday 29 May 2027 at Wembley (''the richest game in football'').'
+  - summary: Betfred Challenge Cup Final 2027 (Rugby League)
+    start: '2027-06-05'
+    source_url: https://www.rugby-league.com/competitions/pro-national/betfred-challenge-cup/challenge-cup-final
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Saturday 5 Jun 2027 at Wembley (men''s and women''s finals same day).'
+  - summary: '[TBC] HSBC Championships 2027 (Queen''s Club)'
+    start: '2027-06-14'
+    source_url: https://www.lta.org.uk/fan-zone/international/hsbc-championships/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. ATP/WTA grass Wimbledon warm-up at Queen''s
+      (rebranded HSBC Championships); 2027 dates unpublished. Estimate = Mon 14 Jun 2027 (two weeks before
+      Wimbledon).'
+  - summary: Gallagher Premiership Rugby Final 2027
+    start: '2027-06-19'
+    source_url: https://www.premiershiprugby.com/content/gallagher-prem-2026-27-start-and-final-dates-confirmed
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via Premiership Rugby: Saturday 19 Jun 2027 at Allianz Stadium, Twickenham.'
+  - summary: The 155th Open Championship 2027 (St Andrews)
+    start: '2027-07-15'
+    end: '2027-07-18'
+    source_url: https://en.wikipedia.org/wiki/2027_Open_Championship
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via R&A rota: 15-18 Jul 2027 at the Old Course, St Andrews (centenary of Bobby Jones''
+      1927 win).'
 - id: us-sporting
   name: Pyros · US Sporting
   description: US marquee sporting tentpoles (curated; championship/season level)
@@ -214,6 +333,96 @@ calendars:
       dates (''Stay tuned for... WNBA Finals dates!''). CONFIRMED context: regular season ends Thu 24
       Sep 2026, so Finals fall in early-to-mid October 2026 per recent seasons. Start date is an estimate,
       not official.'
+  - summary: Leagues Cup 2026
+    start: '2026-08-04'
+    end: '2026-09-06'
+    source_url: https://www.leaguescup.com/news/leagues-cup-2026-set-to-be-played-august-4-september-6-participating-clubs-announced
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via official leaguescup.com: MLS vs LIGA MX, 36 clubs. League phase opens Aug 4
+      2026; Final & 3rd-place match Sun Sep 6 2026. Shifted later than usual due to 2026 FIFA World Cup.'
+  - summary: College Football 2026 Season Kickoff
+    start: '2026-08-29'
+    source_url: https://www.ncaa.com/news/football/article/2026-06-01/college-football-schedule-when-does-2026-college-football-season-start
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via NCAA.com: 2026 season opens with Week 0 games Sat Aug 29 2026; full Week 1 slate
+      over Labor Day weekend (Thu Sep 3 - Mon Sep 7).'
+  - summary: NHL 2026-27 Season Opening Night
+    start: '2026-09-29'
+    source_url: https://www.nhl.com/news/nhl-releases-2026-27-regular-season-schedule
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via NHL.com: first-ever 84-game season opens Tue Sep 29 2026 with an ESPN tripleheader
+      (Panthers-Hurricanes, Canadiens-Maple Leafs, Rangers-Bruins). Home openers span Sep 29 - Oct 10.'
+  - summary: College Football Rivalry Week 2026
+    start: '2026-11-28'
+    source_url: https://www.ncaa.com/news/football/article/2026-06-01/college-football-schedule-when-does-2026-college-football-season-start
+    last_verified: '2026-07-21'
+    notes: Marquee CFB rivalry weekend (Ohio State-Michigan, Iron Bowl, etc.) — final regular-season Saturday,
+      computed as the Saturday after US Thanksgiving (Nov 26 2026). Tentpole viewership window, not a
+      single competition.
+  - summary: MLS Cup 2026
+    start: '2026-12-18'
+    source_url: https://www.mlssoccer.com/playoffs/2025/news/audi-2026-mls-cup-playoffs-key-dates-schedule-information
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via MLS: 2026 MLS Cup Final set for Fri Dec 18 2026 (first time the championship
+      is not on a weekend), hosted by the higher-seeded finalist; on FOX/Apple TV.'
+  - summary: NHL Winter Classic 2027
+    start: '2026-12-31'
+    source_url: https://www.nhl.com/events/nhl-winter-classic/2026-27/faq
+    last_verified: '2026-07-21'
+    notes: 'Confirmed: Colorado Avalanche vs Utah Mammoth at Rice-Eccles Stadium, Salt Lake City, on New
+      Year''s Eve Thu Dec 31 2026 (Utah''s first outdoor NHL game).'
+  - summary: Rose Bowl Game 2027 (CFP Quarterfinal)
+    start: '2027-01-01'
+    source_url: https://rosebowlgame.com/news/2026/2/3/general-cfp-announces-2026-and-2027-playoff-sites-rose-bowl-game-to-be-quarterfinal.aspx
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via CFP/Tournament of Roses: 113th Rose Bowl on New Year''s Day Fri Jan 1 2027 in
+      Pasadena, serving as a College Football Playoff quarterfinal.'
+  - summary: March Madness 2027 (Selection Sunday / First Round)
+    start: '2027-03-14'
+    source_url: https://www.ncaa.com/news/basketball-men/article/2026-05-07/2027-march-madness-mens-ncaa-tournament-schedule-dates
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via NCAA.com: men''s Selection Sunday Mar 14 2027; opening-round games Mar 16-17;
+      64-team First Round Mar 18-19. First tournament of the expanded 76-team era. (Final Four Apr 3/5
+      already in calendar.)'
+  - summary: PGA Championship 2027
+    start: '2027-05-20'
+    end: '2027-05-23'
+    source_url: https://www.pgachampionship.com/tickets-2027
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via official pgachampionship.com: championship rounds Thu May 20 - Sun May 23 2027
+      at Fields Ranch East, PGA Frisco, Texas (major debut at the venue).'
+  - summary: Belmont Stakes 2027
+    start: '2027-06-05'
+    source_url: https://www.nyra.com/belmont-stakes/
+    last_verified: '2026-07-21'
+    notes: 'Confirmed via NYRA: 2027 Belmont Stakes Sat Jun 5 2027, returning to a renovated Belmont Park
+      after three years at Saratoga. Third leg of the Triple Crown.'
+  - summary: '[TBC] MLS 2027 Season Opening (Sprint Season)'
+    start: '2027-02-20'
+    source_url: https://www.mlssoccer.com/news/2027-mls-sprint-season-to-launch-major-league-soccer-s-transition-into-new-era
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. MLS confirms the new 14-game ''Sprint
+      Season'' kicks off in February 2027 but has not published the opening date; Feb 20 is an estimate
+      pending the schedule release.'
+  - summary: '[TBC] WNBA 2027 Season Opening'
+    start: '2027-05-14'
+    source_url: https://pr.nba.com/2026-wnba-game-schedule
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. 2027 schedule not yet released; the
+      2026 season tipped off Fri May 8, so mid-May 2027 is the estimate.'
+  - summary: '[TBC] Preakness Stakes 2027'
+    start: '2027-05-15'
+    source_url: https://www.baltimoresun.com/2026/04/14/preakness-date-triple-crown-calendar-maryland-jockey-club/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Traditionally two weeks after the Derby
+      (May 1 2027) = ~May 15, but the Maryland Jockey Club is considering pushing the 2027 Preakness back
+      a week (~May 22) as Pimlico reopens. Second leg of the Triple Crown.'
+  - summary: '[TBC] NBA Draft 2027'
+    start: '2027-06-24'
+    source_url: https://www.nba.com/news/key-dates
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed by the NBA as of 2026-07-21. Widely reported as Thu Jun
+      24 2027 (roughly three weeks after the Finals); first draft under the new ''3-2-1'' lottery structure.'
 - id: global-sporting
   name: Pyros · Global Sporting
   description: Global mega sporting events (one entry per tournament)
@@ -267,6 +476,78 @@ calendars:
     notes: 'CONFIRMED by FIFA Council: opening match Thu 24 Jun 2027, final Sun 25 Jul 2027. First Women''s
       World Cup in South America; 32 teams, 8 host cities. Entire tournament (incl. final) falls within
       window (ends 2027-07-31).'
+  - summary: UEFA Champions League 2026/27 — League Phase Begins
+    start: '2026-09-08'
+    source_url: https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: competition-proper league phase kicks off 8 Sep 2026 (Matchday 1 8-10 Sep); runs
+      to final 5 Jun 2027 (final already listed separately). Draw 27 Aug 2026.'
+  - summary: UEFA Europa League 2026/27 — League Phase Begins
+    start: '2026-09-16'
+    source_url: https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: competition-proper league phase begins 16 Sep 2026 (Matchday 1 16-17 Sep). Draw
+      28 Aug 2026.'
+  - summary: UEFA Europa League Final 2027
+    start: '2027-05-26'
+    source_url: https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: final 26 May 2027 at the Waldstadion (Deutsche Bank Park), Frankfurt, Germany.'
+  - summary: UEFA Nations League Finals 2027
+    start: '2027-06-09'
+    source_url: https://en.wikipedia.org/wiki/2027_UEFA_Nations_League_Finals
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: Finals four (semis 9-10 Jun, 3rd-place & final 13 Jun 2027). Host TBD; contested
+      by the four Nations League A quarter-final winners.'
+  - summary: Commonwealth Games Glasgow 2026
+    start: '2026-07-23'
+    end: '2026-08-02'
+    source_url: https://en.wikipedia.org/wiki/2026_Commonwealth_Games
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: Glasgow, Scotland, 23 Jul - 2 Aug 2026. Slimmed-down multi-sport Games across four
+      venues. Opening ceremony 23 Jul falls just inside window (window opens 2026-07-21).'
+  - summary: Vuelta a Espana 2026
+    start: '2026-08-22'
+    end: '2026-09-13'
+    source_url: https://en.wikipedia.org/wiki/2026_Vuelta_a_Espa%C3%B1a
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: 81st edition, 22 Aug - 13 Sep 2026. Grand Depart (10km ITT) in Monaco; finishes
+      in Granada. Third Grand Tour of the cycling season.'
+  - summary: Wanda Diamond League Final 2026 (Brussels)
+    start: '2026-09-04'
+    end: '2026-09-05'
+    source_url: https://worldathletics.org/competitions/diamond-league/news/diamond-league-calendar-2026
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: season-ending Diamond League Final in Brussels, 4-5 Sep 2026 (Zurich meeting 27
+      Aug is a regular-season stop, not the final).'
+  - summary: Africa Cup of Nations 2027 (AFCON, East Africa)
+    start: '2027-06-19'
+    end: '2027-07-17'
+    source_url: https://www.cafonline.com/afcon2025/news/road-to-east-africa-caf-announces-kick-off-final-and-qualifiers-dates-for-the-totalenergies-caf-africa-cup-of-nations-pamoja-2027/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED by CAF: opening match 19 Jun 2027, final 17 Jul 2027. First AFCON co-hosted by three
+      nations (Kenya, Tanzania, Uganda / ''Pamoja''). Entire tournament falls inside window.'
+  - summary: '[TBC] Indian Premier League 2027 (Season 20)'
+    start: '2027-03-14'
+    source_url: https://www.newsbytesapp.com/news/sports/ipl-2027-set-to-begin-on-march-10/story
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. BCCI is considering an earlier window
+      (~10 Mar - mid/late May 2027) to dodge heat/monsoon; reported start dates range from 10 to 14 Mar
+      2027. No official fixtures released. Re-verify.'
+  - summary: '[TBC] Giro d''Italia 2027'
+    start: '2027-05-08'
+    source_url: https://www.giroditalia.it/en/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Route/dates announced ~Nov 2026. Estimate
+      from the Giro''s usual early-May slot (2024 started 4 May, 2025 9 May). Possible overseas Grande
+      Partenza (Australia/Middle East rumoured). Re-verify.'
+  - summary: '[TBC] ICC World Test Championship Final 2027 (Lord''s)'
+    start: '2027-06-09'
+    source_url: https://en.wikipedia.org/wiki/2025%E2%80%932027_World_Test_Championship
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. WTC 2025-27 final confirmed for Lord''s
+      in June 2027; ICC has not published exact dates. Estimate from recent finals (2023: 7-11 Jun; 2025:
+      11-15 Jun). Re-verify.'
 - id: combat-sports
   name: Pyros · Combat Sports
   description: Marquee boxing & crossover cards (UFC/MMA via separate auto-feed)
@@ -453,6 +734,50 @@ calendars:
     source_url: https://www.fiawec.com/en/race/24-hours-of-le-mans-2027
     last_verified: '2026-07-21'
     notes: Confirmed via FIA WEC; 95th running, race Sat June 12 to Sun June 13 (full event June 9-13).
+  - summary: NASCAR Cup Series 2026 — Championship Race (Homestead-Miami)
+    start: '2026-11-08'
+    source_url: https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series
+    last_verified: '2026-07-21'
+    notes: Confirmed; season finale / title decider at Homestead-Miami Speedway on Sun Nov 8 (championship
+      moved from Phoenix).
+  - summary: Formula E 2026/27 Season 13 Opener (Jeddah E-Prix)
+    start: '2026-12-18'
+    end: '2026-12-19'
+    source_url: https://www.fiaformulae.com/en/news/1074658/season-13-calendar-where-will-formula-e-be-racing-in-2026-27
+    last_verified: '2026-07-21'
+    notes: Confirmed; GEN4-era season opener, Jeddah Corniche Circuit night double-header Dec 18-19, 2026
+      (21-race calendar).
+  - summary: '[TBC] WRC 2027 Season Opener — Rallye Monte-Carlo'
+    start: '2027-01-21'
+    end: '2027-01-24'
+    source_url: https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/
+    last_verified: '2026-07-21'
+    notes: TENTATIVE — 95th running, event window Jan 18-24 2027 per ACM; subject to FIA World Motor Sport
+      Council calendar approval. Traditional WRC season opener.
+  - summary: IndyCar 2027 Season Opener — Grand Prix of St. Petersburg
+    start: '2027-03-07'
+    source_url: https://www.indycar.com/Schedule
+    last_verified: '2026-07-21'
+    notes: Confirmed; Firestone Grand Prix of St. Petersburg, street circuit, opens 2027 NTT IndyCar season
+      on Sun Mar 7.
+  - summary: FIA WEC 2027 Season Opener — Qatar 1812km
+    start: '2027-03-27'
+    source_url: https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598
+    last_verified: '2026-07-21'
+    notes: Confirmed; season opener of nine-round 2027 FIA WEC calendar, Lusail International Circuit,
+      race weekend Mar 25-27.
+  - summary: NASCAR Cup Series Coca-Cola 600 (2027)
+    start: '2027-05-30'
+    source_url: https://www.charlottemotorspeedway.com/events/coca-cola-600/
+    last_verified: '2026-07-21'
+    notes: Confirmed via Charlotte Motor Speedway; crown-jewel 600-mile race, Memorial Day weekend, Sun
+      May 30, 2027.
+  - summary: '[TBC] MotoGP 2027 Season Opening Round'
+    start: '2027-02-28'
+    source_url: https://www.motogp.com/en/calendar/2027
+    last_verified: '2026-07-21'
+    notes: TENTATIVE — 2027 MotoGP calendar not yet officially published. Recent seasons (2025, 2026)
+      opened in Thailand (Buriram) in late Feb / early March; placeholder date pending official release.
 - id: gaming
   name: Pyros · Gaming
   description: Major game launches, showcases & esports finals (curated)
@@ -511,6 +836,89 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. 2027 date not yet announced; estimate
       from early-mid-June pattern (SGF 2026 was Jun 5). Re-verify when Geoff Keighley announces.'
+  - summary: The International 2026 (Dota 2) — Grand Final
+    start: '2026-08-23'
+    source_url: https://liquipedia.net/dota2/The_International/2026
+    last_verified: '2026-07-21'
+    notes: Confirmed via Valve/Liquipedia; Oriental Sports Center, Shanghai, China. Event runs Aug 13-23;
+      main event Aug 20-23, Grand Final Aug 23. Marquee annual Dota 2 championship.
+  - summary: Valorant Champions 2026 — Grand Final
+    start: '2026-10-18'
+    source_url: https://liquipedia.net/valorant/VCT/2026/Champions
+    last_verified: '2026-07-21'
+    notes: Confirmed via Riot/Liquipedia; Shanghai, China (China's first). Tournament runs Sep 24-Oct
+      18; Grand Final Oct 18. Riot's Valorant world championship.
+  - summary: Fortnite Global Championship 2026 (FNCS)
+    start: '2026-09-26'
+    end: '2026-09-27'
+    source_url: https://www.fortnite.com/competitive/fncs-2026-overview
+    last_verified: '2026-07-21'
+    notes: Confirmed via official Fortnite competitive site; Antwerp, Belgium, Sep 26-27. Duos format,
+      $2M prize pool — Fortnite's world finals.
+  - summary: CS2 PGL Major Singapore 2026 — Grand Final
+    start: '2026-12-13'
+    source_url: https://www.pglesports.com/cs2/pgl-major-singapore-2026/
+    last_verified: '2026-07-21'
+    notes: Confirmed via PGL; Counter-Strike 2 Major. Event runs Nov 25-Dec 13, playoffs/final at Singapore
+      Indoor Stadium (final ~Dec 13). Second CS2 Major of 2026 (IEM Cologne was Jun, out of window).
+  - summary: Pokémon World Championships 2026
+    start: '2026-08-28'
+    end: '2026-08-30'
+    source_url: https://worlds.pokemon.com/en-us
+    last_verified: '2026-07-21'
+    notes: Confirmed via official Pokémon Worlds site; Moscone Center, San Francisco, Aug 28-30. TCG,
+      VGC, GO & UNITE finals; first co-located with PokémonXP fan convention.
+  - summary: BlizzCon 2026
+    start: '2026-09-12'
+    end: '2026-09-13'
+    source_url: https://news.blizzard.com/en-us/article/24178650/blizzcon-returns-in-2026
+    last_verified: '2026-07-21'
+    notes: Confirmed via official Blizzard News; Anaheim Convention Center, Sep 12-13. Blizzard's return
+      convention (WoW, Diablo, Overwatch, esports).
+  - summary: GDC 2027 (Game Developers Conference)
+    start: '2027-03-01'
+    end: '2027-03-05'
+    source_url: https://gdconf.com/
+    last_verified: '2026-07-21'
+    notes: Confirmed via GDC; Moscone Center + downtown SF venues, Mar 1-5, 2027. Premier games-industry
+      professional/dev conference.
+  - summary: PAX East 2027
+    start: '2027-04-22'
+    end: '2027-04-25'
+    source_url: https://east.paxsite.com/
+    last_verified: '2026-07-21'
+    notes: Confirmed via official PAX East (dates announced by PAX East News); Menino Convention Center,
+      Boston, Apr 22-25, 2027.
+  - summary: Marvel's Wolverine Launch
+    start: '2026-09-15'
+    source_url: https://www.playstation.com/en-us/games/marvels-wolverine/
+    last_verified: '2026-07-21'
+    notes: Confirmed via Sony/Insomniac (date locked Feb 24, 2026); Sep 15, 2026, PS5 exclusive. PlayStation's
+      marquee 2026 first-party title. Launch dates can slip — re-verify.
+  - summary: National Video Games Day 2026
+    start: '2026-09-12'
+    source_url: https://www.nationaldaycalendar.com/national-day/national-video-games-day-september-12
+    last_verified: '2026-07-21'
+    notes: Recurring promo hook — annual Sep 12 observance (the more industry-marketed of two variants;
+      a separate 'National Video Game Day' falls Jul 8). Steam/PSN/eShop sales tie-in.
+  - summary: Pokémon Day 2027
+    start: '2027-02-27'
+    source_url: https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Day
+    last_verified: '2026-07-21'
+    notes: Recurring franchise anniversary (Feb 27, Red/Green JP release, 1996). Annual 'Pokémon Presents'
+      showcase + promos — strong promo hook.
+  - summary: MAR10 Day (Mario Day) 2027
+    start: '2027-03-10'
+    source_url: https://www.nintendo.com/us/whatsnew/mar10-day-returns-with-festivities-for-fans-of-all-ages-in-honor-of-the-super-mario-bros-40th-anniversary-and-the-super-mario-galaxy-movie/
+    last_verified: '2026-07-21'
+    notes: Recurring promo hook — 'MAR10' = MARIO. Nintendo-endorsed since 2016; annual Mar 10 sales,
+      in-game events, retail promos.
+  - summary: Star Wars Day 2027 (May the 4th)
+    start: '2027-05-04'
+    source_url: https://www.starwars.com/star-wars-day
+    last_verified: '2026-07-21'
+    notes: Recurring promo hook — annual May 4 ('May the Fourth be with you'). Steam/PSN Star Wars game
+      sales, LEGO/merch promos. Gaming + pop-culture crossover.
 - id: entertainment-pop-culture
   name: Pyros · Entertainment & Pop Culture
   description: Award shows, blockbuster releases & major pop-culture moments (curated)
@@ -626,6 +1034,120 @@ calendars:
     source_url: https://www.imdb.com/news/ni65669032/
     last_verified: '2026-07-21'
     notes: Disney+ — Season 3 premiere, adapting 'The Titan's Curse'. Premiere date confirmed by Disney+.
+  - summary: The Fashion Awards 2026 (London)
+    start: '2026-11-30'
+    source_url: https://fashionawards.com/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: Mon Nov 30, 2026, Royal Albert Hall, London (British Fashion Council). Ticketmaster
+      UK + Ents24 confirm date.'
+  - summary: BRIT Awards 2027
+    start: '2027-02-27'
+    source_url: https://www.brits.co.uk/news/2026/the-brit-awards-reveals-2027-date/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via BRITs official + Billboard/NME: Sat Feb 27, 2027, Co-op Live, Manchester (ITV1/ITVX).
+      50th anniversary of televised BRITs.'
+  - summary: Venice Film Festival 2026 (83rd)
+    start: '2026-09-02'
+    end: '2026-09-12'
+    source_url: https://www.labiennale.org/en/cinema/2026
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via La Biennale: Sep 2-12, 2026, Lido di Venezia. Jury president Maggie Gyllenhaal.
+      Fall awards-season launchpad.'
+  - summary: Toronto International Film Festival 2026 (TIFF, 51st)
+    start: '2026-09-10'
+    end: '2026-09-20'
+    source_url: https://www.tiff.net/about-the-festival/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: Sep 10-20, 2026, Toronto. Major awards-season red-carpet festival.'
+  - summary: Sundance Film Festival 2027
+    start: '2027-01-21'
+    end: '2027-01-31'
+    source_url: https://www.sundance.org/blogs/2027-sundance-film-festival-to-take-place-january-21-31-in-boulder-colorado/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via Sundance Institute: Jan 21-31, 2027 — first edition in new home Boulder, Colorado
+      (after 40+ years in Park City).'
+  - summary: Berlin International Film Festival 2027 (Berlinale, 77th)
+    start: '2027-02-10'
+    end: '2027-02-21'
+    source_url: https://www.berlinale.de/en/dates.html
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: Feb 10-21, 2027 (starts Wednesday for the first time). Awards ceremony Fri Feb
+      19, 2027.'
+  - summary: SXSW 2027 (Film & TV Festival, Austin)
+    start: '2027-03-15'
+    end: '2027-03-21'
+    source_url: https://sxsw.com/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED on official site: SXSW Conferences & Festivals Mar 15-21, 2027, Austin TX (Film
+      & TV Festival within it).'
+  - summary: Cannes Film Festival 2027 (80th)
+    start: '2027-05-11'
+    end: '2027-05-22'
+    source_url: https://www.screendaily.com/news/cannes-film-festival-confirms-2027-dates-for-80th-edition/5217448.article
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: Tue May 11 - Sat May 22, 2027 (80th edition). Premier global film-festival red-carpet
+      moment.'
+  - summary: 'Dune: Part Three (theatrical release)'
+    start: '2026-12-18'
+    source_url: https://www.imdb.com/title/tt31378509/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via Warner Bros./Legendary: Fri Dec 18, 2026 (same day as Avengers: Doomsday). Denis
+      Villeneuve tentpole.'
+  - summary: 'Ice Age: Boiling Point (theatrical release)'
+    start: '2027-02-05'
+    source_url: https://www.hollywoodreporter.com/movies/movie-news/ice-age-6-now-titled-boiling-point-sets-2027-release-date-1236357740/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via 20th Century Studios (Destination D23): Fri Feb 5, 2027. Sixth Ice Age film
+      / franchise tentpole.'
+  - summary: 'Spider-Man: Beyond the Spider-Verse (theatrical release)'
+    start: '2027-06-18'
+    source_url: https://variety.com/2025/film/news/spiderman-beyond-the-spiderverse-moves-release-date-1236528682/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via Sony: Fri Jun 18, 2027 (Father''s Day / Juneteenth weekend). Animated Spider-Verse
+      trilogy finale.'
+  - summary: Shrek 5 (theatrical release)
+    start: '2027-06-30'
+    source_url: https://variety.com/2025/film/news/shrek-5-release-date-delayed-june-2027-1236486883/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via DreamWorks/Universal: Wed Jun 30, 2027. Myers/Murphy/Diaz return; Zendaya joins.
+      First Shrek film since 2010.'
+  - summary: A Minecraft Movie Squared (theatrical release)
+    start: '2027-07-23'
+    source_url: https://variety.com/2025/film/news/minecraft-2-release-date-july-2027-1236544541/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via Warner Bros.: Fri Jul 23, 2027. Sequel to 2025''s blockbuster A Minecraft Movie;
+      Jack Black & Jason Momoa return.'
+  - summary: '[TBC] Eurovision Song Contest 2027 (Grand Final)'
+    start: '2027-05-15'
+    source_url: https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2027
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Confirmed to be hosted in Bulgaria (host
+      city Burgas or Sofia, decision due ~Jul 31, 2026) in May 2027; exact Grand Final date not yet announced.
+      Date is a mid-May Saturday estimate.'
+  - summary: '[TBC] iHeartRadio Music Awards 2027'
+    start: '2027-03-22'
+    source_url: https://www.iheart.com/music-awards/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. 2026 edition was Mar 26; date is a late-March
+      estimate based on the annual pattern.'
+  - summary: '[TBC] BAFTA Television Awards 2027'
+    start: '2027-05-09'
+    source_url: https://www.bafta.org/awards/television/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. 2026 edition was Sun May 10; date is
+      a mid-May Sunday estimate based on the annual pattern.'
+  - summary: '[TBC] People''s Choice Awards 2027'
+    start: '2027-02-18'
+    source_url: https://en.wikipedia.org/wiki/People's_Choice_Awards
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Announced (May 2026) to return in 2027
+      on E!; no date set. February estimate based on prior editions — verify closer to date.'
+  - summary: '[TBC] Nickelodeon Kids'' Choice Awards 2027'
+    start: '2027-03-27'
+    source_url: https://en.wikipedia.org/wiki/Nickelodeon_Kids'_Choice_Awards
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. No official date announced; recent editions
+      have been irregular. Spring/March estimate only — verify closer to date.'
 - id: music-festivals
   name: Pyros · Music & Festivals
   description: Major music festivals (one entry per festival)

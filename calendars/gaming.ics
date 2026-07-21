@@ -128,4 +128,185 @@ DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. 2027 dat
 TRANSP:TRANSPARENT
 URL:https://www.summergamefest.com/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The International 2026 (Dota 2) — Grand Final
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+DTSTAMP:20260721T000000Z
+UID:the-international-2026-dota-2-grand-final-2026-08-23@gaming.pyros-worl
+ d-events-calendar
+DESCRIPTION:Confirmed via Valve/Liquipedia\; Oriental Sports Center\, Shan
+ ghai\, China. Event runs Aug 13-23\; main event Aug 20-23\, Grand Final Au
+ g 23. Marquee annual Dota 2 championship.\nSource: https://liquipedia.net/
+ dota2/The_International/2026\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://liquipedia.net/dota2/The_International/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valorant Champions 2026 — Grand Final
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20260721T000000Z
+UID:valorant-champions-2026-grand-final-2026-10-18@gaming.pyros-world-even
+ ts-calendar
+DESCRIPTION:Confirmed via Riot/Liquipedia\; Shanghai\, China (China's firs
+ t). Tournament runs Sep 24-Oct 18\; Grand Final Oct 18. Riot's Valorant wo
+ rld championship.\nSource: https://liquipedia.net/valorant/VCT/2026/Champi
+ ons\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://liquipedia.net/valorant/VCT/2026/Champions
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fortnite Global Championship 2026 (FNCS)
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260721T000000Z
+UID:fortnite-global-championship-2026-fncs-2026-09-26@gaming.pyros-world-e
+ vents-calendar
+DESCRIPTION:Confirmed via official Fortnite competitive site\; Antwerp\, B
+ elgium\, Sep 26-27. Duos format\, $2M prize pool — Fortnite's world fina
+ ls.\nSource: https://www.fortnite.com/competitive/fncs-2026-overview\nVeri
+ fied: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.fortnite.com/competitive/fncs-2026-overview
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS2 PGL Major Singapore 2026 — Grand Final
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20260721T000000Z
+UID:cs2-pgl-major-singapore-2026-grand-final-2026-12-13@gaming.pyros-world
+ -events-calendar
+DESCRIPTION:Confirmed via PGL\; Counter-Strike 2 Major. Event runs Nov 25-
+ Dec 13\, playoffs/final at Singapore Indoor Stadium (final ~Dec 13). Secon
+ d CS2 Major of 2026 (IEM Cologne was Jun\, out of window).\nSource: https:
+ //www.pglesports.com/cs2/pgl-major-singapore-2026/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.pglesports.com/cs2/pgl-major-singapore-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pokémon World Championships 2026
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260721T000000Z
+UID:pokémon-world-championships-2026-2026-08-28@gaming.pyros-world-events
+ -calendar
+DESCRIPTION:Confirmed via official Pokémon Worlds site\; Moscone Center\,
+  San Francisco\, Aug 28-30. TCG\, VGC\, GO & UNITE finals\; first co-locat
+ ed with PokémonXP fan convention.\nSource: https://worlds.pokemon.com/en-
+ us\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://worlds.pokemon.com/en-us
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BlizzCon 2026
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260721T000000Z
+UID:blizzcon-2026-2026-09-12@gaming.pyros-world-events-calendar
+DESCRIPTION:Confirmed via official Blizzard News\; Anaheim Convention Cent
+ er\, Sep 12-13. Blizzard's return convention (WoW\, Diablo\, Overwatch\, e
+ sports).\nSource: https://news.blizzard.com/en-us/article/24178650/blizzco
+ n-returns-in-2026\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://news.blizzard.com/en-us/article/24178650/blizzcon-returns-in-2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDC 2027 (Game Developers Conference)
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+DTSTAMP:20260721T000000Z
+UID:gdc-2027-game-developers-conference-2027-03-01@gaming.pyros-world-even
+ ts-calendar
+DESCRIPTION:Confirmed via GDC\; Moscone Center + downtown SF venues\, Mar 
+ 1-5\, 2027. Premier games-industry professional/dev conference.\nSource: h
+ ttps://gdconf.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://gdconf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAX East 2027
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20260721T000000Z
+UID:pax-east-2027-2027-04-22@gaming.pyros-world-events-calendar
+DESCRIPTION:Confirmed via official PAX East (dates announced by PAX East N
+ ews)\; Menino Convention Center\, Boston\, Apr 22-25\, 2027.\nSource: http
+ s://east.paxsite.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://east.paxsite.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marvel's Wolverine Launch
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20260721T000000Z
+UID:marvels-wolverine-launch-2026-09-15@gaming.pyros-world-events-calendar
+DESCRIPTION:Confirmed via Sony/Insomniac (date locked Feb 24\, 2026)\; Sep
+  15\, 2026\, PS5 exclusive. PlayStation's marquee 2026 first-party title. 
+ Launch dates can slip — re-verify.\nSource: https://www.playstation.com/
+ en-us/games/marvels-wolverine/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.playstation.com/en-us/games/marvels-wolverine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Video Games Day 2026
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260721T000000Z
+UID:national-video-games-day-2026-2026-09-12@gaming.pyros-world-events-cal
+ endar
+DESCRIPTION:Recurring promo hook — annual Sep 12 observance (the more in
+ dustry-marketed of two variants\; a separate 'National Video Game Day' fal
+ ls Jul 8). Steam/PSN/eShop sales tie-in.\nSource: https://www.nationaldayc
+ alendar.com/national-day/national-video-games-day-september-12\nVerified: 
+ 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nationaldaycalendar.com/national-day/national-video-games-
+ day-september-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pokémon Day 2027
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+DTSTAMP:20260721T000000Z
+UID:pokémon-day-2027-2027-02-27@gaming.pyros-world-events-calendar
+DESCRIPTION:Recurring franchise anniversary (Feb 27\, Red/Green JP release
+ \, 1996). Annual 'Pokémon Presents' showcase + promos — strong promo ho
+ ok.\nSource: https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Day\nVer
+ ified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAR10 Day (Mario Day) 2027
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+DTSTAMP:20260721T000000Z
+UID:mar10-day-mario-day-2027-2027-03-10@gaming.pyros-world-events-calendar
+DESCRIPTION:Recurring promo hook — 'MAR10' = MARIO. Nintendo-endorsed si
+ nce 2016\; annual Mar 10 sales\, in-game events\, retail promos.\nSource: 
+ https://www.nintendo.com/us/whatsnew/mar10-day-returns-with-festivities-fo
+ r-fans-of-all-ages-in-honor-of-the-super-mario-bros-40th-anniversary-and-t
+ he-super-mario-galaxy-movie/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nintendo.com/us/whatsnew/mar10-day-returns-with-festivitie
+ s-for-fans-of-all-ages-in-honor-of-the-super-mario-bros-40th-anniversary-a
+ nd-the-super-mario-galaxy-movie/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars Day 2027 (May the 4th)
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DTSTAMP:20260721T000000Z
+UID:star-wars-day-2027-may-the-4th-2027-05-04@gaming.pyros-world-events-ca
+ lendar
+DESCRIPTION:Recurring promo hook — annual May 4 ('May the Fourth be with
+  you'). Steam/PSN Star Wars game sales\, LEGO/merch promos. Gaming + pop-c
+ ulture crossover.\nSource: https://www.starwars.com/star-wars-day\nVerifie
+ d: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.starwars.com/star-wars-day
+END:VEVENT
 END:VCALENDAR

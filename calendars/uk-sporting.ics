@@ -192,4 +192,276 @@ DESCRIPTION:Confirmed via Wimbledon.com future dates: 28 June - 11 July 20
 TRANSP:TRANSPARENT
 URL:https://www.wimbledon.com/en_GB/the_championships/dates
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guinness Six Nations 2027 — Opening Weekend
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20260721T000000Z
+UID:guinness-six-nations-2027-opening-weekend-2027-02-06@uk-sporting.pyros
+ -world-events-calendar
+DESCRIPTION:Championship kick-off weekend (early February). Complements th
+ e existing Super Saturday finale entry. Confirm exact fixtures on the offi
+ cial site.\nSource: https://www.sixnationsrugby.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.sixnationsrugby.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qatar Goodwood Festival 2026 (Glorious Goodwood)
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260802
+DTSTAMP:20260721T000000Z
+UID:qatar-goodwood-festival-2026-glorious-goodwood-2026-07-28@uk-sporting.
+ pyros-world-events-calendar
+DESCRIPTION:Confirmed: 28 Jul - 1 Aug 2026 at Goodwood\, five-day ITV flat
+  racing festival (Sussex Stakes/Goodwood Cup).\nSource: https://www.goodwo
+ od.com/horseracing/qatar-goodwood-festival/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.goodwood.com/horseracing/qatar-goodwood-festival/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FA Community Shield 2026
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260721T000000Z
+UID:fa-community-shield-2026-2026-08-16@uk-sporting.pyros-world-events-cal
+ endar
+DESCRIPTION:Confirmed via The FA: Sunday 16 Aug 2026\, Arsenal v Man City.
+  Played at Principality Stadium\, Cardiff (Wembley unavailable)\, 3pm BST.
+  Season curtain-raiser.\nSource: https://www.thefa.com/news/2026/jun/04/20
+ 26-fa-community-shield\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.thefa.com/news/2026/jun/04/2026-fa-community-shield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premier League 2026/27 — Opening Weekend
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+DTSTAMP:20260721T000000Z
+UID:premier-league-202627-opening-weekend-2026-08-21@uk-sporting.pyros-wor
+ ld-events-calendar
+DESCRIPTION:Confirmed via Premier League: opens Fri 21 Aug 2026 (Arsenal v
+  Coventry)\; full opening round 21-23 Aug.\nSource: https://www.premierlea
+ gue.com/en/news/4468487/dates-for-202627-premier-league-season-confirmed\n
+ Verified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4468487/dates-for-202627-premier
+ -league-season-confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Super League (WSL) 2026/27 — Opening Weekend
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20260721T000000Z
+UID:womens-super-league-wsl-202627-opening-weekend-2026-09-04@uk-sporting.
+ pyros-world-events-calendar
+DESCRIPTION:Confirmed: 2026/27 WSL season kicks off weekend of 4-6 Sep 202
+ 6.\nSource: https://www.arsenal.com/news/wsl-details-final-day-and-start-2
+ 02627\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.arsenal.com/news/wsl-details-final-day-and-start-202627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betfred St Leger 2026 (Doncaster)
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260721T000000Z
+UID:betfred-st-leger-2026-doncaster-2026-09-12@uk-sporting.pyros-world-eve
+ nts-calendar
+DESCRIPTION:Confirmed: St Leger Stakes Day is Sat 12 Sep 2026 (festival 10
+ -13 Sep)\; 250th running\, oldest Classic.\nSource: https://www.doncaster-
+ racecourse.co.uk/whats-on/betfred-st-leger-day-2026\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.doncaster-racecourse.co.uk/whats-on/betfred-st-leger-day-2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AJ Bell Great North Run 2026
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260721T000000Z
+UID:aj-bell-great-north-run-2026-2026-09-13@uk-sporting.pyros-world-events
+ -calendar
+DESCRIPTION:Confirmed: Sunday 13 Sep 2026\, Newcastle to South Shields (wo
+ rld's biggest half marathon\, ~60k runners).\nSource: https://www.greatrun
+ .org/events/great-north-run/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.greatrun.org/events/great-north-run/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BMW PGA Championship 2026 (Wentworth)
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260721T000000Z
+UID:bmw-pga-championship-2026-wentworth-2026-09-17@uk-sporting.pyros-world
+ -events-calendar
+DESCRIPTION:Confirmed via DP World Tour: championship rounds Thu 17 - Sun 
+ 20 Sep 2026 at Wentworth (Tour flagship).\nSource: https://www.europeantou
+ r.com/dpworld-tour/bmw-pga-championship-2026/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.europeantour.com/dpworld-tour/bmw-pga-championship-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betfred Super League Grand Final 2026
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260721T000000Z
+UID:betfred-super-league-grand-final-2026-2026-10-03@uk-sporting.pyros-wor
+ ld-events-calendar
+DESCRIPTION:Confirmed: Saturday 3 Oct 2026 at Old Trafford (a week earlier
+  than usual ahead of the RL World Cup).\nSource: https://www.superleague.c
+ o.uk/tickets/grand-final\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.superleague.co.uk/tickets/grand-final
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autumn Nations Series 2026 — England Opener
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20260721T000000Z
+UID:autumn-nations-series-2026-england-opener-2026-11-08@uk-sporting.pyros
+ -world-events-calendar
+DESCRIPTION:Confirmed: England's autumn campaign opens Sun 8 Nov 2026 v Au
+ stralia at Twickenham (then Japan 14 Nov\, New Zealand 21 Nov)\; Finals We
+ ekend 27-29 Nov. Part of the new Nations Championship.\nSource: https://al
+ lianzstadiumtwickenham.com/nations-championship\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://allianzstadiumtwickenham.com/nations-championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Masters Snooker 2027 (Alexandra Palace)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20260721T000000Z
+UID:masters-snooker-2027-alexandra-palace-2027-01-10@uk-sporting.pyros-wor
+ ld-events-calendar
+DESCRIPTION:Confirmed: 10-17 Jan 2027 at Alexandra Palace\, London (invita
+ tional\, top 16).\nSource: https://en.wikipedia.org/wiki/2027_Masters_(sno
+ oker)\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2027_Masters_(snooker)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Premier League Darts 2027 — Night 1
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+DTSTAMP:20260721T000000Z
+UID:tbc-premier-league-darts-2027-night-1-2027-02-04@uk-sporting.pyros-wor
+ ld-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. 2026 edi
+ tion ran 5 Feb - 28 May 2026 (weekly Thursday nights)\; 2027 fixtures not 
+ yet published. Estimate = first Thursday of Feb 2027.\nSource: https://www
+ .pdc.tv/tournaments/betmgm-premier-league\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.pdc.tv/tournaments/betmgm-premier-league
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carabao Cup (EFL Cup) Final 2027
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20260721T000000Z
+UID:carabao-cup-efl-cup-final-2027-2027-03-21@uk-sporting.pyros-world-even
+ ts-calendar
+DESCRIPTION:Confirmed via EFL: Sunday 21 Mar 2027 at Wembley.\nSource: htt
+ ps://www.efl.com/competitions/carabao-cup/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.efl.com/competitions/carabao-cup/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adobe Women's FA Cup Final 2027
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20260721T000000Z
+UID:adobe-womens-fa-cup-final-2027-2027-05-15@uk-sporting.pyros-world-even
+ ts-calendar
+DESCRIPTION:Confirmed via The FA: Saturday 15 May 2027 at Wembley.\nSource
+ : https://www.thefa.com/competitions/the-womens-fa-cup/round-dates\nVerifi
+ ed: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.thefa.com/competitions/the-womens-fa-cup/round-dates
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Investec Champions Cup Final 2027
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20260721T000000Z
+UID:investec-champions-cup-final-2027-2027-05-22@uk-sporting.pyros-world-e
+ vents-calendar
+DESCRIPTION:Confirmed: Saturday 22 May 2027\, held at OL Stadium\, Lyon (n
+ ot UK\, but a marquee UK broadcast fixture on TNT Sports).\nSource: https:
+ //www.rugbypass.com/news/venue-confirmed-for-2027-champions-cup-and-challe
+ nge-cup-finals/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.rugbypass.com/news/venue-confirmed-for-2027-champions-cup-
+ and-challenge-cup-finals/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sky Bet Championship Play-Off Final 2027
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+DTSTAMP:20260721T000000Z
+UID:sky-bet-championship-play-off-final-2027-2027-05-29@uk-sporting.pyros-
+ world-events-calendar
+DESCRIPTION:Confirmed via EFL: Saturday 29 May 2027 at Wembley ('the riche
+ st game in football').\nSource: https://www.efl.com/competitions/key-dates
+ /\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.efl.com/competitions/key-dates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betfred Challenge Cup Final 2027 (Rugby League)
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+DTSTAMP:20260721T000000Z
+UID:betfred-challenge-cup-final-2027-rugby-league-2027-06-05@uk-sporting.p
+ yros-world-events-calendar
+DESCRIPTION:Confirmed: Saturday 5 Jun 2027 at Wembley (men's and women's f
+ inals same day).\nSource: https://www.rugby-league.com/competitions/pro-na
+ tional/betfred-challenge-cup/challenge-cup-final\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.rugby-league.com/competitions/pro-national/betfred-challen
+ ge-cup/challenge-cup-final
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] HSBC Championships 2027 (Queen's Club)
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+DTSTAMP:20260721T000000Z
+UID:tbc-hsbc-championships-2027-queens-club-2027-06-14@uk-sporting.pyros-w
+ orld-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. ATP/WTA 
+ grass Wimbledon warm-up at Queen's (rebranded HSBC Championships)\; 2027 d
+ ates unpublished. Estimate = Mon 14 Jun 2027 (two weeks before Wimbledon).
+ \nSource: https://www.lta.org.uk/fan-zone/international/hsbc-championships
+ /\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.lta.org.uk/fan-zone/international/hsbc-championships/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gallagher Premiership Rugby Final 2027
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+DTSTAMP:20260721T000000Z
+UID:gallagher-premiership-rugby-final-2027-2027-06-19@uk-sporting.pyros-wo
+ rld-events-calendar
+DESCRIPTION:Confirmed via Premiership Rugby: Saturday 19 Jun 2027 at Allia
+ nz Stadium\, Twickenham.\nSource: https://www.premiershiprugby.com/content
+ /gallagher-prem-2026-27-start-and-final-dates-confirmed\nVerified: 2026-07
+ -21
+TRANSP:TRANSPARENT
+URL:https://www.premiershiprugby.com/content/gallagher-prem-2026-27-start-
+ and-final-dates-confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 155th Open Championship 2027 (St Andrews)
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270719
+DTSTAMP:20260721T000000Z
+UID:the-155th-open-championship-2027-st-andrews-2027-07-15@uk-sporting.pyr
+ os-world-events-calendar
+DESCRIPTION:Confirmed via R&A rota: 15-18 Jul 2027 at the Old Course\, St 
+ Andrews (centenary of Bobby Jones' 1927 win).\nSource: https://en.wikipedi
+ a.org/wiki/2027_Open_Championship\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2027_Open_Championship
+END:VEVENT
 END:VCALENDAR

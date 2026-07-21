@@ -109,4 +109,166 @@ TRANSP:TRANSPARENT
 URL:https://inside.fifa.com/media-releases/fifa-womens-world-cup-brazil-20
  27-dates-confirmed
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA Champions League 2026/27 — League Phase Begins
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260721T000000Z
+UID:uefa-champions-league-202627-league-phase-begins-2026-09-08@global-spo
+ rting.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED: competition-proper league phase kicks off 8 Sep 202
+ 6 (Matchday 1 8-10 Sep)\; runs to final 5 Jun 2027 (final already listed s
+ eparately). Draw 27 Aug 2026.\nSource: https://en.wikipedia.org/wiki/2026%
+ E2%80%9327_UEFA_Champions_League\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA Europa League 2026/27 — League Phase Begins
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260721T000000Z
+UID:uefa-europa-league-202627-league-phase-begins-2026-09-16@global-sporti
+ ng.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED: competition-proper league phase begins 16 Sep 2026 
+ (Matchday 1 16-17 Sep). Draw 28 Aug 2026.\nSource: https://en.wikipedia.or
+ g/wiki/2026%E2%80%9327_UEFA_Europa_League\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA Europa League Final 2027
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+DTSTAMP:20260721T000000Z
+UID:uefa-europa-league-final-2027-2027-05-26@global-sporting.pyros-world-e
+ vents-calendar
+DESCRIPTION:CONFIRMED: final 26 May 2027 at the Waldstadion (Deutsche Bank
+  Park)\, Frankfurt\, Germany.\nSource: https://en.wikipedia.org/wiki/2026%
+ E2%80%9327_UEFA_Europa_League\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UEFA Nations League Finals 2027
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20260721T000000Z
+UID:uefa-nations-league-finals-2027-2027-06-09@global-sporting.pyros-world
+ -events-calendar
+DESCRIPTION:CONFIRMED: Finals four (semis 9-10 Jun\, 3rd-place & final 13 
+ Jun 2027). Host TBD\; contested by the four Nations League A quarter-final
+  winners.\nSource: https://en.wikipedia.org/wiki/2027_UEFA_Nations_League_
+ Finals\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2027_UEFA_Nations_League_Finals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commonwealth Games Glasgow 2026
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260721T000000Z
+UID:commonwealth-games-glasgow-2026-2026-07-23@global-sporting.pyros-world
+ -events-calendar
+DESCRIPTION:CONFIRMED: Glasgow\, Scotland\, 23 Jul - 2 Aug 2026. Slimmed-d
+ own multi-sport Games across four venues. Opening ceremony 23 Jul falls ju
+ st inside window (window opens 2026-07-21).\nSource: https://en.wikipedia.
+ org/wiki/2026_Commonwealth_Games\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2026_Commonwealth_Games
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vuelta a Espana 2026
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260721T000000Z
+UID:vuelta-a-espana-2026-2026-08-22@global-sporting.pyros-world-events-cal
+ endar
+DESCRIPTION:CONFIRMED: 81st edition\, 22 Aug - 13 Sep 2026. Grand Depart (
+ 10km ITT) in Monaco\; finishes in Granada. Third Grand Tour of the cycling
+  season.\nSource: https://en.wikipedia.org/wiki/2026_Vuelta_a_Espa%C3%B1a\
+ nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2026_Vuelta_a_Espa%C3%B1a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanda Diamond League Final 2026 (Brussels)
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260906
+DTSTAMP:20260721T000000Z
+UID:wanda-diamond-league-final-2026-brussels-2026-09-04@global-sporting.py
+ ros-world-events-calendar
+DESCRIPTION:CONFIRMED: season-ending Diamond League Final in Brussels\, 4-
+ 5 Sep 2026 (Zurich meeting 27 Aug is a regular-season stop\, not the final
+ ).\nSource: https://worldathletics.org/competitions/diamond-league/news/di
+ amond-league-calendar-2026\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://worldathletics.org/competitions/diamond-league/news/diamond-le
+ ague-calendar-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Africa Cup of Nations 2027 (AFCON\, East Africa)
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270718
+DTSTAMP:20260721T000000Z
+UID:africa-cup-of-nations-2027-afcon-east-africa-2027-06-19@global-sportin
+ g.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED by CAF: opening match 19 Jun 2027\, final 17 Jul 202
+ 7. First AFCON co-hosted by three nations (Kenya\, Tanzania\, Uganda / 'Pa
+ moja'). Entire tournament falls inside window.\nSource: https://www.cafonl
+ ine.com/afcon2025/news/road-to-east-africa-caf-announces-kick-off-final-an
+ d-qualifiers-dates-for-the-totalenergies-caf-africa-cup-of-nations-pamoja-
+ 2027/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.cafonline.com/afcon2025/news/road-to-east-africa-caf-annou
+ nces-kick-off-final-and-qualifiers-dates-for-the-totalenergies-caf-africa-
+ cup-of-nations-pamoja-2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Indian Premier League 2027 (Season 20)
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20260721T000000Z
+UID:tbc-indian-premier-league-2027-season-20-2027-03-14@global-sporting.py
+ ros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. BCCI is 
+ considering an earlier window (~10 Mar - mid/late May 2027) to dodge heat/
+ monsoon\; reported start dates range from 10 to 14 Mar 2027. No official f
+ ixtures released. Re-verify.\nSource: https://www.newsbytesapp.com/news/sp
+ orts/ipl-2027-set-to-begin-on-march-10/story\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.newsbytesapp.com/news/sports/ipl-2027-set-to-begin-on-marc
+ h-10/story
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Giro d'Italia 2027
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20260721T000000Z
+UID:tbc-giro-ditalia-2027-2027-05-08@global-sporting.pyros-world-events-ca
+ lendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Route/da
+ tes announced ~Nov 2026. Estimate from the Giro's usual early-May slot (20
+ 24 started 4 May\, 2025 9 May). Possible overseas Grande Partenza (Austral
+ ia/Middle East rumoured). Re-verify.\nSource: https://www.giroditalia.it/e
+ n/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.giroditalia.it/en/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] ICC World Test Championship Final 2027 (Lord's)
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20260721T000000Z
+UID:tbc-icc-world-test-championship-final-2027-lords-2027-06-09@global-spo
+ rting.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. WTC 2025
+ -27 final confirmed for Lord's in June 2027\; ICC has not published exact 
+ dates. Estimate from recent finals (2023: 7-11 Jun\; 2025: 11-15 Jun). Re-
+ verify.\nSource: https://en.wikipedia.org/wiki/2025%E2%80%932027_World_Tes
+ t_Championship\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2025%E2%80%932027_World_Test_Championshi
+ p
+END:VEVENT
 END:VCALENDAR

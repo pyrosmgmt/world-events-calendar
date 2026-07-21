@@ -301,4 +301,256 @@ DESCRIPTION:Disney+ — Season 3 premiere\, adapting 'The Titan's Curse'.
 TRANSP:TRANSPARENT
 URL:https://www.imdb.com/news/ni65669032/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fashion Awards 2026 (London)
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260721T000000Z
+UID:the-fashion-awards-2026-london-2026-11-30@entertainment-pop-culture.py
+ ros-world-events-calendar
+DESCRIPTION:CONFIRMED: Mon Nov 30\, 2026\, Royal Albert Hall\, London (Bri
+ tish Fashion Council). Ticketmaster UK + Ents24 confirm date.\nSource: htt
+ ps://fashionawards.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://fashionawards.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIT Awards 2027
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+DTSTAMP:20260721T000000Z
+UID:brit-awards-2027-2027-02-27@entertainment-pop-culture.pyros-world-even
+ ts-calendar
+DESCRIPTION:CONFIRMED via BRITs official + Billboard/NME: Sat Feb 27\, 202
+ 7\, Co-op Live\, Manchester (ITV1/ITVX). 50th anniversary of televised BRI
+ Ts.\nSource: https://www.brits.co.uk/news/2026/the-brit-awards-reveals-202
+ 7-date/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.brits.co.uk/news/2026/the-brit-awards-reveals-2027-date/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venice Film Festival 2026 (83rd)
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260721T000000Z
+UID:venice-film-festival-2026-83rd-2026-09-02@entertainment-pop-culture.py
+ ros-world-events-calendar
+DESCRIPTION:CONFIRMED via La Biennale: Sep 2-12\, 2026\, Lido di Venezia. 
+ Jury president Maggie Gyllenhaal. Fall awards-season launchpad.\nSource: h
+ ttps://www.labiennale.org/en/cinema/2026\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.labiennale.org/en/cinema/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto International Film Festival 2026 (TIFF\, 51st)
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260721T000000Z
+UID:toronto-international-film-festival-2026-tiff-51st-2026-09-10@entertai
+ nment-pop-culture.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED: Sep 10-20\, 2026\, Toronto. Major awards-season red
+ -carpet festival.\nSource: https://www.tiff.net/about-the-festival/\nVerif
+ ied: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.tiff.net/about-the-festival/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sundance Film Festival 2027
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20260721T000000Z
+UID:sundance-film-festival-2027-2027-01-21@entertainment-pop-culture.pyros
+ -world-events-calendar
+DESCRIPTION:CONFIRMED via Sundance Institute: Jan 21-31\, 2027 — first e
+ dition in new home Boulder\, Colorado (after 40+ years in Park City).\nSou
+ rce: https://www.sundance.org/blogs/2027-sundance-film-festival-to-take-pl
+ ace-january-21-31-in-boulder-colorado/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.sundance.org/blogs/2027-sundance-film-festival-to-take-pla
+ ce-january-21-31-in-boulder-colorado/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Berlin International Film Festival 2027 (Berlinale\, 77th)
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20260721T000000Z
+UID:berlin-international-film-festival-2027-berlinale-77th-2027-02-10@ente
+ rtainment-pop-culture.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED: Feb 10-21\, 2027 (starts Wednesday for the first ti
+ me). Awards ceremony Fri Feb 19\, 2027.\nSource: https://www.berlinale.de/
+ en/dates.html\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.berlinale.de/en/dates.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SXSW 2027 (Film & TV Festival\, Austin)
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20260721T000000Z
+UID:sxsw-2027-film-tv-festival-austin-2027-03-15@entertainment-pop-culture
+ .pyros-world-events-calendar
+DESCRIPTION:CONFIRMED on official site: SXSW Conferences & Festivals Mar 1
+ 5-21\, 2027\, Austin TX (Film & TV Festival within it).\nSource: https://s
+ xsw.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://sxsw.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannes Film Festival 2027 (80th)
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20260721T000000Z
+UID:cannes-film-festival-2027-80th-2027-05-11@entertainment-pop-culture.py
+ ros-world-events-calendar
+DESCRIPTION:CONFIRMED: Tue May 11 - Sat May 22\, 2027 (80th edition). Prem
+ ier global film-festival red-carpet moment.\nSource: https://www.screendai
+ ly.com/news/cannes-film-festival-confirms-2027-dates-for-80th-edition/5217
+ 448.article\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.screendaily.com/news/cannes-film-festival-confirms-2027-da
+ tes-for-80th-edition/5217448.article
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three (theatrical release)
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20260721T000000Z
+UID:dune-part-three-theatrical-release-2026-12-18@entertainment-pop-cultur
+ e.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED via Warner Bros./Legendary: Fri Dec 18\, 2026 (same 
+ day as Avengers: Doomsday). Denis Villeneuve tentpole.\nSource: https://ww
+ w.imdb.com/title/tt31378509/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.imdb.com/title/tt31378509/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ice Age: Boiling Point (theatrical release)
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+DTSTAMP:20260721T000000Z
+UID:ice-age-boiling-point-theatrical-release-2027-02-05@entertainment-pop-
+ culture.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED via 20th Century Studios (Destination D23): Fri Feb 
+ 5\, 2027. Sixth Ice Age film / franchise tentpole.\nSource: https://www.ho
+ llywoodreporter.com/movies/movie-news/ice-age-6-now-titled-boiling-point-s
+ ets-2027-release-date-1236357740/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.hollywoodreporter.com/movies/movie-news/ice-age-6-now-titl
+ ed-boiling-point-sets-2027-release-date-1236357740/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Beyond the Spider-Verse (theatrical release)
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+DTSTAMP:20260721T000000Z
+UID:spider-man-beyond-the-spider-verse-theatrical-release-2027-06-18@enter
+ tainment-pop-culture.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED via Sony: Fri Jun 18\, 2027 (Father's Day / Juneteen
+ th weekend). Animated Spider-Verse trilogy finale.\nSource: https://variet
+ y.com/2025/film/news/spiderman-beyond-the-spiderverse-moves-release-date-1
+ 236528682/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://variety.com/2025/film/news/spiderman-beyond-the-spiderverse-mo
+ ves-release-date-1236528682/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek 5 (theatrical release)
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DTSTAMP:20260721T000000Z
+UID:shrek-5-theatrical-release-2027-06-30@entertainment-pop-culture.pyros-
+ world-events-calendar
+DESCRIPTION:CONFIRMED via DreamWorks/Universal: Wed Jun 30\, 2027. Myers/M
+ urphy/Diaz return\; Zendaya joins. First Shrek film since 2010.\nSource: h
+ ttps://variety.com/2025/film/news/shrek-5-release-date-delayed-june-2027-1
+ 236486883/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://variety.com/2025/film/news/shrek-5-release-date-delayed-june-2
+ 027-1236486883/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Minecraft Movie Squared (theatrical release)
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+DTSTAMP:20260721T000000Z
+UID:a-minecraft-movie-squared-theatrical-release-2027-07-23@entertainment-
+ pop-culture.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED via Warner Bros.: Fri Jul 23\, 2027. Sequel to 2025'
+ s blockbuster A Minecraft Movie\; Jack Black & Jason Momoa return.\nSource
+ : https://variety.com/2025/film/news/minecraft-2-release-date-july-2027-12
+ 36544541/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://variety.com/2025/film/news/minecraft-2-release-date-july-2027-
+ 1236544541/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Eurovision Song Contest 2027 (Grand Final)
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20260721T000000Z
+UID:tbc-eurovision-song-contest-2027-grand-final-2027-05-15@entertainment-
+ pop-culture.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Confirme
+ d to be hosted in Bulgaria (host city Burgas or Sofia\, decision due ~Jul 
+ 31\, 2026) in May 2027\; exact Grand Final date not yet announced. Date is
+  a mid-May Saturday estimate.\nSource: https://en.wikipedia.org/wiki/Eurov
+ ision_Song_Contest_2027\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] iHeartRadio Music Awards 2027
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260721T000000Z
+UID:tbc-iheartradio-music-awards-2027-2027-03-22@entertainment-pop-culture
+ .pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. 2026 edi
+ tion was Mar 26\; date is a late-March estimate based on the annual patter
+ n.\nSource: https://www.iheart.com/music-awards/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.iheart.com/music-awards/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] BAFTA Television Awards 2027
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20260721T000000Z
+UID:tbc-bafta-television-awards-2027-2027-05-09@entertainment-pop-culture.
+ pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. 2026 edi
+ tion was Sun May 10\; date is a mid-May Sunday estimate based on the annua
+ l pattern.\nSource: https://www.bafta.org/awards/television/\nVerified: 20
+ 26-07-21
+TRANSP:TRANSPARENT
+URL:https://www.bafta.org/awards/television/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] People's Choice Awards 2027
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+DTSTAMP:20260721T000000Z
+UID:tbc-peoples-choice-awards-2027-2027-02-18@entertainment-pop-culture.py
+ ros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Announce
+ d (May 2026) to return in 2027 on E!\; no date set. February estimate base
+ d on prior editions — verify closer to date.\nSource: https://en.wikiped
+ ia.org/wiki/People's_Choice_Awards\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/People's_Choice_Awards
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Nickelodeon Kids' Choice Awards 2027
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+DTSTAMP:20260721T000000Z
+UID:tbc-nickelodeon-kids-choice-awards-2027-2027-03-27@entertainment-pop-c
+ ulture.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. No offic
+ ial date announced\; recent editions have been irregular. Spring/March est
+ imate only — verify closer to date.\nSource: https://en.wikipedia.org/wi
+ ki/Nickelodeon_Kids'_Choice_Awards\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/Nickelodeon_Kids'_Choice_Awards
+END:VEVENT
 END:VCALENDAR

@@ -101,4 +101,101 @@ DESCRIPTION:Confirmed via FIA WEC\; 95th running\, race Sat June 12 to Sun
 TRANSP:TRANSPARENT
 URL:https://www.fiawec.com/en/race/24-hours-of-le-mans-2027
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NASCAR Cup Series 2026 — Championship Race (Homestead-Miami)
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20260721T000000Z
+UID:nascar-cup-series-2026-championship-race-homestead-miami-2026-11-08@mo
+ torsport.pyros-world-events-calendar
+DESCRIPTION:Confirmed\; season finale / title decider at Homestead-Miami S
+ peedway on Sun Nov 8 (championship moved from Phoenix).\nSource: https://e
+ n.wikipedia.org/wiki/2026_NASCAR_Cup_Series\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Formula E 2026/27 Season 13 Opener (Jeddah E-Prix)
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20260721T000000Z
+UID:formula-e-202627-season-13-opener-jeddah-e-prix-2026-12-18@motorsport.
+ pyros-world-events-calendar
+DESCRIPTION:Confirmed\; GEN4-era season opener\, Jeddah Corniche Circuit n
+ ight double-header Dec 18-19\, 2026 (21-race calendar).\nSource: https://w
+ ww.fiaformulae.com/en/news/1074658/season-13-calendar-where-will-formula-e
+ -be-racing-in-2026-27\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.fiaformulae.com/en/news/1074658/season-13-calendar-where-w
+ ill-formula-e-be-racing-in-2026-27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] WRC 2027 Season Opener — Rallye Monte-Carlo
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+DTSTAMP:20260721T000000Z
+UID:tbc-wrc-2027-season-opener-rallye-monte-carlo-2027-01-21@motorsport.py
+ ros-world-events-calendar
+DESCRIPTION:TENTATIVE — 95th running\, event window Jan 18-24 2027 per A
+ CM\; subject to FIA World Motor Sport Council calendar approval. Tradition
+ al WRC season opener.\nSource: https://acm.mc/en/epreuves/rallye-automobil
+ e-monte-carlo/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IndyCar 2027 Season Opener — Grand Prix of St. Petersburg
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+DTSTAMP:20260721T000000Z
+UID:indycar-2027-season-opener-grand-prix-of-st-petersburg-2027-03-07@moto
+ rsport.pyros-world-events-calendar
+DESCRIPTION:Confirmed\; Firestone Grand Prix of St. Petersburg\, street ci
+ rcuit\, opens 2027 NTT IndyCar season on Sun Mar 7.\nSource: https://www.i
+ ndycar.com/Schedule\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.indycar.com/Schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIA WEC 2027 Season Opener — Qatar 1812km
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+DTSTAMP:20260721T000000Z
+UID:fia-wec-2027-season-opener-qatar-1812km-2027-03-27@motorsport.pyros-wo
+ rld-events-calendar
+DESCRIPTION:Confirmed\; season opener of nine-round 2027 FIA WEC calendar\
+ , Lusail International Circuit\, race weekend Mar 25-27.\nSource: https://
+ www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-
+ expands/13598\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calenda
+ r-as-series-expands/13598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NASCAR Cup Series Coca-Cola 600 (2027)
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+DTSTAMP:20260721T000000Z
+UID:nascar-cup-series-coca-cola-600-2027-2027-05-30@motorsport.pyros-world
+ -events-calendar
+DESCRIPTION:Confirmed via Charlotte Motor Speedway\; crown-jewel 600-mile 
+ race\, Memorial Day weekend\, Sun May 30\, 2027.\nSource: https://www.char
+ lottemotorspeedway.com/events/coca-cola-600/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.charlottemotorspeedway.com/events/coca-cola-600/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] MotoGP 2027 Season Opening Round
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+DTSTAMP:20260721T000000Z
+UID:tbc-motogp-2027-season-opening-round-2027-02-28@motorsport.pyros-world
+ -events-calendar
+DESCRIPTION:TENTATIVE — 2027 MotoGP calendar not yet officially publishe
+ d. Recent seasons (2025\, 2026) opened in Thailand (Buriram) in late Feb /
+  early March\; placeholder date pending official release.\nSource: https:/
+ /www.motogp.com/en/calendar/2027\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.motogp.com/en/calendar/2027
+END:VEVENT
 END:VCALENDAR
