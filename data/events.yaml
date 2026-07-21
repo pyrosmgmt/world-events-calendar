@@ -211,6 +211,13 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'Confirmed via R&A rota: 15-18 Jul 2027 at the Old Course, St Andrews (centenary of Bobby Jones''
       1927 win).'
+  - summary: '[TBC] PDC World Cup of Darts 2027'
+    start: '2027-06-10'
+    source_url: https://www.pdc.tv/tournaments/betvictor-world-cup-of-darts
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. PDC team event (nation-vs-nation, distinct
+      from the PDC World Championship). 2027 dates not yet announced. Estimated ~mid-June 2027 from the
+      2026 edition held Jun 11-14 2026. In-window; verify once PDC releases its 2027 calendar.'
 - id: us-sporting
   name: Pyros · US Sporting
   description: US marquee sporting tentpoles (curated; championship/season level)
@@ -423,6 +430,43 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'TENTATIVE: not officially confirmed by the NBA as of 2026-07-21. Widely reported as Thu Jun
       24 2027 (roughly three weeks after the Finals); first draft under the new ''3-2-1'' lottery structure.'
+  - summary: CFL Grey Cup 2026 (113th)
+    start: '2026-11-15'
+    source_url: https://en.wikipedia.org/wiki/113th_Grey_Cup
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: 113th Grey Cup, CFL championship for the 2026 season, Sun Nov 15 2026 at McMahon
+      Stadium, Calgary, Alberta (6th time Calgary hosts; last 2019). Kickoff 5:00pm MST / 7:00pm ET on
+      CTV/TSN/RDS. Grey Cup Festival runs Nov 11-15. Corroborated by CBC News and Ticketmaster.ca.'
+  - summary: '[TBC] UFL 2027 Season Kickoff Weekend'
+    start: '2027-03-26'
+    source_url: https://fbschedules.com/ufl-schedule/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. UFL has not released its 2027 schedule.
+      Date estimated (~last Friday of March 2027) from prior seasons: 2026 kicked off Fri Mar 27; 2025
+      Fri Mar 28. In-window; verify once UFL announces 2027 dates.'
+  - summary: '[TBC] UFL Championship Game 2027'
+    start: '2027-06-12'
+    source_url: https://fbschedules.com/ufl-schedule/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. UFL 2027 schedule unannounced. Date
+      estimated (~mid-June 2027) from the 2026 championship on Sat Jun 13 2026. In-window; verify once
+      UFL announces 2027 dates.'
+  - summary: Tour Championship 2026 (FedEx Cup Finale)
+    start: '2026-08-27'
+    end: '2026-08-30'
+    source_url: https://www.tourchampionship.com/news/2026/04/16/tickets-on-sale-2026-tour-championship-pga-tour-east-lake-atlanta
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via official tourchampionship.com: PGA Tour season finale at East Lake Golf Club,
+      Atlanta, Thu 27 Aug - Sun 30 Aug 2026. Top 30 in FedEx Cup standings compete for the FedExCup title.
+      Caps the FedEx Cup Playoffs (St. Jude Aug 13-16, BMW Aug 20-23).'
+  - summary: The Players Championship 2027 (TPC Sawgrass)
+    start: '2027-03-11'
+    end: '2027-03-14'
+    source_url: https://www.theplayers.com/
+    last_verified: '2026-07-21'
+    notes: CONFIRMED via official theplayers.com (tournament week 8-14 Mar 2027); competition rounds Thu
+      11 - Sun 14 Mar 2027 at TPC Sawgrass, Ponte Vedra Beach, FL. Ticketed rounds corroborate (Fri 12
+      Mar, Sun 14 Mar). The PGA Tour's flagship event, often called golf's 'fifth major.'
 - id: global-sporting
   name: Pyros · Global Sporting
   description: Global mega sporting events (one entry per tournament)
@@ -548,6 +592,36 @@ calendars:
     notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. WTC 2025-27 final confirmed for Lord''s
       in June 2027; ICC has not published exact dates. Estimate from recent finals (2023: 7-11 Jun; 2025:
       11-15 Jun). Re-verify.'
+  - summary: AFL Grand Final 2026
+    start: '2026-09-26'
+    source_url: https://www.austadiums.com/sport/event/33018
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: 2026 Toyota AFL Grand Final, Sat Sep 26 2026, 2:30pm AEST at the MCG, Melbourne.
+      Grand Final Parade the day before (Fri Sep 25). Broadcast on Seven/7plus.'
+  - summary: '[TBC] CONCACAF Gold Cup 2027'
+    start: '2027-06-12'
+    source_url: https://www.concacaf.com/competitions/calendar-gold-cup-2027
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. CONCACAF''s 2026-2030 calendar confirms
+      the men''s Gold Cup 2027 will be hosted in the USA across June-July 2027 (16 teams; semifinals &
+      final at SoFi Stadium, Los Angeles; prelims in March). Exact match dates/host cities not yet announced.
+      Start estimated (~mid-June) from prior editions (2025 opened Jun 14; 2023 Jun 24). In-window; verify
+      when the full schedule is released.'
+  - summary: NRL Grand Final 2026
+    start: '2026-10-04'
+    source_url: https://www.accorstadium.com.au/events/n2026_nrl_nrlw_grand_finals
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via Accor Stadium: NRL & NRLW Telstra Premiership Grand Finals at Accor Stadium,
+      Sydney on Sunday 4 Oct 2026, 1:00 PM kickoff. Season finale of Australian rugby league.'
+  - summary: '[TBC] State of Origin 2027 — Game 1'
+    start: '2027-05-26'
+    source_url: https://www.nrl.com/news/2026/02/16/ampol-state-of-origin-heads-to-new-zealand/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. NRL has confirmed the 2027 Ampol State
+      of Origin series (three venues: Suncorp Stadium Brisbane, Eden Park Auckland — a historic first
+      Origin in New Zealand — and Accor Stadium Sydney) but has NOT published match dates. Series traditionally
+      runs late May to early July on Wednesdays; Game 1 estimated ~26 May 2027 (last Wed of May). Re-verify
+      when the NRL releases the 2027 fixtures. The Origin series is the tentpole; keyed to Game 1.'
 - id: combat-sports
   name: Pyros · Combat Sports
   description: Marquee boxing & crossover cards (UFC/MMA via separate auto-feed)
@@ -691,6 +765,19 @@ calendars:
     source_url: https://prowrestling.net/site/2026/07/13/aew-full-gear-date-and-location-announced-2/
     last_verified: '2026-07-21'
     notes: Mortgage Matchup Center, Phoenix, Arizona.
+  - summary: BKFC 94 Manchester
+    start: '2026-09-26'
+    source_url: https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championship
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: BKFC 94 at AO Arena (Manchester Arena), Manchester, England on 26 Sep 2026. Marquee
+      numbered Bare Knuckle Fighting Championship card at a major arena. Note: BKFC fight cards are announced
+      short-term; the date is set.'
+  - summary: BKFC 96 Glasgow
+    start: '2026-11-07'
+    source_url: https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championship
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: BKFC 96 at OVO Hydro, Glasgow, Scotland on 7 Nov 2026. Marquee numbered BKFC card
+      at a major arena, in-window. BKFC schedules are announced short-term but this date is set.'
 - id: motorsport
   name: Pyros · Motorsport
   description: Non-F1 marquee motorsport (F1 is a separate auto-updating feed)

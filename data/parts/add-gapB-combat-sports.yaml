@@ -1,0 +1,13 @@
+target: combat-sports
+events:
+  # ---- CONFIRMED (marquee numbered BKFC events with confirmed in-window dates) ----
+  - summary: "BKFC 94 Manchester"
+    start: "2026-09-26"
+    source_url: "https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championship"
+    last_verified: "2026-07-21"
+    notes: "CONFIRMED: BKFC 94 at AO Arena (Manchester Arena), Manchester, England on 26 Sep 2026. Marquee numbered Bare Knuckle Fighting Championship card at a major arena. Note: BKFC fight cards are announced short-term; the date is set."
+  - summary: "BKFC 96 Glasgow"
+    start: "2026-11-07"
+    source_url: "https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championship"
+    last_verified: "2026-07-21"
+    notes: "CONFIRMED: BKFC 96 at OVO Hydro, Glasgow, Scotland on 7 Nov 2026. Marquee numbered BKFC card at a major arena, in-window. BKFC schedules are announced short-term but this date is set."

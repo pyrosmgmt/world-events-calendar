@@ -478,4 +478,81 @@ DESCRIPTION:TENTATIVE: not officially confirmed by the NBA as of 2026-07-2
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/news/key-dates
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFL Grey Cup 2026 (113th)
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260721T000000Z
+UID:cfl-grey-cup-2026-113th-2026-11-15@us-sporting.pyros-world-events-cale
+ ndar
+DESCRIPTION:CONFIRMED: 113th Grey Cup\, CFL championship for the 2026 seas
+ on\, Sun Nov 15 2026 at McMahon Stadium\, Calgary\, Alberta (6th time Calg
+ ary hosts\; last 2019). Kickoff 5:00pm MST / 7:00pm ET on CTV/TSN/RDS. Gre
+ y Cup Festival runs Nov 11-15. Corroborated by CBC News and Ticketmaster.c
+ a.\nSource: https://en.wikipedia.org/wiki/113th_Grey_Cup\nVerified: 2026-0
+ 7-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/113th_Grey_Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] UFL 2027 Season Kickoff Weekend
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260721T000000Z
+UID:tbc-ufl-2027-season-kickoff-weekend-2027-03-26@us-sporting.pyros-world
+ -events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. UFL has 
+ not released its 2027 schedule. Date estimated (~last Friday of March 2027
+ ) from prior seasons: 2026 kicked off Fri Mar 27\; 2025 Fri Mar 28. In-win
+ dow\; verify once UFL announces 2027 dates.\nSource: https://fbschedules.c
+ om/ufl-schedule/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://fbschedules.com/ufl-schedule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] UFL Championship Game 2027
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+DTSTAMP:20260721T000000Z
+UID:tbc-ufl-championship-game-2027-2027-06-12@us-sporting.pyros-world-even
+ ts-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. UFL 2027
+  schedule unannounced. Date estimated (~mid-June 2027) from the 2026 champ
+ ionship on Sat Jun 13 2026. In-window\; verify once UFL announces 2027 dat
+ es.\nSource: https://fbschedules.com/ufl-schedule/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://fbschedules.com/ufl-schedule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour Championship 2026 (FedEx Cup Finale)
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260721T000000Z
+UID:tour-championship-2026-fedex-cup-finale-2026-08-27@us-sporting.pyros-w
+ orld-events-calendar
+DESCRIPTION:CONFIRMED via official tourchampionship.com: PGA Tour season f
+ inale at East Lake Golf Club\, Atlanta\, Thu 27 Aug - Sun 30 Aug 2026. Top
+  30 in FedEx Cup standings compete for the FedExCup title. Caps the FedEx 
+ Cup Playoffs (St. Jude Aug 13-16\, BMW Aug 20-23).\nSource: https://www.to
+ urchampionship.com/news/2026/04/16/tickets-on-sale-2026-tour-championship-
+ pga-tour-east-lake-atlanta\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.tourchampionship.com/news/2026/04/16/tickets-on-sale-2026-
+ tour-championship-pga-tour-east-lake-atlanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Players Championship 2027 (TPC Sawgrass)
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20260721T000000Z
+UID:the-players-championship-2027-tpc-sawgrass-2027-03-11@us-sporting.pyro
+ s-world-events-calendar
+DESCRIPTION:CONFIRMED via official theplayers.com (tournament week 8-14 Ma
+ r 2027)\; competition rounds Thu 11 - Sun 14 Mar 2027 at TPC Sawgrass\, Po
+ nte Vedra Beach\, FL. Ticketed rounds corroborate (Fri 12 Mar\, Sun 14 Mar
+ ). The PGA Tour's flagship event\, often called golf's 'fifth major.'\nSou
+ rce: https://www.theplayers.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.theplayers.com/
+END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,14 @@
+target: global-sporting
+events:
+  # ---- CONFIRMED ----
+  - summary: "NRL Grand Final 2026"
+    start: "2026-10-04"
+    source_url: "https://www.accorstadium.com.au/events/n2026_nrl_nrlw_grand_finals"
+    last_verified: "2026-07-21"
+    notes: "CONFIRMED via Accor Stadium: NRL & NRLW Telstra Premiership Grand Finals at Accor Stadium, Sydney on Sunday 4 Oct 2026, 1:00 PM kickoff. Season finale of Australian rugby league."
+  # ---- TENTATIVE (dates not officially confirmed as of 2026-07-21) ----
+  - summary: "[TBC] State of Origin 2027 — Game 1"
+    start: "2027-05-26"
+    source_url: "https://www.nrl.com/news/2026/02/16/ampol-state-of-origin-heads-to-new-zealand/"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. NRL has confirmed the 2027 Ampol State of Origin series (three venues: Suncorp Stadium Brisbane, Eden Park Auckland — a historic first Origin in New Zealand — and Accor Stadium Sydney) but has NOT published match dates. Series traditionally runs late May to early July on Wednesdays; Game 1 estimated ~26 May 2027 (last Wed of May). Re-verify when the NRL releases the 2027 fixtures. The Origin series is the tentpole; keyed to Game 1."

@@ -271,4 +271,70 @@ TRANSP:TRANSPARENT
 URL:https://en.wikipedia.org/wiki/2025%E2%80%932027_World_Test_Championshi
  p
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFL Grand Final 2026
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260721T000000Z
+UID:afl-grand-final-2026-2026-09-26@global-sporting.pyros-world-events-cal
+ endar
+DESCRIPTION:CONFIRMED: 2026 Toyota AFL Grand Final\, Sat Sep 26 2026\, 2:3
+ 0pm AEST at the MCG\, Melbourne. Grand Final Parade the day before (Fri Se
+ p 25). Broadcast on Seven/7plus.\nSource: https://www.austadiums.com/sport
+ /event/33018\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.austadiums.com/sport/event/33018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] CONCACAF Gold Cup 2027
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+DTSTAMP:20260721T000000Z
+UID:tbc-concacaf-gold-cup-2027-2027-06-12@global-sporting.pyros-world-even
+ ts-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. CONCACAF
+ 's 2026-2030 calendar confirms the men's Gold Cup 2027 will be hosted in t
+ he USA across June-July 2027 (16 teams\; semifinals & final at SoFi Stadiu
+ m\, Los Angeles\; prelims in March). Exact match dates/host cities not yet
+  announced. Start estimated (~mid-June) from prior editions (2025 opened J
+ un 14\; 2023 Jun 24). In-window\; verify when the full schedule is release
+ d.\nSource: https://www.concacaf.com/competitions/calendar-gold-cup-2027\n
+ Verified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.concacaf.com/competitions/calendar-gold-cup-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NRL Grand Final 2026
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DTSTAMP:20260721T000000Z
+UID:nrl-grand-final-2026-2026-10-04@global-sporting.pyros-world-events-cal
+ endar
+DESCRIPTION:CONFIRMED via Accor Stadium: NRL & NRLW Telstra Premiership Gr
+ and Finals at Accor Stadium\, Sydney on Sunday 4 Oct 2026\, 1:00 PM kickof
+ f. Season finale of Australian rugby league.\nSource: https://www.accorsta
+ dium.com.au/events/n2026_nrl_nrlw_grand_finals\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.accorstadium.com.au/events/n2026_nrl_nrlw_grand_finals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] State of Origin 2027 — Game 1
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+DTSTAMP:20260721T000000Z
+UID:tbc-state-of-origin-2027-game-1-2027-05-26@global-sporting.pyros-world
+ -events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. NRL has 
+ confirmed the 2027 Ampol State of Origin series (three venues: Suncorp Sta
+ dium Brisbane\, Eden Park Auckland — a historic first Origin in New Zeal
+ and — and Accor Stadium Sydney) but has NOT published match dates. Serie
+ s traditionally runs late May to early July on Wednesdays\; Game 1 estimat
+ ed ~26 May 2027 (last Wed of May). Re-verify when the NRL releases the 202
+ 7 fixtures. The Origin series is the tentpole\; keyed to Game 1.\nSource: 
+ https://www.nrl.com/news/2026/02/16/ampol-state-of-origin-heads-to-new-zea
+ land/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.nrl.com/news/2026/02/16/ampol-state-of-origin-heads-to-new
+ -zealand/
+END:VEVENT
 END:VCALENDAR

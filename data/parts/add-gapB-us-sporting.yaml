@@ -1,0 +1,15 @@
+target: us-sporting
+events:
+  # ---- CONFIRMED ----
+  - summary: "Tour Championship 2026 (FedEx Cup Finale)"
+    start: "2026-08-27"
+    end: "2026-08-30"
+    source_url: "https://www.tourchampionship.com/news/2026/04/16/tickets-on-sale-2026-tour-championship-pga-tour-east-lake-atlanta"
+    last_verified: "2026-07-21"
+    notes: "CONFIRMED via official tourchampionship.com: PGA Tour season finale at East Lake Golf Club, Atlanta, Thu 27 Aug - Sun 30 Aug 2026. Top 30 in FedEx Cup standings compete for the FedExCup title. Caps the FedEx Cup Playoffs (St. Jude Aug 13-16, BMW Aug 20-23)."
+  - summary: "The Players Championship 2027 (TPC Sawgrass)"
+    start: "2027-03-11"
+    end: "2027-03-14"
+    source_url: "https://www.theplayers.com/"
+    last_verified: "2026-07-21"
+    notes: "CONFIRMED via official theplayers.com (tournament week 8-14 Mar 2027); competition rounds Thu 11 - Sun 14 Mar 2027 at TPC Sawgrass, Ponte Vedra Beach, FL. Ticketed rounds corroborate (Fri 12 Mar, Sun 14 Mar). The PGA Tour's flagship event, often called golf's 'fifth major.'"

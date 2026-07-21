@@ -464,4 +464,20 @@ DESCRIPTION:Confirmed via R&A rota: 15-18 Jul 2027 at the Old Course\, St
 TRANSP:TRANSPARENT
 URL:https://en.wikipedia.org/wiki/2027_Open_Championship
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] PDC World Cup of Darts 2027
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+DTSTAMP:20260721T000000Z
+UID:tbc-pdc-world-cup-of-darts-2027-2027-06-10@uk-sporting.pyros-world-eve
+ nts-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. PDC team
+  event (nation-vs-nation\, distinct from the PDC World Championship). 2027
+  dates not yet announced. Estimated ~mid-June 2027 from the 2026 edition h
+ eld Jun 11-14 2026. In-window\; verify once PDC releases its 2027 calendar
+ .\nSource: https://www.pdc.tv/tournaments/betvictor-world-cup-of-darts\nVe
+ rified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.pdc.tv/tournaments/betvictor-world-cup-of-darts
+END:VEVENT
 END:VCALENDAR

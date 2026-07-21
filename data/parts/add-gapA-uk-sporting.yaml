@@ -1,0 +1,8 @@
+target: uk-sporting
+events:
+  # ---- TENTATIVE (2027 dates not yet officially confirmed as of 2026-07-21) ----
+  - summary: "[TBC] PDC World Cup of Darts 2027"
+    start: "2027-06-10"
+    source_url: "https://www.pdc.tv/tournaments/betvictor-world-cup-of-darts"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. PDC team event (nation-vs-nation, distinct from the PDC World Championship). 2027 dates not yet announced. Estimated ~mid-June 2027 from the 2026 edition held Jun 11-14 2026. In-window; verify once PDC releases its 2027 calendar."

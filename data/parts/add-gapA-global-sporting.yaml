@@ -1,0 +1,14 @@
+target: global-sporting
+events:
+  # ---- CONFIRMED ----
+  - summary: "AFL Grand Final 2026"
+    start: "2026-09-26"
+    source_url: "https://www.austadiums.com/sport/event/33018"
+    last_verified: "2026-07-21"
+    notes: "CONFIRMED: 2026 Toyota AFL Grand Final, Sat Sep 26 2026, 2:30pm AEST at the MCG, Melbourne. Grand Final Parade the day before (Fri Sep 25). Broadcast on Seven/7plus."
+  # ---- TENTATIVE (exact 2027 Gold Cup dates not officially confirmed as of 2026-07-21) ----
+  - summary: "[TBC] CONCACAF Gold Cup 2027"
+    start: "2027-06-12"
+    source_url: "https://www.concacaf.com/competitions/calendar-gold-cup-2027"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. CONCACAF's 2026-2030 calendar confirms the men's Gold Cup 2027 will be hosted in the USA across June-July 2027 (16 teams; semifinals & final at SoFi Stadium, Los Angeles; prelims in March). Exact match dates/host cities not yet announced. Start estimated (~mid-June) from prior editions (2025 opened Jun 14; 2023 Jun 24). In-window; verify when the full schedule is released."

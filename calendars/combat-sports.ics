@@ -365,4 +365,35 @@ TRANSP:TRANSPARENT
 URL:https://prowrestling.net/site/2026/07/13/aew-full-gear-date-and-locati
  on-announced-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BKFC 94 Manchester
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260721T000000Z
+UID:bkfc-94-manchester-2026-09-26@combat-sports.pyros-world-events-calenda
+ r
+DESCRIPTION:CONFIRMED: BKFC 94 at AO Arena (Manchester Arena)\, Manchester
+ \, England on 26 Sep 2026. Marquee numbered Bare Knuckle Fighting Champion
+ ship card at a major arena. Note: BKFC fight cards are announced short-ter
+ m\; the date is set.\nSource: https://en.wikipedia.org/wiki/2026_in_Bare_K
+ nuckle_Fighting_Championship\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championsh
+ ip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BKFC 96 Glasgow
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20260721T000000Z
+UID:bkfc-96-glasgow-2026-11-07@combat-sports.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED: BKFC 96 at OVO Hydro\, Glasgow\, Scotland on 7 Nov 
+ 2026. Marquee numbered BKFC card at a major arena\, in-window. BKFC schedu
+ les are announced short-term but this date is set.\nSource: https://en.wik
+ ipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championship\nVerified: 2026
+ -07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championsh
+ ip
+END:VEVENT
 END:VCALENDAR

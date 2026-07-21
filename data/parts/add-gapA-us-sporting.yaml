@@ -1,0 +1,19 @@
+target: us-sporting
+events:
+  # ---- CONFIRMED ----
+  - summary: "CFL Grey Cup 2026 (113th)"
+    start: "2026-11-15"
+    source_url: "https://en.wikipedia.org/wiki/113th_Grey_Cup"
+    last_verified: "2026-07-21"
+    notes: "CONFIRMED: 113th Grey Cup, CFL championship for the 2026 season, Sun Nov 15 2026 at McMahon Stadium, Calgary, Alberta (6th time Calgary hosts; last 2019). Kickoff 5:00pm MST / 7:00pm ET on CTV/TSN/RDS. Grey Cup Festival runs Nov 11-15. Corroborated by CBC News and Ticketmaster.ca."
+  # ---- TENTATIVE (2027 UFL schedule not yet officially announced as of 2026-07-21) ----
+  - summary: "[TBC] UFL 2027 Season Kickoff Weekend"
+    start: "2027-03-26"
+    source_url: "https://fbschedules.com/ufl-schedule/"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. UFL has not released its 2027 schedule. Date estimated (~last Friday of March 2027) from prior seasons: 2026 kicked off Fri Mar 27; 2025 Fri Mar 28. In-window; verify once UFL announces 2027 dates."
+  - summary: "[TBC] UFL Championship Game 2027"
+    start: "2027-06-12"
+    source_url: "https://fbschedules.com/ufl-schedule/"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. UFL 2027 schedule unannounced. Date estimated (~mid-June 2027) from the 2026 championship on Sat Jun 13 2026. In-window; verify once UFL announces 2027 dates."
