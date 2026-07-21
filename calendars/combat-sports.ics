@@ -396,4 +396,79 @@ TRANSP:TRANSPARENT
 URL:https://en.wikipedia.org/wiki/2026_in_Bare_Knuckle_Fighting_Championsh
  ip
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] WWE SummerSlam 2027
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270809
+DTSTAMP:20260721T000000Z
+UID:tbc-wwe-summerslam-2027-2027-08-07@combat-sports.pyros-world-events-ca
+ lendar
+DESCRIPTION:TENTATIVE: date/venue not officially confirmed as of 2026-07-2
+ 1. SummerSlam is WWE's summer tentpole\, held on the first weekend of Augu
+ st and (since 2025) run over two nights. Estimate = Sat 7 - Sun 8 Aug 2027
+  (2026 edition is Aug 1-2). Re-verify when WWE announces.\nSource: https:/
+ /en.wikipedia.org/wiki/SummerSlam\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/SummerSlam
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] WWE Crown Jewel 2027 (Saudi Arabia)
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+DTSTAMP:20260721T000000Z
+UID:tbc-wwe-crown-jewel-2027-saudi-arabia-2027-10-30@combat-sports.pyros-w
+ orld-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Crown Je
+ wel is WWE's marquee autumn event in its Saudi Arabia partnership (Riyadh)
+ \, typically late Oct/early Nov (2024 Riyadh Nov 2\; 2023 Riyadh Nov 4\; 2
+ 025 was in Perth). Estimate = late Oct 2027. Re-verify when WWE announces.
+ \nSource: https://en.wikipedia.org/wiki/WWE_Crown_Jewel\nVerified: 2026-07
+ -21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/WWE_Crown_Jewel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] WWE Survivor Series: WarGames 2027
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+DTSTAMP:20260721T000000Z
+UID:tbc-wwe-survivor-series-wargames-2027-2027-11-27@combat-sports.pyros-w
+ orld-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Survivor
+  Series (WarGames since 2022) is held on the Saturday of US Thanksgiving w
+ eekend. Thanksgiving 2027 is Nov 25\, so estimate = Sat 27 Nov 2027 (2026 
+ edition is Nov 28). Re-verify when WWE announces.\nSource: https://en.wiki
+ pedia.org/wiki/Survivor_Series\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/Survivor_Series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] AEW All Out 2027
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+DTSTAMP:20260721T000000Z
+UID:tbc-aew-all-out-2027-2027-09-25@combat-sports.pyros-world-events-calen
+ dar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Tony Kha
+ n has said AEW's 2027 event slate is not yet set. All Out is AEW's early-a
+ utumn PPV (2026 edition Sep 26\; historically late Aug/Sep\, Chicago area)
+ . Estimate = late Sep 2027. Re-verify when AEW announces.\nSource: https:/
+ /en.wikipedia.org/wiki/AEW_All_Out\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/AEW_All_Out
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] AEW Full Gear 2027
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+DTSTAMP:20260721T000000Z
+UID:tbc-aew-full-gear-2027-2027-11-20@combat-sports.pyros-world-events-cal
+ endar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Full Gea
+ r is AEW's November PPV (2026 edition mid/late Nov). Estimate = mid/late N
+ ov 2027. Re-verify when AEW announces.\nSource: https://en.wikipedia.org/w
+ iki/AEW_Full_Gear\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/AEW_Full_Gear
+END:VEVENT
 END:VCALENDAR

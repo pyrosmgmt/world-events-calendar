@@ -1,0 +1,74 @@
+target: us-sporting
+events:
+- summary: US Open Tennis 2027
+  start: '2027-08-30'
+  end: '2027-09-12'
+  source_url: https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026-updated.pdf
+  last_verified: '2026-07-21'
+  notes: 'CONFIRMED: main draw Mon Aug 30 - Sun Sep 12 2027 at the USTA Billie Jean King National Tennis
+    Center, Flushing Meadows, NY. Listed on the official ATP 2027 tour calendar; follows the fixed final-Grand-Slam
+    slot (starts the last Monday of August). Final Grand Slam of the year.'
+- summary: '[TBC] College Football 2027 Season Kickoff'
+  start: '2027-08-28'
+  source_url: https://fbschedules.com/2027-college-football-schedule/
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. FBSchedules lists opening
+    (Week 0) games Sat Aug 28 2027. Note: an NCAA D-I Oversight Committee proposal would officially move
+    the season start up one week beginning 2027 (folding Week 0 into Week 1); legislation not yet adopted.
+    Keyed to the kickoff Saturday. Verify once the 2027 schedule is finalized (typically spring/summer 2027).'
+- summary: '[TBC] NFL Kickoff Game 2027'
+  start: '2027-09-09'
+  source_url: https://www.nfl.com
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. NFL season opener is
+    the Thursday after Labor Day; Labor Day 2027 is Mon Sep 6, so Kickoff Game estimated Thu Sep 9 2027.
+    Matchup/host TBD. Verify when the NFL releases the 2027 schedule (~May 2027).'
+- summary: '[TBC] MLB World Series 2027 (Game 1)'
+  start: '2027-10-22'
+  source_url: https://www.mlb.com/news/mlb-2027-schedule-released
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. MLB has released the
+    2027 regular-season schedule (Opening Night Mar 24, regular season ends ~Sep 26) but postseason dates
+    are not officially published; World Series Game 1 projected for the customary late-Oct Friday slot
+    (Fri Oct 22 2027; Game 7 if needed ~Oct 30). CAVEAT: the 2027 season is contingent on a new CBA (current
+    one expires Dec 1 2026); a lockout could shift or disrupt the calendar. On FOX. Verify once postseason
+    dates are announced.'
+- summary: '[TBC] NHL 2027-28 Season Opening Night'
+  start: '2027-10-05'
+  source_url: https://www.nhl.com
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. The 2027-28 NHL schedule
+    has not been released. Recent openers have ranged from late Sep to mid-Oct (2026-27 opened Tue Sep
+    29 2026; 2024-25 Oct 4; 2023-24 Oct 10); early October is the estimate. Verify when the NHL releases
+    the 2027-28 schedule (~summer 2027).'
+- summary: '[TBC] NBA 2027-28 Opening Night'
+  start: '2027-10-19'
+  source_url: https://www.nba.com
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. The 2027-28 NBA schedule
+    has not been released. The 2026-27 season opens Tue Oct 20 2026; the season typically tips off in the
+    third week of October, so Tue Oct 19 2027 is the estimate. Verify when the NBA releases the 2027-28
+    schedule (~Aug 2027).'
+- summary: Breeders' Cup 2027 (Belmont Park)
+  start: '2027-10-29'
+  end: '2027-10-30'
+  source_url: https://breederscup.com/news/2025/breeders-cup-announces-2026-2027-host-site-selections
+  last_verified: '2026-07-21'
+  notes: 'CONFIRMED (host + dates announced): Breeders'' Cup World Championships Fri Oct 29 - Sat Oct 30
+    2027 at Belmont Park, Elmont, NY (fifth time Belmont hosts, first since 2005). Two-day thoroughbred
+    championship (Future Stars Friday + Championship Saturday). Race dates pending final approval by the
+    New York State Gaming Commission. Corroborated by NYRA, BloodHorse and DRF.'
+- summary: '[TBC] NFL Thanksgiving Games 2027'
+  start: '2027-11-25'
+  source_url: https://www.nfl.com
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 schedule not yet published; estimated from recent editions. However the DATE
+    is structurally certain: NFL always plays on Thanksgiving = 4th Thursday of November = Thu Nov 25 2027.
+    Matchups TBD until the 2027 schedule is released (~May 2027). Traditional tripleheader.'
+- summary: '[TBC] College Football Rivalry Week 2027'
+  start: '2027-11-27'
+  source_url: https://fbschedules.com/2027-college-football-schedule/
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 schedule not yet published; estimated from recent editions. Marquee CFB rivalry
+    weekend (Ohio State-Michigan, Iron Bowl, etc.) — final regular-season Saturday, computed as the Saturday
+    after US Thanksgiving (Nov 25 2027) = Sat Nov 27 2027. Tentpole viewership window, not a single competition.'

@@ -198,4 +198,117 @@ DESCRIPTION:TENTATIVE — 2027 MotoGP calendar not yet officially publishe
 TRANSP:TRANSPARENT
 URL:https://www.motogp.com/en/calendar/2027
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIA WEC 2027 — Lone Star Le Mans (Austin)
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20260721T000000Z
+UID:fia-wec-2027-lone-star-le-mans-austin-2027-09-10@motorsport.pyros-worl
+ d-events-calendar
+DESCRIPTION:CONFIRMED via official FIA WEC 2027 calendar (published 12 Jun
+  2026): Round 7 of nine\, Circuit of the Americas\, Austin TX\, race weeke
+ nd Fri 10 - Sun 12 Sep 2027.\nSource: https://www.fiawec.com/en/news/fia-w
+ ec-reveals-nine-round-2027-calendar-as-series-expands/13598\nVerified: 202
+ 6-07-21
+TRANSP:TRANSPARENT
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calenda
+ r-as-series-expands/13598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIA WEC 2027 — 6 Hours of Fuji
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270927
+DTSTAMP:20260721T000000Z
+UID:fia-wec-2027-6-hours-of-fuji-2027-09-24@motorsport.pyros-world-events-
+ calendar
+DESCRIPTION:CONFIRMED via official FIA WEC 2027 calendar: Round 8 of nine\
+ , Fuji Speedway\, Japan\, race weekend Fri 24 - Sun 26 Sep 2027. Penultima
+ te round.\nSource: https://www.fiawec.com/en/news/fia-wec-reveals-nine-rou
+ nd-2027-calendar-as-series-expands/13598\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calenda
+ r-as-series-expands/13598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIA WEC 2027 — 8 Hours of Bahrain (Season Finale)
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271107
+DTSTAMP:20260721T000000Z
+UID:fia-wec-2027-8-hours-of-bahrain-season-finale-2027-11-04@motorsport.py
+ ros-world-events-calendar
+DESCRIPTION:CONFIRMED via official FIA WEC 2027 calendar: Round 9 (finale)
+ \, Bapco Energies 8 Hours of Bahrain\, Bahrain International Circuit\, day
+ -to-night race weekend Thu 4 - Sat 6 Nov 2027. Title decider.\nSource: htt
+ ps://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-se
+ ries-expands/13598\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calenda
+ r-as-series-expands/13598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] NASCAR Cup Series 2027 — Championship Race
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+DTSTAMP:20260721T000000Z
+UID:tbc-nascar-cup-series-2027-championship-race-2027-11-07@motorsport.pyr
+ os-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. NASCAR's
+  full 2027 schedule (and the championship venue) is unpublished\; Homestea
+ d-Miami hosts the 2026 finale but the title site may rotate from 2027. Est
+ imate = first Sunday of Nov 2027 (2026 finale is Sun Nov 8\, 2025 was Nov 
+ 2). Re-verify when NASCAR releases the 2027 schedule (expected autumn 2026
+ ).\nSource: https://dailydownforce.com/all-confirmed-dates-on-the-2027-nas
+ car-schedule-so-far/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://dailydownforce.com/all-confirmed-dates-on-the-2027-nascar-sche
+ dule-so-far/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] MotoGP British Grand Prix (Silverstone) 2027
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+DTSTAMP:20260721T000000Z
+UID:tbc-motogp-british-grand-prix-silverstone-2027-2027-08-29@motorsport.p
+ yros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. The 2027
+  MotoGP calendar has not been published. The 2026 British GP is Sun Aug 9\
+ ; a late-Aug/early-Sep 2027 slot is a best estimate that keeps it inside t
+ his window. Re-verify — the round could fall outside Aug-Sep once the ca
+ lendar is released.\nSource: https://www.motogp.com/en/calendar/2027\nVeri
+ fied: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.motogp.com/en/calendar/2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] MotoGP Valencia Grand Prix 2027 (Season Finale)
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+DTSTAMP:20260721T000000Z
+UID:tbc-motogp-valencia-grand-prix-2027-season-finale-2027-11-14@motorspor
+ t.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. The 2027
+  MotoGP calendar is unpublished. Valencia is the traditional season finale
+  (2026 finale is Nov 22)\; estimate = mid-Nov 2027. Re-verify on official 
+ release.\nSource: https://www.motogp.com/en/calendar/2027\nVerified: 2026-
+ 07-21
+TRANSP:TRANSPARENT
+URL:https://www.motogp.com/en/calendar/2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] IndyCar 2027 Season Finale
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+DTSTAMP:20260721T000000Z
+UID:tbc-indycar-2027-season-finale-2027-09-05@motorsport.pyros-world-event
+ s-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Only the
+  first seven 2027 NTT IndyCar rounds (through Road America\, Jun 20) are p
+ ublished\; the season finale venue/date is not yet set. Recent finales hav
+ e fallen late Aug to mid-Sep (2024 Nashville Sep 15\; 2025 Nashville late 
+ Aug). Estimate = Labor Day weekend\, early Sep 2027. Re-verify on full-sch
+ edule release.\nSource: https://www.openwheelworld.net/en/schedule/indycar
+ /2027\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.openwheelworld.net/en/schedule/indycar/2027
+END:VEVENT
 END:VCALENDAR

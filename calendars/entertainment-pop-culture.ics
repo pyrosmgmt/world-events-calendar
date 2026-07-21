@@ -553,4 +553,158 @@ DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. No offic
 TRANSP:TRANSPARENT
 URL:https://en.wikipedia.org/wiki/Nickelodeon_Kids'_Choice_Awards
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Venice Film Festival 2027 (84th)
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270912
+DTSTAMP:20260721T000000Z
+UID:tbc-venice-film-festival-2027-84th-2027-09-01@entertainment-pop-cultur
+ e.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 dates not officially announced as of 2026-07-2
+ 1 (La Biennale site still lists 2026 only\; Alberto Barbera confirmed as a
+ rtistic director for 2027-2028). Estimated early-Sep window from the 83rd 
+ edition (Sep 2-12\, 2026). Fall awards-season launchpad. Verify closer to 
+ date.\nSource: https://www.labiennale.org/en/cinema\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.labiennale.org/en/cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Simpsons Movie 2 (theatrical release)
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+DTSTAMP:20260721T000000Z
+UID:the-simpsons-movie-2-theatrical-release-2027-09-03@entertainment-pop-c
+ ulture.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED via 20th Century Studios/Disney: Fri Sep 3\, 2027. M
+ oved from an earlier Jul 23\, 2027 date to avoid clashing with A Minecraft
+  Movie Squared. Sequel to the 2007 film.\nSource: https://variety.com/2025
+ /film/news/simpsons-movie-sequel-summer-2027-release-date-1236534270/\nVer
+ ified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://variety.com/2025/film/news/simpsons-movie-sequel-summer-2027-r
+ elease-date-1236534270/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Toronto International Film Festival 2027 (TIFF\, 52nd)
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20260721T000000Z
+UID:tbc-toronto-international-film-festival-2027-tiff-52nd-2027-09-09@ente
+ rtainment-pop-culture.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 dates not officially announced as of 2026-07-2
+ 1 (submissions for the 52nd festival open\; no public dates). Estimated Th
+ u Sep 9 - Sun Sep 19\, 2027 from TIFF's rule of starting the Thursday afte
+ r Canadian Labour Day (Sep 6\, 2027). Major awards-season festival. Verify
+  closer to date.\nSource: https://www.tiff.net/about-the-festival/\nVerifi
+ ed: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.tiff.net/about-the-festival/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] MTV Video Music Awards 2027
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20260721T000000Z
+UID:tbc-mtv-video-music-awards-2027-2027-09-12@entertainment-pop-culture.p
+ yros-world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not officially announced as of 2026-07-21
+ . Recent editions have varied (2024 Sep 11\, 2025 Sep 7\, 2026 Sep 27). Es
+ timated a Sunday in mid-September\; some aggregator sites project late Aug
+ . Verify closer to date.\nSource: https://www.paramountpressexpress.com/cb
+ s-entertainment/shows/mtv-video-music-awards-vmas\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.paramountpressexpress.com/cbs-entertainment/shows/mtv-vide
+ o-music-awards-vmas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Primetime Emmy Awards 2027 (79th)
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20260721T000000Z
+UID:tbc-primetime-emmy-awards-2027-79th-2027-09-19@entertainment-pop-cultu
+ re.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not officially announced as of 2026-07-21
+ . Estimated a mid-September Sunday from the annual pattern (78th was Sep 1
+ 4\, 2026). Verify with the Television Academy closer to date.\nSource: htt
+ ps://www.televisionacademy.com/awards/emmys\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.televisionacademy.com/awards/emmys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] MTV Europe Music Awards 2027 (EMAs)
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+DTSTAMP:20260721T000000Z
+UID:tbc-mtv-europe-music-awards-2027-emas-2027-11-14@entertainment-pop-cul
+ ture.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: highly uncertain. 2027 date not announced as of 202
+ 6-07-21 and the EMAs have run irregularly in recent years (may be skipped)
+ . Estimated a Sunday in mid-November from historic pattern. Confirm the ce
+ remony is even taking place before relying on this.\nSource: https://www.m
+ tvema.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.mtvema.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frozen III (theatrical release)
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+DTSTAMP:20260721T000000Z
+UID:frozen-iii-theatrical-release-2027-11-24@entertainment-pop-culture.pyr
+ os-world-events-calendar
+DESCRIPTION:CONFIRMED via Walt Disney Animation Studios/Disney: Wed Nov 24
+ \, 2027 (the Wednesday before Thanksgiving). Major franchise tentpole.\nSo
+ urce: https://variety.com/2025/film/news/frozen-3-release-date-2027-123632
+ 1842/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://variety.com/2025/film/news/frozen-3-release-date-2027-12363218
+ 42/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] The Fashion Awards 2027 (London)
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271130
+DTSTAMP:20260721T000000Z
+UID:tbc-the-fashion-awards-2027-london-2027-11-29@entertainment-pop-cultur
+ e.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not officially announced as of 2026-07-21
+ . British Fashion Council holds it on a late-Nov/early-Dec Monday at the R
+ oyal Albert Hall (2025 Dec 1\, 2026 Nov 30). Estimated Mon Nov 29\, 2027. 
+ Verify closer to date.\nSource: https://fashionawards.com/\nVerified: 2026
+ -07-21
+TRANSP:TRANSPARENT
+URL:https://fashionawards.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Secret Wars (theatrical release)
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+DTSTAMP:20260721T000000Z
+UID:avengers-secret-wars-theatrical-release-2027-12-17@entertainment-pop-c
+ ulture.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED via Marvel Studios/Disney (Marvel.com lists Dec 2027
+ ): Fri Dec 17\, 2027. Finale of the Multiverse Saga\; delayed from May 202
+ 7. Major franchise tentpole.\nSource: https://variety.com/2025/film/news/a
+ vengers-delayed-doomsday-secret-wars-december-2026-2027-1236399999/\nVerif
+ ied: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://variety.com/2025/film/news/avengers-delayed-doomsday-secret-wa
+ rs-december-2026-2027-1236399999/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lord of the Rings: The Hunt for Gollum (theatrical release)
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+DTSTAMP:20260721T000000Z
+UID:the-lord-of-the-rings-the-hunt-for-gollum-theatrical-release-2027-12-1
+ 7@entertainment-pop-culture.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED via Warner Bros.: Fri Dec 17\, 2027 (same day as Ave
+ ngers: Secret Wars). Andy Serkis directs and stars\; Peter Jackson produci
+ ng. Delayed from 2026.\nSource: https://variety.com/2025/film/news/lord-of
+ -the-rings-the-hunt-for-gollum-release-date-december-2027-1236390820/\nVer
+ ified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://variety.com/2025/film/news/lord-of-the-rings-the-hunt-for-goll
+ um-release-date-december-2027-1236390820/
+END:VEVENT
 END:VCALENDAR

@@ -337,4 +337,136 @@ TRANSP:TRANSPARENT
 URL:https://www.nrl.com/news/2026/02/16/ampol-state-of-origin-heads-to-new
  -zealand/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] The Rugby Championship 2027 (SANZAAR)
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+DTSTAMP:20260721T000000Z
+UID:tbc-the-rugby-championship-2027-sanzaar-2027-08-07@global-sporting.pyr
+ os-world-events-calendar
+DESCRIPTION:TENTATIVE: exact dates not published as of verification. SANZA
+ AR's 2026-2030 calendar CONFIRMS a full Rugby Championship returns in 2027
+  (first full edition in a Rugby World Cup year\, all 12 matches) in an ear
+ lier July-August slot ahead of RWC 2027. No fixture dates released yet\; s
+ tart keyed to an estimated early-August weekend and may fall in July. Re-v
+ erify when SANZAAR/national unions publish fixtures.\nSource: https://supe
+ r.rugby/therugbychampionship/news/sanzaar-confirms-new-and-exciting-intern
+ ational-rugby-calendar-2026-2030/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://super.rugby/therugbychampionship/news/sanzaar-confirms-new-and
+ -exciting-international-rugby-calendar-2026-2030/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Vuelta a España 2027
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20260721T000000Z
+UID:tbc-vuelta-a-españa-2027-2027-08-21@global-sporting.pyros-world-event
+ s-calendar
+DESCRIPTION:TENTATIVE: exact dates not officially confirmed. 82nd edition\
+ ; the Gran Salida is confirmed for "the end of August 2027" (possible fore
+ ign start\, Denmark rumoured) with the full route revealed December 2026. 
+ Start/end estimated from the Vuelta's usual ~3-week late-Aug-to-mid-Sep wi
+ ndow (2026 ran 22 Aug - 13 Sep). Re-verify when ASO/lavuelta.es publishes 
+ the 2027 route and dates. Third Grand Tour of the season.\nSource: https:/
+ /www.cyclingstage.com/vuelta-2027-route/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.cyclingstage.com/vuelta-2027-route/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Athletics Championships 2027 (Beijing)
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20260721T000000Z
+UID:world-athletics-championships-2027-beijing-2027-09-11@global-sporting.
+ pyros-world-events-calendar
+DESCRIPTION:CONFIRMED: 21st World Athletics Championships\, 11-19 Sep 2027
+  at the National Stadium (Bird's Nest)\, Beijing\, China. Second time Beij
+ ing hosts (after 2015).\nSource: https://worldathletics.org/competitions/w
+ orld-athletics-championships/beijing27\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://worldathletics.org/competitions/world-athletics-championships/
+ beijing27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] UEFA Champions League 2027/28 — League Phase Begins
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+DTSTAMP:20260721T000000Z
+UID:tbc-uefa-champions-league-202728-league-phase-begins-2027-09-16@global
+ -sporting.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: exact Matchday 1 date not yet published as of verif
+ ication. UEFA confirms the 2027/28 league phase begins in September 2027 (
+ 36-team Swiss-model format continues). Start estimated ~mid-September from
+  the 2026/27 pattern (MD1 8-10 Sep 2026). Re-verify when UEFA releases the
+  2027/28 calendar.\nSource: https://en.wikipedia.org/wiki/2027%E2%80%9328_
+ UEFA_Champions_League\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2027%E2%80%9328_UEFA_Champions_League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryder Cup 2027 (Adare Manor\, Ireland)
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20260721T000000Z
+UID:ryder-cup-2027-adare-manor-ireland-2027-09-17@global-sporting.pyros-wo
+ rld-events-calendar
+DESCRIPTION:CONFIRMED by Ryder Cup: 46th edition (100th anniversary) at Ad
+ are Manor\, Co. Limerick\, Ireland. Three days of competition Fri 17 - Sun
+  19 Sep 2027\, preceded by build-up days Mon 13 - Thu 16 Sep. Ireland's se
+ cond Ryder Cup (after 2006).\nSource: https://www.rydercup.com/news-media/
+ dates-announced-for-the-2027-ryder-cup\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.rydercup.com/news-media/dates-announced-for-the-2027-ryder
+ -cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] UEFA Europa League 2027/28 — League Phase Begins
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+DTSTAMP:20260721T000000Z
+UID:tbc-uefa-europa-league-202728-league-phase-begins-2027-09-23@global-sp
+ orting.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: exact Matchday 1 date not yet published as of verif
+ ication. The 2027/28 league phase begins in September 2027. Start estimate
+ d ~late September from the 2026/27 pattern (MD1 16-17 Sep 2026\, roughly a
+  week after the Champions League). Re-verify when UEFA releases the 2027/2
+ 8 calendar.\nSource: https://en.wikipedia.org/wiki/2027%E2%80%9328_UEFA_Eu
+ ropa_League\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2027%E2%80%9328_UEFA_Europa_League
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rugby World Cup 2027 (Australia)
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271114
+DTSTAMP:20260721T000000Z
+UID:rugby-world-cup-2027-australia-2027-10-01@global-sporting.pyros-world-
+ events-calendar
+DESCRIPTION:CONFIRMED by World Rugby: first 24-team Men's Rugby World Cup\
+ , 1 Oct - 13 Nov 2027 across Australia (Sydney\, Melbourne\, Brisbane\, Pe
+ rth\, Adelaide\, Newcastle\, Townsville). Opening match Australia v Hong K
+ ong China in Perth on 1 Oct\; final at Stadium Australia\, Sydney on Sat 1
+ 3 Nov. 52 matches.\nSource: https://www.rugbyworldcup.com/2027/en\nVerifie
+ d: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.rugbyworldcup.com/2027/en
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC Men's Cricket World Cup 2027 (ODI)
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271122
+DTSTAMP:20260721T000000Z
+UID:icc-mens-cricket-world-cup-2027-odi-2027-10-04@global-sporting.pyros-w
+ orld-events-calendar
+DESCRIPTION:CONFIRMED (ESPNcricinfo/ICC): 50-over Cricket World Cup co-hos
+ ted by South Africa\, Zimbabwe and Namibia\, 4 Oct - 21 Nov 2027. South Af
+ rica stages 44 of 54 matches across 8 venues\; Namibia hosts for the first
+  time. New format with a Super 7 stage (announced 15 Jul 2026).\nSource: h
+ ttps://www.espncricinfo.com/story/mens-odi-world-cup-2027-dates-set-to-run
+ -from-october-4-to-november-21-1540479\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.espncricinfo.com/story/mens-odi-world-cup-2027-dates-set-t
+ o-run-from-october-4-to-november-21-1540479
+END:VEVENT
 END:VCALENDAR

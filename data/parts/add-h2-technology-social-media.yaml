@@ -1,0 +1,41 @@
+target: technology-social-media
+# Target calendar: technology-social-media
+# Window: 2027-08-01 -> 2027-12-31
+# All 2027 fall tech keynotes are UNCONFIRMED as of 2026-07-21 -> [TBC] with estimates from recent editions.
+events:
+- summary: '[TBC] IFA Berlin 2027'
+  start: '2027-09-03'
+  source_url: https://www.ifa-berlin.com
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 dates listed as TBD (showsbee). Estimated early Sep from
+    recent editions (IFA 2026 was Sep 4-8; IFA 2025 Sep 5-9). Messe Berlin.'
+- summary: '[TBC] Apple September Event (iPhone 2027) 2027'
+  start: '2027-09-14'
+  source_url: https://www.apple.com/newsroom
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: not announced as of 2026-07-21. Estimated ~mid-Sep (Apple typically
+    holds its iPhone keynote in the first/second week of September).'
+- summary: '[TBC] Qualcomm Snapdragon Summit 2027'
+  start: '2027-09-21'
+  source_url: https://www.qualcomm.com/company/events/snapdragon-summit
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 not announced as of 2026-07-21. Estimated late Sep (Snapdragon
+    Summit 2026 was Sep 22-24, Maui, Hawaii).'
+- summary: '[TBC] Meta Connect 2027'
+  start: '2027-09-22'
+  source_url: https://www.meta.com/connect/
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: not announced as of 2026-07-21. Estimated late Sep (Meta Connect
+    2026 was Sep 23-24, Menlo Park).'
+- summary: '[TBC] MWC Las Vegas 2027'
+  start: '2027-10-13'
+  source_url: https://www.mwclasvegas.com
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 dates not announced as of 2026-07-21. Estimated mid-Oct (MWC
+    Las Vegas 2026 was Oct 14-16, Las Vegas Convention Center; GSMA).'
+- summary: '[TBC] Microsoft Ignite 2027'
+  start: '2027-11-16'
+  source_url: https://ignite.microsoft.com
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Estimated mid-Nov (Ignite
+    2026 was Nov 17-20; some listings suggest Nov 2027 in Chicago).'

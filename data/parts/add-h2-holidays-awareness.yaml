@@ -1,0 +1,21 @@
+# Append target: holidays-awareness
+# Window: 2027-08-01 -> 2027-12-31
+# Awareness / fun promo-relevant days only. Standard public holidays (Christmas Day,
+# Thanksgiving itself, etc.) come from the subscribed Google holiday feed - NOT added here.
+target: holidays-awareness
+events:
+- summary: Halloween (2027)
+  start: '2027-10-31'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: Fixed Oct 31 (global, promo-relevant). Falls on a Sunday in 2027.
+- summary: Bonfire Night / Guy Fawkes (2027)
+  start: '2027-11-05'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: Fixed Nov 5 (UK). Falls on a Friday in 2027.
+- summary: New Year's Eve (2027)
+  start: '2027-12-31'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: Fixed Dec 31 (global, promo-relevant). Falls on a Friday in 2027.

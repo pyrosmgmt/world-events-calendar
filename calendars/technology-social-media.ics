@@ -206,4 +206,83 @@ DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21 (predicte
 TRANSP:TRANSPARENT
 URL:https://www.apple.com/newsroom
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] IFA Berlin 2027
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+DTSTAMP:20260721T000000Z
+UID:tbc-ifa-berlin-2027-2027-09-03@technology-social-media.pyros-world-eve
+ nts-calendar
+DESCRIPTION:TENTATIVE: 2027 dates listed as TBD (showsbee). Estimated earl
+ y Sep from recent editions (IFA 2026 was Sep 4-8\; IFA 2025 Sep 5-9). Mess
+ e Berlin.\nSource: https://www.ifa-berlin.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.ifa-berlin.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Apple September Event (iPhone 2027) 2027
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+DTSTAMP:20260721T000000Z
+UID:tbc-apple-september-event-iphone-2027-2027-2027-09-14@technology-socia
+ l-media.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: not announced as of 2026-07-21. Estimated ~mid-Sep 
+ (Apple typically holds its iPhone keynote in the first/second week of Sept
+ ember).\nSource: https://www.apple.com/newsroom\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.apple.com/newsroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Qualcomm Snapdragon Summit 2027
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+DTSTAMP:20260721T000000Z
+UID:tbc-qualcomm-snapdragon-summit-2027-2027-09-21@technology-social-media
+ .pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 not announced as of 2026-07-21. Estimated late
+  Sep (Snapdragon Summit 2026 was Sep 22-24\, Maui\, Hawaii).\nSource: http
+ s://www.qualcomm.com/company/events/snapdragon-summit\nVerified: 2026-07-2
+ 1
+TRANSP:TRANSPARENT
+URL:https://www.qualcomm.com/company/events/snapdragon-summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Meta Connect 2027
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+DTSTAMP:20260721T000000Z
+UID:tbc-meta-connect-2027-2027-09-22@technology-social-media.pyros-world-e
+ vents-calendar
+DESCRIPTION:TENTATIVE: not announced as of 2026-07-21. Estimated late Sep 
+ (Meta Connect 2026 was Sep 23-24\, Menlo Park).\nSource: https://www.meta.
+ com/connect/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.meta.com/connect/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] MWC Las Vegas 2027
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+DTSTAMP:20260721T000000Z
+UID:tbc-mwc-las-vegas-2027-2027-10-13@technology-social-media.pyros-world-
+ events-calendar
+DESCRIPTION:TENTATIVE: 2027 dates not announced as of 2026-07-21. Estimate
+ d mid-Oct (MWC Las Vegas 2026 was Oct 14-16\, Las Vegas Convention Center\
+ ; GSMA).\nSource: https://www.mwclasvegas.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.mwclasvegas.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Microsoft Ignite 2027
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+DTSTAMP:20260721T000000Z
+UID:tbc-microsoft-ignite-2027-2027-11-16@technology-social-media.pyros-wor
+ ld-events-calendar
+DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. Estimate
+ d mid-Nov (Ignite 2026 was Nov 17-20\; some listings suggest Nov 2027 in C
+ hicago).\nSource: https://ignite.microsoft.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://ignite.microsoft.com
+END:VEVENT
 END:VCALENDAR

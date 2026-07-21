@@ -163,4 +163,111 @@ DESCRIPTION:Computed astronomical event.\nSource: https://in-the-sky.org\n
 TRANSP:TRANSPARENT
 URL:https://in-the-sky.org
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Solar Eclipse ("Eclipse of the Century") 2027
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+DTSTAMP:20260721T000000Z
+UID:total-solar-eclipse-eclipse-of-the-century-2027-2027-08-02@space-scien
+ ce.pyros-world-events-calendar
+DESCRIPTION:CONFIRMED. Longest totality of the century (up to 6m22s near L
+ uxor\, Egypt)\; path crosses Spain\, Gibraltar\, Morocco\, Algeria\, Libya
+ \, Egypt\, Saudi Arabia\, Yemen\, Somalia. Longest total eclipse visible f
+ rom land until 2114.\nSource: https://www.timeanddate.com/eclipse/solar/20
+ 27-august-2\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.timeanddate.com/eclipse/solar/2027-august-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perseids Meteor Shower Peak 2027
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20260721T000000Z
+UID:perseids-meteor-shower-peak-2027-2027-08-12@space-science.pyros-world-
+ events-calendar
+DESCRIPTION:CONFIRMED. Peaks night of Aug 12 / morning Aug 13\; up to 60/h
+ r. Waxing gibbous moon interferes this year.\nSource: https://www.seasky.o
+ rg/astronomy/astronomy-calendar-2027.html\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:September Equinox 2027
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+DTSTAMP:20260721T000000Z
+UID:september-equinox-2027-2027-09-23@space-science.pyros-world-events-cal
+ endar
+DESCRIPTION:CONFIRMED. Occurs 06:04 UTC\; first day of autumn (N. Hemisphe
+ re).\nSource: https://www.seasky.org/astronomy/astronomy-calendar-2027.htm
+ l\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orionids Meteor Shower Peak 2027
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+DTSTAMP:20260721T000000Z
+UID:orionids-meteor-shower-peak-2027-2027-10-21@space-science.pyros-world-
+ events-calendar
+DESCRIPTION:CONFIRMED. Peaks night of Oct 21 / morning Oct 22\; up to 20/h
+ r (comet Halley debris).\nSource: https://www.seasky.org/astronomy/astrono
+ my-calendar-2027.html\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leonids Meteor Shower Peak 2027
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+DTSTAMP:20260721T000000Z
+UID:leonids-meteor-shower-peak-2027-2027-11-17@space-science.pyros-world-e
+ vents-calendar
+DESCRIPTION:CONFIRMED. Peaks night of Nov 17 / morning Nov 18\; up to 15/h
+ r. Near-full moon interferes this year.\nSource: https://www.seasky.org/as
+ tronomy/astronomy-calendar-2027.html\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geminids Meteor Shower Peak 2027
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+DTSTAMP:20260721T000000Z
+UID:geminids-meteor-shower-peak-2027-2027-12-13@space-science.pyros-world-
+ events-calendar
+DESCRIPTION:CONFIRMED. The "king" of showers\; peaks night of Dec 13 / mor
+ ning Dec 14\; up to 120/hr. Full moon interferes this year.\nSource: https
+ ://www.seasky.org/astronomy/astronomy-calendar-2027.html\nVerified: 2026-0
+ 7-21
+TRANSP:TRANSPARENT
+URL:https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:December Solstice 2027
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+DTSTAMP:20260721T000000Z
+UID:december-solstice-2027-2027-12-22@space-science.pyros-world-events-cal
+ endar
+DESCRIPTION:CONFIRMED. Occurs 02:45 UTC\; winter solstice (N. Hemisphere)\
+ , first day of summer (S. Hemisphere).\nSource: https://www.seasky.org/ast
+ ronomy/astronomy-calendar-2027.html\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ursids Meteor Shower Peak 2027
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+DTSTAMP:20260721T000000Z
+UID:ursids-meteor-shower-peak-2027-2027-12-22@space-science.pyros-world-ev
+ ents-calendar
+DESCRIPTION:CONFIRMED. Peaks night of Dec 21 / morning Dec 22\; 5-10/hr (c
+ omet Tuttle debris).\nSource: https://www.seasky.org/astronomy/astronomy-c
+ alendar-2027.html\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+END:VEVENT
 END:VCALENDAR

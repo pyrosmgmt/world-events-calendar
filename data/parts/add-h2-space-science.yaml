@@ -1,0 +1,52 @@
+target: space-science
+# Target calendar: space-science
+# Window: 2027-08-01 -> 2027-12-31
+# Astronomy events are precisely datable = CONFIRMED (source: seasky.org / NASA / in-the-sky.org)
+events:
+- summary: Total Solar Eclipse ("Eclipse of the Century") 2027
+  start: '2027-08-02'
+  source_url: https://www.timeanddate.com/eclipse/solar/2027-august-2
+  last_verified: '2026-07-21'
+  notes: CONFIRMED. Longest totality of the century (up to 6m22s near Luxor, Egypt);
+    path crosses Spain, Gibraltar, Morocco, Algeria, Libya, Egypt, Saudi Arabia, Yemen,
+    Somalia. Longest total eclipse visible from land until 2114.
+- summary: Perseids Meteor Shower Peak 2027
+  start: '2027-08-12'
+  source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+  last_verified: '2026-07-21'
+  notes: CONFIRMED. Peaks night of Aug 12 / morning Aug 13; up to 60/hr. Waxing gibbous
+    moon interferes this year.
+- summary: September Equinox 2027
+  start: '2027-09-23'
+  source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+  last_verified: '2026-07-21'
+  notes: CONFIRMED. Occurs 06:04 UTC; first day of autumn (N. Hemisphere).
+- summary: Orionids Meteor Shower Peak 2027
+  start: '2027-10-21'
+  source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+  last_verified: '2026-07-21'
+  notes: CONFIRMED. Peaks night of Oct 21 / morning Oct 22; up to 20/hr (comet Halley
+    debris).
+- summary: Leonids Meteor Shower Peak 2027
+  start: '2027-11-17'
+  source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+  last_verified: '2026-07-21'
+  notes: CONFIRMED. Peaks night of Nov 17 / morning Nov 18; up to 15/hr. Near-full
+    moon interferes this year.
+- summary: Geminids Meteor Shower Peak 2027
+  start: '2027-12-13'
+  source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+  last_verified: '2026-07-21'
+  notes: CONFIRMED. The "king" of showers; peaks night of Dec 13 / morning Dec 14;
+    up to 120/hr. Full moon interferes this year.
+- summary: December Solstice 2027
+  start: '2027-12-22'
+  source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+  last_verified: '2026-07-21'
+  notes: CONFIRMED. Occurs 02:45 UTC; winter solstice (N. Hemisphere), first day of
+    summer (S. Hemisphere).
+- summary: Ursids Meteor Shower Peak 2027
+  start: '2027-12-22'
+  source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+  last_verified: '2026-07-21'
+  notes: CONFIRMED. Peaks night of Dec 21 / morning Dec 22; 5-10/hr (comet Tuttle debris).

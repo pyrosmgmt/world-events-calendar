@@ -162,4 +162,114 @@ DESCRIPTION:Last Monday of May 2027 (computed).\nSource: https://www.offic
 TRANSP:TRANSPARENT
 URL:https://www.officeholidays.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back-to-School Peak (2027)
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+DTSTAMP:20260721T000000Z
+UID:back-to-school-peak-2027-2027-08-01@shopping-events.pyros-world-events
+ -calendar
+DESCRIPTION:TENTATIVE: season\, not a single day\; anchored early August p
+ er research (mirrors 2026 entry).\nSource: https://www.officeholidays.com\
+ nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:US Labor Day Sales (2027)
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+DTSTAMP:20260721T000000Z
+UID:us-labor-day-sales-2027-2027-09-06@shopping-events.pyros-world-events-
+ calendar
+DESCRIPTION:1st Monday of September 2027 (computed).\nSource: https://www.
+ officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amazon Prime Big Deal Days (2027)
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+DTSTAMP:20260721T000000Z
+UID:amazon-prime-big-deal-days-2027-2027-10-12@shopping-events.pyros-world
+ -events-calendar
+DESCRIPTION:[TBC]: Amazon sets the date each year\; historically the 2nd w
+ eek of October (2025 = Oct 7-8\, 2024 = Oct 8-9). Placeholder = 2nd Tue of
+  Oct 2027\; confirm when Amazon announces.\nSource: https://www.aboutamazo
+ n.com/news/retail/amazon-prime-big-deal-days-faq\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singles' Day (2027)
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+DTSTAMP:20260721T000000Z
+UID:singles-day-2027-2027-11-11@shopping-events.pyros-world-events-calenda
+ r
+DESCRIPTION:Fixed Nov 11 (global\, China-origin).\nSource: https://www.off
+ iceholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Friday (2027)
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+DTSTAMP:20260721T000000Z
+UID:black-friday-2027-2027-11-26@shopping-events.pyros-world-events-calend
+ ar
+DESCRIPTION:Day after US Thanksgiving (4th Thu of Nov 2027 = Nov 25)\; com
+ puted.\nSource: https://www.officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Business Saturday (2027)
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+DTSTAMP:20260721T000000Z
+UID:small-business-saturday-2027-2027-11-27@shopping-events.pyros-world-ev
+ ents-calendar
+DESCRIPTION:Saturday after US Thanksgiving (computed).\nSource: https://ww
+ w.officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cyber Monday (2027)
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271130
+DTSTAMP:20260721T000000Z
+UID:cyber-monday-2027-2027-11-29@shopping-events.pyros-world-events-calend
+ ar
+DESCRIPTION:Monday after US Thanksgiving (computed).\nSource: https://www.
+ officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Monday (2027)
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+DTSTAMP:20260721T000000Z
+UID:green-monday-2027-2027-12-13@shopping-events.pyros-world-events-calend
+ ar
+DESCRIPTION:2nd Monday of December 2027 (computed).\nSource: https://www.o
+ fficeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing Day (2027)
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+DTSTAMP:20260721T000000Z
+UID:boxing-day-2027-2027-12-26@shopping-events.pyros-world-events-calendar
+DESCRIPTION:Fixed Dec 26 (UK / CA / AU) - retail sales event.\nSource: htt
+ ps://www.officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
 END:VCALENDAR

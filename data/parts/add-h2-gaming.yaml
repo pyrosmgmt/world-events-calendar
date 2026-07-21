@@ -1,0 +1,113 @@
+# Gaming calendar extension — 2027-08-01 → 2027-12-31
+# Merge target: calendars[id: gaming].events
+# Verified 2026-07-21 via WebSearch + WebFetch. Most 2027 gaming events are not yet
+# officially scheduled — those carry a [TBC] prefix and a TENTATIVE note with the basis
+# for the estimate. Game launch dates in particular slip; re-verify before publishing.
+target: gaming
+events:
+- summary: '[TBC] gamescom 2027'
+  start: '2027-08-25'
+  end: '2027-08-29'
+  source_url: https://www.gamescom.global/en
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. World''s largest games
+    trade fair at Koelnmesse, Cologne. Recent editions run Wed-Sun in late August (2025
+    Aug 20-24, 2026 Aug 26-30), so Aug 25-29 2027 (Wed-Sun) is the estimate; some
+    aggregators list Aug 24-28. Opening Night Live typically streams the evening before.
+    Re-verify once gamescom.global publishes 2027 dates.'
+- summary: '[TBC] Pokemon World Championships 2027'
+  start: '2027-08-20'
+  end: '2027-08-22'
+  source_url: https://worlds.pokemon.com/en-us
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 host city and dates not yet announced as of 2026-07-21 (the
+    Pokemon Company has only confirmed 2027 regional Internationals — NAIC Chicago
+    Jun 18-20, EUIC London Feb 19-21). Worlds is an annual mid-to-late August event
+    (2026 = Aug 28-30, San Francisco); Aug 20-22 2027 is a placeholder estimate. TCG/VGC/GO/UNITE
+    finals. Re-verify when Worlds 2027 is announced.'
+- summary: '[TBC] PAX West 2027'
+  start: '2027-09-03'
+  end: '2027-09-06'
+  source_url: https://west.paxsite.com/en-us.html
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 dates not yet announced as of 2026-07-21. PAX West runs Fri-Mon
+    over US Labor Day weekend at the Seattle Convention Center (2026 = Sep 4-7). Labor
+    Day 2027 is Mon Sep 6, so Fri Sep 3 - Mon Sep 6 2027 is the reliable estimate.
+    Re-verify on paxsite.com.'
+- summary: '[TBC] The International 2027 (Dota 2) — Grand Final'
+  start: '2027-09-13'
+  source_url: https://liquipedia.net/dota2/The_International/2027
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Valve''s marquee annual
+    Dota 2 championship; 2027 location listed as TBD. Aggregators report an event window
+    of ~Sep 3-13 2027, so a Grand Final ~Sep 13 is the estimate (TI dates vary year
+    to year — 2026 ran Aug 13-23). Re-verify when Valve announces TI 2027.'
+- summary: '[TBC] Tokyo Game Show 2027'
+  start: '2027-09-16'
+  end: '2027-09-20'
+  source_url: https://tgs.cesa.or.jp/
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 dates not yet announced as of 2026-07-21. CESA''s TGS is
+    an annual mid-to-late September event at Makuhari Messe, Chiba (2026 = Sep 17-21,
+    business + public days). Sep 16-20 2027 is an estimate from the recent pattern.
+    Re-verify on the official CESA/TGS site.'
+- summary: National Video Games Day 2027
+  start: '2027-09-12'
+  source_url: https://www.nationaldaycalendar.com/national-day/national-video-games-day-september-12
+  last_verified: '2026-07-21'
+  notes: 'Recurring promo hook — fixed annual Sep 12 observance (the industry-marketed
+    variant; a separate ''National Video Game Day'' falls Jul 8, out of window). Steam/PSN/eShop
+    sales tie-in. Date is calendar-fixed and reliable.'
+- summary: '[TBC] EA Sports FC 28 Launch'
+  start: '2027-09-24'
+  source_url: https://www.ea.com/games/ea-sports-fc
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: not announced as of 2026-07-21. EA''s annual football title ships
+    on the last Friday of September (FC 25 Sep 27 2025, FC 27 Sep 25 2026), so Fri
+    Sep 24 2027 is the estimate; early access ~a week earlier for Ultimate Edition/EA
+    Play. Game launch dates slip — re-verify.'
+- summary: '[TBC] Valorant Champions 2027 — Grand Final'
+  start: '2027-09-26'
+  source_url: https://valorantesports.com/en-US/news/the-new-valorant-champions-tour
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Riot has confirmed
+    Valorant Champions 2027 will be hosted in the Americas region (host city TBD).
+    Champions is Riot''s year-end Valorant world final, typically late Sep to mid-Oct
+    (2026 = Sep 24-Oct 18, Shanghai). Late-Sep 2027 Grand Final is an estimate. Re-verify
+    when the 2027 schedule/host city is set.'
+- summary: '[TBC] League of Legends Worlds 2027 — Final'
+  start: '2027-11-14'
+  source_url: https://escharts.com/news/league-legends-worlds-2027-tentative-dates-and-additional-details-revealed
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. KeSPA has shared a
+    tentative Worlds 2027 window of Oct 15 - Nov 14 2027 hosted in South Korea and
+    opened host-city bidding for the knockout stage; the Grand Final is tentatively
+    Nov 14 2027 but the host city is not yet chosen. Riot''s LoL world championship.
+    Re-verify when the schedule is finalised.'
+- summary: '[TBC] Call of Duty 2027 Launch'
+  start: '2027-11-05'
+  source_url: https://www.callofduty.com/
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: no title or date announced as of 2026-07-21. Reported (leaks/insiders)
+    to be a new Sledgehammer Games sub-franchise. Annual CoD launches land in late
+    Oct / early Nov, so ~Nov 5 2027 is a placeholder estimate only. Game launch dates
+    slip and this is heavily unconfirmed — re-verify when Activision announces.'
+- summary: '[TBC] CS2 Major Shanghai 2027 (Winter) — Grand Final'
+  start: '2027-12-12'
+  source_url: https://liquipedia.net/counterstrike/Majors/2027/Winter
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. The second Counter-Strike
+    2 Major of 2027, reported to head to Shanghai, China (hosted by Perfect World)
+    with an event window of ~Nov 22 - Dec 12 2027, placing the Grand Final ~Dec 12.
+    Re-verify when Valve/Perfect World confirms the schedule.'
+- summary: '[TBC] The Game Awards 2027'
+  start: '2027-12-09'
+  source_url: https://thegameawards.com/
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 date not yet announced as of 2026-07-21. Geoff Keighley''s
+    TGA is held on a Thursday in mid-December in Los Angeles (2025 Dec 11, 2026 Dec
+    10), so Thu Dec 9 2027 is the estimate. Re-verify when the date is announced.'
+# NOT INCLUDED:
+# - BlizzCon 2027: no 2027 edition announced as of 2026-07-21 (BlizzCon is not held
+#   every year; 2026 runs Sep 12-13). Omitted rather than invented — add if Blizzard
+#   confirms a 2027 show.

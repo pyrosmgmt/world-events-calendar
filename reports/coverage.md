@@ -4,18 +4,18 @@ Per-category coverage. **Subscribe** = zero-maintenance official/third-party fee
 
 | Category | Strategy | Curated events | Firm | [TBC] |
 |---|---|---|---|---|
-| uk-sporting | custom | 35 | 31 | 4 |
-| us-sporting | custom | 38 | 29 | 9 |
-| global-sporting | custom | 22 | 16 | 6 |
-| combat-sports | subscribe | 26 | 25 | 1 |
-| motorsport | hybrid | 14 | 12 | 2 |
-| gaming | custom | 22 | 20 | 2 |
-| entertainment-pop-culture | hybrid | 38 | 32 | 6 |
-| music-festivals | custom | 9 | 7 | 2 |
-| shopping-events | custom | 13 | 12 | 1 |
-| holidays-awareness | reference/subscribe | 2 | 2 | 0 |
-| technology-social-media | hybrid | 16 | 12 | 4 |
-| space-science | hybrid | 13 | 13 | 0 |
-| **TOTAL** | | **248** | **211** | **37** |
+| uk-sporting | custom | 46 | 32 | 14 |
+| us-sporting | custom | 47 | 31 | 16 |
+| global-sporting | custom | 30 | 20 | 10 |
+| combat-sports | subscribe | 31 | 25 | 6 |
+| motorsport | hybrid | 21 | 15 | 6 |
+| gaming | custom | 34 | 21 | 13 |
+| entertainment-pop-culture | hybrid | 48 | 36 | 12 |
+| music-festivals | custom | 11 | 7 | 4 |
+| shopping-events | custom | 22 | 20 | 2 |
+| holidays-awareness | reference/subscribe | 5 | 5 | 0 |
+| technology-social-media | hybrid | 22 | 12 | 10 |
+| space-science | hybrid | 21 | 21 | 0 |
+| **TOTAL** | | **338** | **245** | **93** |
 
 > Curated-event counts exclude events delivered purely by a subscribed feed (e.g. UFC, F1, public holidays), which are unbounded and auto-updating.

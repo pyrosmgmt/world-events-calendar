@@ -1,0 +1,50 @@
+# Append target: shopping-events
+# Window: 2027-08-01 -> 2027-12-31
+# Weekday-rule dates computed for 2027 and treated as CONFIRMED. Prime Day = [TBC].
+target: shopping-events
+events:
+- summary: Back-to-School Peak (2027)
+  start: '2027-08-01'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: season, not a single day; anchored early August per research (mirrors 2026 entry).'
+- summary: US Labor Day Sales (2027)
+  start: '2027-09-06'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: 1st Monday of September 2027 (computed).
+- summary: Amazon Prime Big Deal Days (2027)
+  start: '2027-10-12'
+  source_url: https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq
+  last_verified: '2026-07-21'
+  notes: '[TBC]: Amazon sets the date each year; historically the 2nd week of October (2025 = Oct 7-8, 2024 = Oct 8-9). Placeholder = 2nd Tue of Oct 2027; confirm when Amazon announces.'
+- summary: Singles' Day (2027)
+  start: '2027-11-11'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: Fixed Nov 11 (global, China-origin).
+- summary: Black Friday (2027)
+  start: '2027-11-26'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: Day after US Thanksgiving (4th Thu of Nov 2027 = Nov 25); computed.
+- summary: Small Business Saturday (2027)
+  start: '2027-11-27'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: Saturday after US Thanksgiving (computed).
+- summary: Cyber Monday (2027)
+  start: '2027-11-29'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: Monday after US Thanksgiving (computed).
+- summary: Green Monday (2027)
+  start: '2027-12-13'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: 2nd Monday of December 2027 (computed).
+- summary: Boxing Day (2027)
+  start: '2027-12-26'
+  source_url: https://www.officeholidays.com
+  last_verified: '2026-07-21'
+  notes: Fixed Dec 26 (UK / CA / AU) - retail sales event.

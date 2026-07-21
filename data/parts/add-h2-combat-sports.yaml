@@ -1,0 +1,36 @@
+target: combat-sports
+events:
+  # ---------- WWE 2027 premium live events (TENTATIVE — 2027 dates not yet official) ----------
+  - summary: "[TBC] WWE SummerSlam 2027"
+    start: "2027-08-07"
+    end: "2027-08-08"
+    source_url: "https://en.wikipedia.org/wiki/SummerSlam"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: date/venue not officially confirmed as of 2026-07-21. SummerSlam is WWE's summer tentpole, held on the first weekend of August and (since 2025) run over two nights. Estimate = Sat 7 - Sun 8 Aug 2027 (2026 edition is Aug 1-2). Re-verify when WWE announces."
+  - summary: "[TBC] WWE Crown Jewel 2027 (Saudi Arabia)"
+    start: "2027-10-30"
+    source_url: "https://en.wikipedia.org/wiki/WWE_Crown_Jewel"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. Crown Jewel is WWE's marquee autumn event in its Saudi Arabia partnership (Riyadh), typically late Oct/early Nov (2024 Riyadh Nov 2; 2023 Riyadh Nov 4; 2025 was in Perth). Estimate = late Oct 2027. Re-verify when WWE announces."
+  - summary: "[TBC] WWE Survivor Series: WarGames 2027"
+    start: "2027-11-27"
+    source_url: "https://en.wikipedia.org/wiki/Survivor_Series"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. Survivor Series (WarGames since 2022) is held on the Saturday of US Thanksgiving weekend. Thanksgiving 2027 is Nov 25, so estimate = Sat 27 Nov 2027 (2026 edition is Nov 28). Re-verify when WWE announces."
+
+  # ---------- AEW 2027 pay-per-views (TENTATIVE — 2027 dates not yet official) ----------
+  - summary: "[TBC] AEW All Out 2027"
+    start: "2027-09-25"
+    source_url: "https://en.wikipedia.org/wiki/AEW_All_Out"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. Tony Khan has said AEW's 2027 event slate is not yet set. All Out is AEW's early-autumn PPV (2026 edition Sep 26; historically late Aug/Sep, Chicago area). Estimate = late Sep 2027. Re-verify when AEW announces."
+  - summary: "[TBC] AEW Full Gear 2027"
+    start: "2027-11-20"
+    source_url: "https://en.wikipedia.org/wiki/AEW_Full_Gear"
+    last_verified: "2026-07-21"
+    notes: "TENTATIVE: not officially confirmed as of 2026-07-21. Full Gear is AEW's November PPV (2026 edition mid/late Nov). Estimate = mid/late Nov 2027. Re-verify when AEW announces."
+
+  # ---------- Boxing / BKFC ----------
+  # No marquee boxing cards or numbered BKFC events have confirmed Aug-Dec 2027 dates as of 2026-07-21.
+  # Boxing and BKFC cards are announced short-term (weeks to a few months out), so none are added here
+  # to avoid inventing dates. Revisit closer to the window once cards are officially announced.

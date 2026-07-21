@@ -32,4 +32,40 @@ DESCRIPTION:June is Pride Month\; specific parade dates vary by city and a
 TRANSP:TRANSPARENT
 URL:https://www.loc.gov/lgbt-pride-month
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween (2027)
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+DTSTAMP:20260721T000000Z
+UID:halloween-2027-2027-10-31@holidays-awareness.pyros-world-events-calend
+ ar
+DESCRIPTION:Fixed Oct 31 (global\, promo-relevant). Falls on a Sunday in 2
+ 027.\nSource: https://www.officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bonfire Night / Guy Fawkes (2027)
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+DTSTAMP:20260721T000000Z
+UID:bonfire-night-guy-fawkes-2027-2027-11-05@holidays-awareness.pyros-worl
+ d-events-calendar
+DESCRIPTION:Fixed Nov 5 (UK). Falls on a Friday in 2027.\nSource: https://
+ www.officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Year's Eve (2027)
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+DTSTAMP:20260721T000000Z
+UID:new-years-eve-2027-2027-12-31@holidays-awareness.pyros-world-events-ca
+ lendar
+DESCRIPTION:Fixed Dec 31 (global\, promo-relevant). Falls on a Friday in 2
+ 027.\nSource: https://www.officeholidays.com\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.officeholidays.com
+END:VEVENT
 END:VCALENDAR

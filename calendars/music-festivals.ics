@@ -118,4 +118,33 @@ DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21\; reporte
 TRANSP:TRANSPARENT
 URL:https://www.tomorrowland.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Reading & Leeds 2027
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270830
+DTSTAMP:20260721T000000Z
+UID:tbc-reading-leeds-2027-2027-08-26@music-festivals.pyros-world-events-c
+ alendar
+DESCRIPTION:TENTATIVE: 2027 dates not officially announced as of 2026-07-2
+ 1 (site still shows 27-30 Aug 2026). Estimated Thu Aug 26 - Sun Aug 29\, 2
+ 027 from the fixed UK August bank-holiday-weekend rule (bank holiday Mon =
+  Aug 30\, 2027). UK. Verify closer to date.\nSource: https://www.readingan
+ dleedsfestival.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.readingandleedsfestival.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Austin City Limits 2027
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271011
+DTSTAMP:20260721T000000Z
+UID:tbc-austin-city-limits-2027-2027-10-01@music-festivals.pyros-world-eve
+ nts-calendar
+DESCRIPTION:TENTATIVE: 2027 dates not officially announced as of 2026-07-2
+ 1. ACL runs two three-day weekends in early October at Zilker Park (2026 w
+ as Oct 2-4 & 9-11). Estimated Oct 1-3 & 8-10\, 2027. Verify closer to date
+ .\nSource: https://www.aclfestival.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.aclfestival.com/
+END:VEVENT
 END:VCALENDAR

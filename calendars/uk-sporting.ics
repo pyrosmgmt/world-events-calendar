@@ -480,4 +480,171 @@ DESCRIPTION:TENTATIVE: not officially confirmed as of 2026-07-21. PDC team
 TRANSP:TRANSPARENT
 URL:https://www.pdc.tv/tournaments/betvictor-world-cup-of-darts
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] The Hundred 2027
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+DTSTAMP:20260721T000000Z
+UID:tbc-the-hundred-2027-2027-08-04@uk-sporting.pyros-world-events-calenda
+ r
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. 2026 ran 21 Jul - 16 Aug\; ECB has not released the 2027 window
+ . Start estimated early Aug 2027 to sit inside this window.\nSource: https
+ ://en.wikipedia.org/wiki/2026_The_Hundred_season\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2026_The_Hundred_season
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] FA Community Shield 2027
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+DTSTAMP:20260721T000000Z
+UID:tbc-fa-community-shield-2027-2027-08-08@uk-sporting.pyros-world-events
+ -calendar
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. Season curtain-raiser held the weekend before the Premier Leagu
+ e opener\; 2026 was Sun 16 Aug. Estimated first/second Sunday of Aug 2027.
+ \nSource: https://www.thefa.com/news/2026/jun/04/2026-fa-community-shield\
+ nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.thefa.com/news/2026/jun/04/2026-fa-community-shield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Premier League 2027/28 — Opening Weekend
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+DTSTAMP:20260721T000000Z
+UID:tbc-premier-league-202728-opening-weekend-2027-08-14@uk-sporting.pyros
+ -world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. 2026/27 opened 21 Aug 2026\; opening weekends fall mid-Aug. Est
+ imated ~14 Aug 2027\; Premier League has not confirmed 2027/28 dates.\nSou
+ rce: https://www.premierleague.com/en/news/4468487/dates-for-202627-premie
+ r-league-season-confirmed\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.premierleague.com/en/news/4468487/dates-for-202627-premier
+ -league-season-confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Women's Super League (WSL) 2027/28 — Opening Weekend
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+DTSTAMP:20260721T000000Z
+UID:tbc-womens-super-league-wsl-202728-opening-weekend-2027-09-03@uk-sport
+ ing.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. 2026/27 kicked off the weekend of 4-6 Sep 2026. Estimated first
+  weekend of Sep 2027\; fixtures not yet released.\nSource: https://womensl
+ eagues.thefa.com/\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://womensleagues.thefa.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Betfred St Leger 2027 (Doncaster)
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+DTSTAMP:20260721T000000Z
+UID:tbc-betfred-st-leger-2027-doncaster-2027-09-11@uk-sporting.pyros-world
+ -events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. St Leger Stakes Day (oldest Classic) falls the second Saturday 
+ of Sep\; 2026 was Sat 12 Sep. Estimated Sat 11 Sep 2027.\nSource: https://
+ www.doncaster-racecourse.co.uk/whats-on/betfred-st-leger-day-2026\nVerifie
+ d: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.doncaster-racecourse.co.uk/whats-on/betfred-st-leger-day-2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] AJ Bell Great North Run 2027
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20260721T000000Z
+UID:tbc-aj-bell-great-north-run-2027-2027-09-12@uk-sporting.pyros-world-ev
+ ents-calendar
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. World's biggest half marathon (Newcastle to South Shields)\, ty
+ pically a mid-Sep Sunday\; 2026 is Sun 13 Sep. Estimated Sun 12 Sep 2027.\
+ nSource: https://www.greatrun.org/events/great-north-run/\nVerified: 2026-
+ 07-21
+TRANSP:TRANSPARENT
+URL:https://www.greatrun.org/events/great-north-run/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] BMW PGA Championship 2027 (Wentworth)
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+DTSTAMP:20260721T000000Z
+UID:tbc-bmw-pga-championship-2027-wentworth-2027-09-16@uk-sporting.pyros-w
+ orld-events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. DP World Tour flagship at Wentworth\, typically Thu-Sun in mid-
+ Sep\; 2026 was 15-20 Sep. Estimated Thu 16 Sep 2027 (four-day event).\nSou
+ rce: https://www.europeantour.com/dpworld-tour/bmw-pga-championship-2026/\
+ nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.europeantour.com/dpworld-tour/bmw-pga-championship-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] Betfred Super League Grand Final 2027
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+DTSTAMP:20260721T000000Z
+UID:tbc-betfred-super-league-grand-final-2027-2027-10-09@uk-sporting.pyros
+ -world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. Old Trafford confirmed as host through 2027 (Rugby League Comme
+ rcial / Man Utd deal)\; date usually a Sat in early-to-mid Oct. Estimated 
+ Sat 9 Oct 2027 (2026 was brought forward to 3 Oct ahead of the RL World Cu
+ p).\nSource: https://www.superleague.co.uk/tickets/grand-final\nVerified: 
+ 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.superleague.co.uk/tickets/grand-final
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] QIPCO British Champions Day 2027 (Ascot)
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+DTSTAMP:20260721T000000Z
+UID:tbc-qipco-british-champions-day-2027-ascot-2027-10-16@uk-sporting.pyro
+ s-world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. Britain's richest raceday\; QIPCO sponsorship confirmed through
+  2028. Held the third Saturday of Oct\; 2026 is Sat 17 Oct. Estimated Sat 
+ 16 Oct 2027.\nSource: https://www.ascot.com/racedays/champions-day\nVerifi
+ ed: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.ascot.com/racedays/champions-day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rugby World Cup 2027 — Final
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+DTSTAMP:20260721T000000Z
+UID:rugby-world-cup-2027-final-2027-11-13@uk-sporting.pyros-world-events-c
+ alendar
+DESCRIPTION:CONFIRMED: final Sat 13 Nov 2027 in Australia (tournament 1 Oc
+ t - 13 Nov 2027\, first 24-team edition). Not a UK event but a marquee UK 
+ broadcast fixture. NB: there is no Autumn Nations Series in Nov 2027 — t
+ he World Cup replaces the autumn internationals in a RWC year.\nSource: ht
+ tps://en.wikipedia.org/wiki/2027_Men%27s_Rugby_World_Cup\nVerified: 2026-0
+ 7-21
+TRANSP:TRANSPARENT
+URL:https://en.wikipedia.org/wiki/2027_Men%27s_Rugby_World_Cup
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBC] PDC World Darts Championship 2027/28 (Alexandra Palace)
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+DTSTAMP:20260721T000000Z
+UID:tbc-pdc-world-darts-championship-202728-alexandra-palace-2027-12-16@uk
+ -sporting.pyros-world-events-calendar
+DESCRIPTION:TENTATIVE: 2027 date not yet published\; estimated from recent
+  editions. Ally Pally confirmed as host through 2031\; event runs mid-Dec 
+ into early Jan (2026/27 edition: 10 Dec 2026 - 3 Jan 2027). Start estimate
+ d ~16 Dec 2027\; final ~early Jan 2028.\nSource: https://www.pdc.tv/tourna
+ ments/paddy-power-world-darts-championship\nVerified: 2026-07-21
+TRANSP:TRANSPARENT
+URL:https://www.pdc.tv/tournaments/paddy-power-world-darts-championship
+END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,79 @@
+target: entertainment-pop-culture
+# Target calendar: entertainment-pop-culture
+# Window: 2027-08-01 -> 2027-12-31
+# Prepared 2026-07-21. No overlap with existing entertainment-pop-culture events
+# (existing calendar ends at Minecraft Movie Squared, 2027-07-23).
+events:
+- summary: '[TBC] Venice Film Festival 2027 (84th)'
+  start: '2027-09-01'
+  end: '2027-09-11'
+  source_url: https://www.labiennale.org/en/cinema
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 dates not officially announced as of 2026-07-21 (La Biennale
+    site still lists 2026 only; Alberto Barbera confirmed as artistic director for
+    2027-2028). Estimated early-Sep window from the 83rd edition (Sep 2-12, 2026).
+    Fall awards-season launchpad. Verify closer to date.'
+- summary: The Simpsons Movie 2 (theatrical release)
+  start: '2027-09-03'
+  source_url: https://variety.com/2025/film/news/simpsons-movie-sequel-summer-2027-release-date-1236534270/
+  last_verified: '2026-07-21'
+  notes: 'CONFIRMED via 20th Century Studios/Disney: Fri Sep 3, 2027. Moved from an
+    earlier Jul 23, 2027 date to avoid clashing with A Minecraft Movie Squared. Sequel
+    to the 2007 film.'
+- summary: '[TBC] Toronto International Film Festival 2027 (TIFF, 52nd)'
+  start: '2027-09-09'
+  end: '2027-09-19'
+  source_url: https://www.tiff.net/about-the-festival/
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 dates not officially announced as of 2026-07-21 (submissions
+    for the 52nd festival open; no public dates). Estimated Thu Sep 9 - Sun Sep 19,
+    2027 from TIFF''s rule of starting the Thursday after Canadian Labour Day (Sep
+    6, 2027). Major awards-season festival. Verify closer to date.'
+- summary: '[TBC] MTV Video Music Awards 2027'
+  start: '2027-09-12'
+  source_url: https://www.paramountpressexpress.com/cbs-entertainment/shows/mtv-video-music-awards-vmas
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 date not officially announced as of 2026-07-21. Recent
+    editions have varied (2024 Sep 11, 2025 Sep 7, 2026 Sep 27). Estimated a Sunday
+    in mid-September; some aggregator sites project late Aug. Verify closer to date.'
+- summary: '[TBC] Primetime Emmy Awards 2027 (79th)'
+  start: '2027-09-19'
+  source_url: https://www.televisionacademy.com/awards/emmys
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 date not officially announced as of 2026-07-21. Estimated
+    a mid-September Sunday from the annual pattern (78th was Sep 14, 2026). Verify
+    with the Television Academy closer to date.'
+- summary: '[TBC] MTV Europe Music Awards 2027 (EMAs)'
+  start: '2027-11-14'
+  source_url: https://www.mtvema.com/
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: highly uncertain. 2027 date not announced as of 2026-07-21 and
+    the EMAs have run irregularly in recent years (may be skipped). Estimated a Sunday
+    in mid-November from historic pattern. Confirm the ceremony is even taking place
+    before relying on this.'
+- summary: Frozen III (theatrical release)
+  start: '2027-11-24'
+  source_url: https://variety.com/2025/film/news/frozen-3-release-date-2027-1236321842/
+  last_verified: '2026-07-21'
+  notes: 'CONFIRMED via Walt Disney Animation Studios/Disney: Wed Nov 24, 2027 (the
+    Wednesday before Thanksgiving). Major franchise tentpole.'
+- summary: '[TBC] The Fashion Awards 2027 (London)'
+  start: '2027-11-29'
+  source_url: https://fashionawards.com/
+  last_verified: '2026-07-21'
+  notes: 'TENTATIVE: 2027 date not officially announced as of 2026-07-21. British
+    Fashion Council holds it on a late-Nov/early-Dec Monday at the Royal Albert Hall
+    (2025 Dec 1, 2026 Nov 30). Estimated Mon Nov 29, 2027. Verify closer to date.'
+- summary: 'Avengers: Secret Wars (theatrical release)'
+  start: '2027-12-17'
+  source_url: https://variety.com/2025/film/news/avengers-delayed-doomsday-secret-wars-december-2026-2027-1236399999/
+  last_verified: '2026-07-21'
+  notes: 'CONFIRMED via Marvel Studios/Disney (Marvel.com lists Dec 2027): Fri Dec
+    17, 2027. Finale of the Multiverse Saga; delayed from May 2027. Major franchise
+    tentpole.'
+- summary: 'The Lord of the Rings: The Hunt for Gollum (theatrical release)'
+  start: '2027-12-17'
+  source_url: https://variety.com/2025/film/news/lord-of-the-rings-the-hunt-for-gollum-release-date-december-2027-1236390820/
+  last_verified: '2026-07-21'
+  notes: 'CONFIRMED via Warner Bros.: Fri Dec 17, 2027 (same day as Avengers: Secret
+    Wars). Andy Serkis directs and stars; Peter Jackson producing. Delayed from 2026.'

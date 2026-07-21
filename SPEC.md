@@ -46,7 +46,9 @@ Each event lives in **exactly one primary category** (no duplicates across calen
 
 ## Scope
 - Broad tentpole events only.
-- Time window: current year + rolling ~12 months forward.
+- Time window: **2026-07-21 → 2027-12-31** (extended to end of 2027; refresh here for the
+  2028 calendar). Events 12–18 months out that aren't officially dated yet are included
+  as best-estimates prefixed `[TBC]`.
 - Refreshed yearly.
 
 ## Data integrity rules

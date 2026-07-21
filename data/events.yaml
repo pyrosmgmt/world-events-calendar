@@ -4,7 +4,7 @@
 meta:
   project: Pyros World Events Calendar
   compiled: '2026-07-21'
-  window: 2026-07-21 to 2027-07-31
+  window: 2026-07-21 to 2027-12-31
 calendars:
 - id: uk-sporting
   name: Pyros · UK Sporting
@@ -218,6 +218,81 @@ calendars:
     notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. PDC team event (nation-vs-nation, distinct
       from the PDC World Championship). 2027 dates not yet announced. Estimated ~mid-June 2027 from the
       2026 edition held Jun 11-14 2026. In-window; verify once PDC releases its 2027 calendar.'
+  - summary: '[TBC] The Hundred 2027'
+    start: '2027-08-04'
+    source_url: https://en.wikipedia.org/wiki/2026_The_Hundred_season
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. 2026 ran 21 Jul -
+      16 Aug; ECB has not released the 2027 window. Start estimated early Aug 2027 to sit inside this
+      window.'
+  - summary: '[TBC] FA Community Shield 2027'
+    start: '2027-08-08'
+    source_url: https://www.thefa.com/news/2026/jun/04/2026-fa-community-shield
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. Season curtain-raiser
+      held the weekend before the Premier League opener; 2026 was Sun 16 Aug. Estimated first/second Sunday
+      of Aug 2027.'
+  - summary: '[TBC] Premier League 2027/28 — Opening Weekend'
+    start: '2027-08-14'
+    source_url: https://www.premierleague.com/en/news/4468487/dates-for-202627-premier-league-season-confirmed
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. 2026/27 opened 21
+      Aug 2026; opening weekends fall mid-Aug. Estimated ~14 Aug 2027; Premier League has not confirmed
+      2027/28 dates.'
+  - summary: '[TBC] Women''s Super League (WSL) 2027/28 — Opening Weekend'
+    start: '2027-09-03'
+    source_url: https://womensleagues.thefa.com/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. 2026/27 kicked off
+      the weekend of 4-6 Sep 2026. Estimated first weekend of Sep 2027; fixtures not yet released.'
+  - summary: '[TBC] Betfred St Leger 2027 (Doncaster)'
+    start: '2027-09-11'
+    source_url: https://www.doncaster-racecourse.co.uk/whats-on/betfred-st-leger-day-2026
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. St Leger Stakes Day
+      (oldest Classic) falls the second Saturday of Sep; 2026 was Sat 12 Sep. Estimated Sat 11 Sep 2027.'
+  - summary: '[TBC] AJ Bell Great North Run 2027'
+    start: '2027-09-12'
+    source_url: https://www.greatrun.org/events/great-north-run/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. World''s biggest half
+      marathon (Newcastle to South Shields), typically a mid-Sep Sunday; 2026 is Sun 13 Sep. Estimated
+      Sun 12 Sep 2027.'
+  - summary: '[TBC] BMW PGA Championship 2027 (Wentworth)'
+    start: '2027-09-16'
+    source_url: https://www.europeantour.com/dpworld-tour/bmw-pga-championship-2026/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. DP World Tour flagship
+      at Wentworth, typically Thu-Sun in mid-Sep; 2026 was 15-20 Sep. Estimated Thu 16 Sep 2027 (four-day
+      event).'
+  - summary: '[TBC] Betfred Super League Grand Final 2027'
+    start: '2027-10-09'
+    source_url: https://www.superleague.co.uk/tickets/grand-final
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. Old Trafford confirmed
+      as host through 2027 (Rugby League Commercial / Man Utd deal); date usually a Sat in early-to-mid
+      Oct. Estimated Sat 9 Oct 2027 (2026 was brought forward to 3 Oct ahead of the RL World Cup).'
+  - summary: '[TBC] QIPCO British Champions Day 2027 (Ascot)'
+    start: '2027-10-16'
+    source_url: https://www.ascot.com/racedays/champions-day
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. Britain''s richest
+      raceday; QIPCO sponsorship confirmed through 2028. Held the third Saturday of Oct; 2026 is Sat 17
+      Oct. Estimated Sat 16 Oct 2027.'
+  - summary: Rugby World Cup 2027 — Final
+    start: '2027-11-13'
+    source_url: https://en.wikipedia.org/wiki/2027_Men%27s_Rugby_World_Cup
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: final Sat 13 Nov 2027 in Australia (tournament 1 Oct - 13 Nov 2027, first 24-team
+      edition). Not a UK event but a marquee UK broadcast fixture. NB: there is no Autumn Nations Series
+      in Nov 2027 — the World Cup replaces the autumn internationals in a RWC year.'
+  - summary: '[TBC] PDC World Darts Championship 2027/28 (Alexandra Palace)'
+    start: '2027-12-16'
+    source_url: https://www.pdc.tv/tournaments/paddy-power-world-darts-championship
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. Ally Pally confirmed
+      as host through 2031; event runs mid-Dec into early Jan (2026/27 edition: 10 Dec 2026 - 3 Jan 2027).
+      Start estimated ~16 Dec 2027; final ~early Jan 2028.'
 - id: us-sporting
   name: Pyros · US Sporting
   description: US marquee sporting tentpoles (curated; championship/season level)
@@ -467,6 +542,80 @@ calendars:
     notes: CONFIRMED via official theplayers.com (tournament week 8-14 Mar 2027); competition rounds Thu
       11 - Sun 14 Mar 2027 at TPC Sawgrass, Ponte Vedra Beach, FL. Ticketed rounds corroborate (Fri 12
       Mar, Sun 14 Mar). The PGA Tour's flagship event, often called golf's 'fifth major.'
+  - summary: US Open Tennis 2027
+    start: '2027-08-30'
+    end: '2027-09-12'
+    source_url: https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026-updated.pdf
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: main draw Mon Aug 30 - Sun Sep 12 2027 at the USTA Billie Jean King National Tennis
+      Center, Flushing Meadows, NY. Listed on the official ATP 2027 tour calendar; follows the fixed final-Grand-Slam
+      slot (starts the last Monday of August). Final Grand Slam of the year.'
+  - summary: '[TBC] College Football 2027 Season Kickoff'
+    start: '2027-08-28'
+    source_url: https://fbschedules.com/2027-college-football-schedule/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. FBSchedules lists
+      opening (Week 0) games Sat Aug 28 2027. Note: an NCAA D-I Oversight Committee proposal would officially
+      move the season start up one week beginning 2027 (folding Week 0 into Week 1); legislation not yet
+      adopted. Keyed to the kickoff Saturday. Verify once the 2027 schedule is finalized (typically spring/summer
+      2027).'
+  - summary: '[TBC] NFL Kickoff Game 2027'
+    start: '2027-09-09'
+    source_url: https://www.nfl.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. NFL season opener
+      is the Thursday after Labor Day; Labor Day 2027 is Mon Sep 6, so Kickoff Game estimated Thu Sep
+      9 2027. Matchup/host TBD. Verify when the NFL releases the 2027 schedule (~May 2027).'
+  - summary: '[TBC] MLB World Series 2027 (Game 1)'
+    start: '2027-10-22'
+    source_url: https://www.mlb.com/news/mlb-2027-schedule-released
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. MLB has released the
+      2027 regular-season schedule (Opening Night Mar 24, regular season ends ~Sep 26) but postseason
+      dates are not officially published; World Series Game 1 projected for the customary late-Oct Friday
+      slot (Fri Oct 22 2027; Game 7 if needed ~Oct 30). CAVEAT: the 2027 season is contingent on a new
+      CBA (current one expires Dec 1 2026); a lockout could shift or disrupt the calendar. On FOX. Verify
+      once postseason dates are announced.'
+  - summary: '[TBC] NHL 2027-28 Season Opening Night'
+    start: '2027-10-05'
+    source_url: https://www.nhl.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. The 2027-28 NHL schedule
+      has not been released. Recent openers have ranged from late Sep to mid-Oct (2026-27 opened Tue Sep
+      29 2026; 2024-25 Oct 4; 2023-24 Oct 10); early October is the estimate. Verify when the NHL releases
+      the 2027-28 schedule (~summer 2027).'
+  - summary: '[TBC] NBA 2027-28 Opening Night'
+    start: '2027-10-19'
+    source_url: https://www.nba.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet published; estimated from recent editions. The 2027-28 NBA schedule
+      has not been released. The 2026-27 season opens Tue Oct 20 2026; the season typically tips off in
+      the third week of October, so Tue Oct 19 2027 is the estimate. Verify when the NBA releases the
+      2027-28 schedule (~Aug 2027).'
+  - summary: Breeders' Cup 2027 (Belmont Park)
+    start: '2027-10-29'
+    end: '2027-10-30'
+    source_url: https://breederscup.com/news/2025/breeders-cup-announces-2026-2027-host-site-selections
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED (host + dates announced): Breeders'' Cup World Championships Fri Oct 29 - Sat Oct
+      30 2027 at Belmont Park, Elmont, NY (fifth time Belmont hosts, first since 2005). Two-day thoroughbred
+      championship (Future Stars Friday + Championship Saturday). Race dates pending final approval by
+      the New York State Gaming Commission. Corroborated by NYRA, BloodHorse and DRF.'
+  - summary: '[TBC] NFL Thanksgiving Games 2027'
+    start: '2027-11-25'
+    source_url: https://www.nfl.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 schedule not yet published; estimated from recent editions. However the DATE
+      is structurally certain: NFL always plays on Thanksgiving = 4th Thursday of November = Thu Nov 25
+      2027. Matchups TBD until the 2027 schedule is released (~May 2027). Traditional tripleheader.'
+  - summary: '[TBC] College Football Rivalry Week 2027'
+    start: '2027-11-27'
+    source_url: https://fbschedules.com/2027-college-football-schedule/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 schedule not yet published; estimated from recent editions. Marquee CFB rivalry
+      weekend (Ohio State-Michigan, Iron Bowl, etc.) — final regular-season Saturday, computed as the
+      Saturday after US Thanksgiving (Nov 25 2027) = Sat Nov 27 2027. Tentpole viewership window, not
+      a single competition.'
 - id: global-sporting
   name: Pyros · Global Sporting
   description: Global mega sporting events (one entry per tournament)
@@ -622,6 +771,70 @@ calendars:
       Origin in New Zealand — and Accor Stadium Sydney) but has NOT published match dates. Series traditionally
       runs late May to early July on Wednesdays; Game 1 estimated ~26 May 2027 (last Wed of May). Re-verify
       when the NRL releases the 2027 fixtures. The Origin series is the tentpole; keyed to Game 1.'
+  - summary: '[TBC] The Rugby Championship 2027 (SANZAAR)'
+    start: '2027-08-07'
+    source_url: https://super.rugby/therugbychampionship/news/sanzaar-confirms-new-and-exciting-international-rugby-calendar-2026-2030/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: exact dates not published as of verification. SANZAAR''s 2026-2030 calendar CONFIRMS
+      a full Rugby Championship returns in 2027 (first full edition in a Rugby World Cup year, all 12
+      matches) in an earlier July-August slot ahead of RWC 2027. No fixture dates released yet; start
+      keyed to an estimated early-August weekend and may fall in July. Re-verify when SANZAAR/national
+      unions publish fixtures.'
+  - summary: '[TBC] Vuelta a España 2027'
+    start: '2027-08-21'
+    end: '2027-09-12'
+    source_url: https://www.cyclingstage.com/vuelta-2027-route/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: exact dates not officially confirmed. 82nd edition; the Gran Salida is confirmed
+      for "the end of August 2027" (possible foreign start, Denmark rumoured) with the full route revealed
+      December 2026. Start/end estimated from the Vuelta''s usual ~3-week late-Aug-to-mid-Sep window (2026
+      ran 22 Aug - 13 Sep). Re-verify when ASO/lavuelta.es publishes the 2027 route and dates. Third Grand
+      Tour of the season.'
+  - summary: World Athletics Championships 2027 (Beijing)
+    start: '2027-09-11'
+    end: '2027-09-19'
+    source_url: https://worldathletics.org/competitions/world-athletics-championships/beijing27
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED: 21st World Athletics Championships, 11-19 Sep 2027 at the National Stadium (Bird''s
+      Nest), Beijing, China. Second time Beijing hosts (after 2015).'
+  - summary: '[TBC] UEFA Champions League 2027/28 — League Phase Begins'
+    start: '2027-09-16'
+    source_url: https://en.wikipedia.org/wiki/2027%E2%80%9328_UEFA_Champions_League
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: exact Matchday 1 date not yet published as of verification. UEFA confirms the 2027/28
+      league phase begins in September 2027 (36-team Swiss-model format continues). Start estimated ~mid-September
+      from the 2026/27 pattern (MD1 8-10 Sep 2026). Re-verify when UEFA releases the 2027/28 calendar.'
+  - summary: Ryder Cup 2027 (Adare Manor, Ireland)
+    start: '2027-09-17'
+    end: '2027-09-19'
+    source_url: https://www.rydercup.com/news-media/dates-announced-for-the-2027-ryder-cup
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED by Ryder Cup: 46th edition (100th anniversary) at Adare Manor, Co. Limerick, Ireland.
+      Three days of competition Fri 17 - Sun 19 Sep 2027, preceded by build-up days Mon 13 - Thu 16 Sep.
+      Ireland''s second Ryder Cup (after 2006).'
+  - summary: '[TBC] UEFA Europa League 2027/28 — League Phase Begins'
+    start: '2027-09-23'
+    source_url: https://en.wikipedia.org/wiki/2027%E2%80%9328_UEFA_Europa_League
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: exact Matchday 1 date not yet published as of verification. The 2027/28 league
+      phase begins in September 2027. Start estimated ~late September from the 2026/27 pattern (MD1 16-17
+      Sep 2026, roughly a week after the Champions League). Re-verify when UEFA releases the 2027/28 calendar.'
+  - summary: Rugby World Cup 2027 (Australia)
+    start: '2027-10-01'
+    end: '2027-11-13'
+    source_url: https://www.rugbyworldcup.com/2027/en
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED by World Rugby: first 24-team Men''s Rugby World Cup, 1 Oct - 13 Nov 2027 across
+      Australia (Sydney, Melbourne, Brisbane, Perth, Adelaide, Newcastle, Townsville). Opening match Australia
+      v Hong Kong China in Perth on 1 Oct; final at Stadium Australia, Sydney on Sat 13 Nov. 52 matches.'
+  - summary: ICC Men's Cricket World Cup 2027 (ODI)
+    start: '2027-10-04'
+    end: '2027-11-21'
+    source_url: https://www.espncricinfo.com/story/mens-odi-world-cup-2027-dates-set-to-run-from-october-4-to-november-21-1540479
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED (ESPNcricinfo/ICC): 50-over Cricket World Cup co-hosted by South Africa, Zimbabwe
+      and Namibia, 4 Oct - 21 Nov 2027. South Africa stages 44 of 54 matches across 8 venues; Namibia
+      hosts for the first time. New format with a Super 7 stage (announced 15 Jul 2026).'
 - id: combat-sports
   name: Pyros · Combat Sports
   description: Marquee boxing & crossover cards (UFC/MMA via separate auto-feed)
@@ -778,6 +991,41 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'CONFIRMED: BKFC 96 at OVO Hydro, Glasgow, Scotland on 7 Nov 2026. Marquee numbered BKFC card
       at a major arena, in-window. BKFC schedules are announced short-term but this date is set.'
+  - summary: '[TBC] WWE SummerSlam 2027'
+    start: '2027-08-07'
+    end: '2027-08-08'
+    source_url: https://en.wikipedia.org/wiki/SummerSlam
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: date/venue not officially confirmed as of 2026-07-21. SummerSlam is WWE''s summer
+      tentpole, held on the first weekend of August and (since 2025) run over two nights. Estimate = Sat
+      7 - Sun 8 Aug 2027 (2026 edition is Aug 1-2). Re-verify when WWE announces.'
+  - summary: '[TBC] WWE Crown Jewel 2027 (Saudi Arabia)'
+    start: '2027-10-30'
+    source_url: https://en.wikipedia.org/wiki/WWE_Crown_Jewel
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Crown Jewel is WWE''s marquee autumn
+      event in its Saudi Arabia partnership (Riyadh), typically late Oct/early Nov (2024 Riyadh Nov 2;
+      2023 Riyadh Nov 4; 2025 was in Perth). Estimate = late Oct 2027. Re-verify when WWE announces.'
+  - summary: '[TBC] WWE Survivor Series: WarGames 2027'
+    start: '2027-11-27'
+    source_url: https://en.wikipedia.org/wiki/Survivor_Series
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Survivor Series (WarGames since 2022)
+      is held on the Saturday of US Thanksgiving weekend. Thanksgiving 2027 is Nov 25, so estimate = Sat
+      27 Nov 2027 (2026 edition is Nov 28). Re-verify when WWE announces.'
+  - summary: '[TBC] AEW All Out 2027'
+    start: '2027-09-25'
+    source_url: https://en.wikipedia.org/wiki/AEW_All_Out
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Tony Khan has said AEW''s 2027 event
+      slate is not yet set. All Out is AEW''s early-autumn PPV (2026 edition Sep 26; historically late
+      Aug/Sep, Chicago area). Estimate = late Sep 2027. Re-verify when AEW announces.'
+  - summary: '[TBC] AEW Full Gear 2027'
+    start: '2027-11-20'
+    source_url: https://en.wikipedia.org/wiki/AEW_Full_Gear
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Full Gear is AEW''s November PPV (2026
+      edition mid/late Nov). Estimate = mid/late Nov 2027. Re-verify when AEW announces.'
 - id: motorsport
   name: Pyros · Motorsport
   description: Non-F1 marquee motorsport (F1 is a separate auto-updating feed)
@@ -865,6 +1113,59 @@ calendars:
     last_verified: '2026-07-21'
     notes: TENTATIVE — 2027 MotoGP calendar not yet officially published. Recent seasons (2025, 2026)
       opened in Thailand (Buriram) in late Feb / early March; placeholder date pending official release.
+  - summary: FIA WEC 2027 — Lone Star Le Mans (Austin)
+    start: '2027-09-10'
+    end: '2027-09-12'
+    source_url: https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via official FIA WEC 2027 calendar (published 12 Jun 2026): Round 7 of nine, Circuit
+      of the Americas, Austin TX, race weekend Fri 10 - Sun 12 Sep 2027.'
+  - summary: FIA WEC 2027 — 6 Hours of Fuji
+    start: '2027-09-24'
+    end: '2027-09-26'
+    source_url: https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via official FIA WEC 2027 calendar: Round 8 of nine, Fuji Speedway, Japan, race
+      weekend Fri 24 - Sun 26 Sep 2027. Penultimate round.'
+  - summary: FIA WEC 2027 — 8 Hours of Bahrain (Season Finale)
+    start: '2027-11-04'
+    end: '2027-11-06'
+    source_url: https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via official FIA WEC 2027 calendar: Round 9 (finale), Bapco Energies 8 Hours of
+      Bahrain, Bahrain International Circuit, day-to-night race weekend Thu 4 - Sat 6 Nov 2027. Title
+      decider.'
+  - summary: '[TBC] NASCAR Cup Series 2027 — Championship Race'
+    start: '2027-11-07'
+    source_url: https://dailydownforce.com/all-confirmed-dates-on-the-2027-nascar-schedule-so-far/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. NASCAR''s full 2027 schedule (and the
+      championship venue) is unpublished; Homestead-Miami hosts the 2026 finale but the title site may
+      rotate from 2027. Estimate = first Sunday of Nov 2027 (2026 finale is Sun Nov 8, 2025 was Nov 2).
+      Re-verify when NASCAR releases the 2027 schedule (expected autumn 2026).'
+  - summary: '[TBC] MotoGP British Grand Prix (Silverstone) 2027'
+    start: '2027-08-29'
+    source_url: https://www.motogp.com/en/calendar/2027
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. The 2027 MotoGP calendar has not been
+      published. The 2026 British GP is Sun Aug 9; a late-Aug/early-Sep 2027 slot is a best estimate that
+      keeps it inside this window. Re-verify — the round could fall outside Aug-Sep once the calendar
+      is released.'
+  - summary: '[TBC] MotoGP Valencia Grand Prix 2027 (Season Finale)'
+    start: '2027-11-14'
+    source_url: https://www.motogp.com/en/calendar/2027
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. The 2027 MotoGP calendar is unpublished.
+      Valencia is the traditional season finale (2026 finale is Nov 22); estimate = mid-Nov 2027. Re-verify
+      on official release.'
+  - summary: '[TBC] IndyCar 2027 Season Finale'
+    start: '2027-09-05'
+    source_url: https://www.openwheelworld.net/en/schedule/indycar/2027
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Only the first seven 2027 NTT IndyCar
+      rounds (through Road America, Jun 20) are published; the season finale venue/date is not yet set.
+      Recent finales have fallen late Aug to mid-Sep (2024 Nashville Sep 15; 2025 Nashville late Aug).
+      Estimate = Labor Day weekend, early Sep 2027. Re-verify on full-schedule release.'
 - id: gaming
   name: Pyros · Gaming
   description: Major game launches, showcases & esports finals (curated)
@@ -1006,6 +1307,101 @@ calendars:
     last_verified: '2026-07-21'
     notes: Recurring promo hook — annual May 4 ('May the Fourth be with you'). Steam/PSN Star Wars game
       sales, LEGO/merch promos. Gaming + pop-culture crossover.
+  - summary: '[TBC] gamescom 2027'
+    start: '2027-08-25'
+    end: '2027-08-29'
+    source_url: https://www.gamescom.global/en
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. World''s largest games trade fair at
+      Koelnmesse, Cologne. Recent editions run Wed-Sun in late August (2025 Aug 20-24, 2026 Aug 26-30),
+      so Aug 25-29 2027 (Wed-Sun) is the estimate; some aggregators list Aug 24-28. Opening Night Live
+      typically streams the evening before. Re-verify once gamescom.global publishes 2027 dates.'
+  - summary: '[TBC] Pokemon World Championships 2027'
+    start: '2027-08-20'
+    end: '2027-08-22'
+    source_url: https://worlds.pokemon.com/en-us
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 host city and dates not yet announced as of 2026-07-21 (the Pokemon Company
+      has only confirmed 2027 regional Internationals — NAIC Chicago Jun 18-20, EUIC London Feb 19-21).
+      Worlds is an annual mid-to-late August event (2026 = Aug 28-30, San Francisco); Aug 20-22 2027 is
+      a placeholder estimate. TCG/VGC/GO/UNITE finals. Re-verify when Worlds 2027 is announced.'
+  - summary: '[TBC] PAX West 2027'
+    start: '2027-09-03'
+    end: '2027-09-06'
+    source_url: https://west.paxsite.com/en-us.html
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 dates not yet announced as of 2026-07-21. PAX West runs Fri-Mon over US Labor
+      Day weekend at the Seattle Convention Center (2026 = Sep 4-7). Labor Day 2027 is Mon Sep 6, so Fri
+      Sep 3 - Mon Sep 6 2027 is the reliable estimate. Re-verify on paxsite.com.'
+  - summary: '[TBC] The International 2027 (Dota 2) — Grand Final'
+    start: '2027-09-13'
+    source_url: https://liquipedia.net/dota2/The_International/2027
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Valve''s marquee annual Dota 2 championship;
+      2027 location listed as TBD. Aggregators report an event window of ~Sep 3-13 2027, so a Grand Final
+      ~Sep 13 is the estimate (TI dates vary year to year — 2026 ran Aug 13-23). Re-verify when Valve
+      announces TI 2027.'
+  - summary: '[TBC] Tokyo Game Show 2027'
+    start: '2027-09-16'
+    end: '2027-09-20'
+    source_url: https://tgs.cesa.or.jp/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 dates not yet announced as of 2026-07-21. CESA''s TGS is an annual mid-to-late
+      September event at Makuhari Messe, Chiba (2026 = Sep 17-21, business + public days). Sep 16-20 2027
+      is an estimate from the recent pattern. Re-verify on the official CESA/TGS site.'
+  - summary: National Video Games Day 2027
+    start: '2027-09-12'
+    source_url: https://www.nationaldaycalendar.com/national-day/national-video-games-day-september-12
+    last_verified: '2026-07-21'
+    notes: Recurring promo hook — fixed annual Sep 12 observance (the industry-marketed variant; a separate
+      'National Video Game Day' falls Jul 8, out of window). Steam/PSN/eShop sales tie-in. Date is calendar-fixed
+      and reliable.
+  - summary: '[TBC] EA Sports FC 28 Launch'
+    start: '2027-09-24'
+    source_url: https://www.ea.com/games/ea-sports-fc
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not announced as of 2026-07-21. EA''s annual football title ships on the last Friday
+      of September (FC 25 Sep 27 2025, FC 27 Sep 25 2026), so Fri Sep 24 2027 is the estimate; early access
+      ~a week earlier for Ultimate Edition/EA Play. Game launch dates slip — re-verify.'
+  - summary: '[TBC] Valorant Champions 2027 — Grand Final'
+    start: '2027-09-26'
+    source_url: https://valorantesports.com/en-US/news/the-new-valorant-champions-tour
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Riot has confirmed Valorant Champions
+      2027 will be hosted in the Americas region (host city TBD). Champions is Riot''s year-end Valorant
+      world final, typically late Sep to mid-Oct (2026 = Sep 24-Oct 18, Shanghai). Late-Sep 2027 Grand
+      Final is an estimate. Re-verify when the 2027 schedule/host city is set.'
+  - summary: '[TBC] League of Legends Worlds 2027 — Final'
+    start: '2027-11-14'
+    source_url: https://escharts.com/news/league-legends-worlds-2027-tentative-dates-and-additional-details-revealed
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. KeSPA has shared a tentative Worlds
+      2027 window of Oct 15 - Nov 14 2027 hosted in South Korea and opened host-city bidding for the knockout
+      stage; the Grand Final is tentatively Nov 14 2027 but the host city is not yet chosen. Riot''s LoL
+      world championship. Re-verify when the schedule is finalised.'
+  - summary: '[TBC] Call of Duty 2027 Launch'
+    start: '2027-11-05'
+    source_url: https://www.callofduty.com/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: no title or date announced as of 2026-07-21. Reported (leaks/insiders) to be a
+      new Sledgehammer Games sub-franchise. Annual CoD launches land in late Oct / early Nov, so ~Nov
+      5 2027 is a placeholder estimate only. Game launch dates slip and this is heavily unconfirmed —
+      re-verify when Activision announces.'
+  - summary: '[TBC] CS2 Major Shanghai 2027 (Winter) — Grand Final'
+    start: '2027-12-12'
+    source_url: https://liquipedia.net/counterstrike/Majors/2027/Winter
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. The second Counter-Strike 2 Major of
+      2027, reported to head to Shanghai, China (hosted by Perfect World) with an event window of ~Nov
+      22 - Dec 12 2027, placing the Grand Final ~Dec 12. Re-verify when Valve/Perfect World confirms the
+      schedule.'
+  - summary: '[TBC] The Game Awards 2027'
+    start: '2027-12-09'
+    source_url: https://thegameawards.com/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not yet announced as of 2026-07-21. Geoff Keighley''s TGA is held on
+      a Thursday in mid-December in Los Angeles (2025 Dec 11, 2026 Dec 10), so Thu Dec 9 2027 is the estimate.
+      Re-verify when the date is announced.'
 - id: entertainment-pop-culture
   name: Pyros · Entertainment & Pop Culture
   description: Award shows, blockbuster releases & major pop-culture moments (curated)
@@ -1235,6 +1631,75 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. No official date announced; recent editions
       have been irregular. Spring/March estimate only — verify closer to date.'
+  - summary: '[TBC] Venice Film Festival 2027 (84th)'
+    start: '2027-09-01'
+    end: '2027-09-11'
+    source_url: https://www.labiennale.org/en/cinema
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 dates not officially announced as of 2026-07-21 (La Biennale site still lists
+      2026 only; Alberto Barbera confirmed as artistic director for 2027-2028). Estimated early-Sep window
+      from the 83rd edition (Sep 2-12, 2026). Fall awards-season launchpad. Verify closer to date.'
+  - summary: The Simpsons Movie 2 (theatrical release)
+    start: '2027-09-03'
+    source_url: https://variety.com/2025/film/news/simpsons-movie-sequel-summer-2027-release-date-1236534270/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via 20th Century Studios/Disney: Fri Sep 3, 2027. Moved from an earlier Jul 23,
+      2027 date to avoid clashing with A Minecraft Movie Squared. Sequel to the 2007 film.'
+  - summary: '[TBC] Toronto International Film Festival 2027 (TIFF, 52nd)'
+    start: '2027-09-09'
+    end: '2027-09-19'
+    source_url: https://www.tiff.net/about-the-festival/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 dates not officially announced as of 2026-07-21 (submissions for the 52nd
+      festival open; no public dates). Estimated Thu Sep 9 - Sun Sep 19, 2027 from TIFF''s rule of starting
+      the Thursday after Canadian Labour Day (Sep 6, 2027). Major awards-season festival. Verify closer
+      to date.'
+  - summary: '[TBC] MTV Video Music Awards 2027'
+    start: '2027-09-12'
+    source_url: https://www.paramountpressexpress.com/cbs-entertainment/shows/mtv-video-music-awards-vmas
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not officially announced as of 2026-07-21. Recent editions have varied
+      (2024 Sep 11, 2025 Sep 7, 2026 Sep 27). Estimated a Sunday in mid-September; some aggregator sites
+      project late Aug. Verify closer to date.'
+  - summary: '[TBC] Primetime Emmy Awards 2027 (79th)'
+    start: '2027-09-19'
+    source_url: https://www.televisionacademy.com/awards/emmys
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not officially announced as of 2026-07-21. Estimated a mid-September
+      Sunday from the annual pattern (78th was Sep 14, 2026). Verify with the Television Academy closer
+      to date.'
+  - summary: '[TBC] MTV Europe Music Awards 2027 (EMAs)'
+    start: '2027-11-14'
+    source_url: https://www.mtvema.com/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: highly uncertain. 2027 date not announced as of 2026-07-21 and the EMAs have run
+      irregularly in recent years (may be skipped). Estimated a Sunday in mid-November from historic pattern.
+      Confirm the ceremony is even taking place before relying on this.'
+  - summary: Frozen III (theatrical release)
+    start: '2027-11-24'
+    source_url: https://variety.com/2025/film/news/frozen-3-release-date-2027-1236321842/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via Walt Disney Animation Studios/Disney: Wed Nov 24, 2027 (the Wednesday before
+      Thanksgiving). Major franchise tentpole.'
+  - summary: '[TBC] The Fashion Awards 2027 (London)'
+    start: '2027-11-29'
+    source_url: https://fashionawards.com/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 date not officially announced as of 2026-07-21. British Fashion Council holds
+      it on a late-Nov/early-Dec Monday at the Royal Albert Hall (2025 Dec 1, 2026 Nov 30). Estimated
+      Mon Nov 29, 2027. Verify closer to date.'
+  - summary: 'Avengers: Secret Wars (theatrical release)'
+    start: '2027-12-17'
+    source_url: https://variety.com/2025/film/news/avengers-delayed-doomsday-secret-wars-december-2026-2027-1236399999/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via Marvel Studios/Disney (Marvel.com lists Dec 2027): Fri Dec 17, 2027. Finale
+      of the Multiverse Saga; delayed from May 2027. Major franchise tentpole.'
+  - summary: 'The Lord of the Rings: The Hunt for Gollum (theatrical release)'
+    start: '2027-12-17'
+    source_url: https://variety.com/2025/film/news/lord-of-the-rings-the-hunt-for-gollum-release-date-december-2027-1236390820/
+    last_verified: '2026-07-21'
+    notes: 'CONFIRMED via Warner Bros.: Fri Dec 17, 2027 (same day as Avengers: Secret Wars). Andy Serkis
+      directs and stars; Peter Jackson producing. Delayed from 2026.'
 - id: music-festivals
   name: Pyros · Music & Festivals
   description: Major music festivals (one entry per festival)
@@ -1296,6 +1761,22 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'TENTATIVE: not officially confirmed as of 2026-07-21; reported two weekends (Jul 16-18/17-19
       & Jul 23-25/24-26), Boom.'
+  - summary: '[TBC] Reading & Leeds 2027'
+    start: '2027-08-26'
+    end: '2027-08-29'
+    source_url: https://www.readingandleedsfestival.com/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 dates not officially announced as of 2026-07-21 (site still shows 27-30 Aug
+      2026). Estimated Thu Aug 26 - Sun Aug 29, 2027 from the fixed UK August bank-holiday-weekend rule
+      (bank holiday Mon = Aug 30, 2027). UK. Verify closer to date.'
+  - summary: '[TBC] Austin City Limits 2027'
+    start: '2027-10-01'
+    end: '2027-10-10'
+    source_url: https://www.aclfestival.com/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 dates not officially announced as of 2026-07-21. ACL runs two three-day weekends
+      in early October at Zilker Park (2026 was Oct 2-4 & 9-11). Estimated Oct 1-3 & 8-10, 2027. Verify
+      closer to date.'
 - id: shopping-events
   name: Pyros · Shopping Events
   description: Retail/e-commerce tentpoles (dates computed from weekday rules)
@@ -1365,6 +1846,52 @@ calendars:
     source_url: https://www.officeholidays.com
     last_verified: '2026-07-21'
     notes: Last Monday of May 2027 (computed).
+  - summary: Back-to-School Peak (2027)
+    start: '2027-08-01'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: season, not a single day; anchored early August per research (mirrors 2026 entry).'
+  - summary: US Labor Day Sales (2027)
+    start: '2027-09-06'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: 1st Monday of September 2027 (computed).
+  - summary: Amazon Prime Big Deal Days (2027)
+    start: '2027-10-12'
+    source_url: https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq
+    last_verified: '2026-07-21'
+    notes: '[TBC]: Amazon sets the date each year; historically the 2nd week of October (2025 = Oct 7-8,
+      2024 = Oct 8-9). Placeholder = 2nd Tue of Oct 2027; confirm when Amazon announces.'
+  - summary: Singles' Day (2027)
+    start: '2027-11-11'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Fixed Nov 11 (global, China-origin).
+  - summary: Black Friday (2027)
+    start: '2027-11-26'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Day after US Thanksgiving (4th Thu of Nov 2027 = Nov 25); computed.
+  - summary: Small Business Saturday (2027)
+    start: '2027-11-27'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Saturday after US Thanksgiving (computed).
+  - summary: Cyber Monday (2027)
+    start: '2027-11-29'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Monday after US Thanksgiving (computed).
+  - summary: Green Monday (2027)
+    start: '2027-12-13'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: 2nd Monday of December 2027 (computed).
+  - summary: Boxing Day (2027)
+    start: '2027-12-26'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Fixed Dec 26 (UK / CA / AU) - retail sales event.
 - id: holidays-awareness
   name: Pyros · Holidays & Awareness
   description: Awareness / social-media days only (public holidays are a separate subscribed feed)
@@ -1379,6 +1906,21 @@ calendars:
     source_url: https://www.loc.gov/lgbt-pride-month
     last_verified: '2026-07-21'
     notes: June is Pride Month; specific parade dates vary by city and are not in research.
+  - summary: Halloween (2027)
+    start: '2027-10-31'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Fixed Oct 31 (global, promo-relevant). Falls on a Sunday in 2027.
+  - summary: Bonfire Night / Guy Fawkes (2027)
+    start: '2027-11-05'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Fixed Nov 5 (UK). Falls on a Friday in 2027.
+  - summary: New Year's Eve (2027)
+    start: '2027-12-31'
+    source_url: https://www.officeholidays.com
+    last_verified: '2026-07-21'
+    notes: Fixed Dec 31 (global, promo-relevant). Falls on a Friday in 2027.
 - id: technology-social-media
   name: Pyros · Technology & Social Media
   description: Major tech launches & keynotes (curated; radar via Techmeme feed)
@@ -1474,6 +2016,42 @@ calendars:
     last_verified: '2026-07-21'
     notes: 'TENTATIVE: not officially confirmed as of 2026-07-21 (predicted week of June 7; WWDC 2026
       was June 8-12).'
+  - summary: '[TBC] IFA Berlin 2027'
+    start: '2027-09-03'
+    source_url: https://www.ifa-berlin.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 dates listed as TBD (showsbee). Estimated early Sep from recent editions (IFA
+      2026 was Sep 4-8; IFA 2025 Sep 5-9). Messe Berlin.'
+  - summary: '[TBC] Apple September Event (iPhone 2027) 2027'
+    start: '2027-09-14'
+    source_url: https://www.apple.com/newsroom
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not announced as of 2026-07-21. Estimated ~mid-Sep (Apple typically holds its iPhone
+      keynote in the first/second week of September).'
+  - summary: '[TBC] Qualcomm Snapdragon Summit 2027'
+    start: '2027-09-21'
+    source_url: https://www.qualcomm.com/company/events/snapdragon-summit
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 not announced as of 2026-07-21. Estimated late Sep (Snapdragon Summit 2026
+      was Sep 22-24, Maui, Hawaii).'
+  - summary: '[TBC] Meta Connect 2027'
+    start: '2027-09-22'
+    source_url: https://www.meta.com/connect/
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not announced as of 2026-07-21. Estimated late Sep (Meta Connect 2026 was Sep 23-24,
+      Menlo Park).'
+  - summary: '[TBC] MWC Las Vegas 2027'
+    start: '2027-10-13'
+    source_url: https://www.mwclasvegas.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: 2027 dates not announced as of 2026-07-21. Estimated mid-Oct (MWC Las Vegas 2026
+      was Oct 14-16, Las Vegas Convention Center; GSMA).'
+  - summary: '[TBC] Microsoft Ignite 2027'
+    start: '2027-11-16'
+    source_url: https://ignite.microsoft.com
+    last_verified: '2026-07-21'
+    notes: 'TENTATIVE: not officially confirmed as of 2026-07-21. Estimated mid-Nov (Ignite 2026 was Nov
+      17-20; some listings suggest Nov 2027 in Chicago).'
 - id: space-science
   name: Pyros · Space & Science
   description: Stable astronomy (eclipses, meteor peaks, solstices) + headline launches
@@ -1543,3 +2121,48 @@ calendars:
     source_url: https://in-the-sky.org
     last_verified: '2026-07-21'
     notes: Computed astronomical event.
+  - summary: Total Solar Eclipse ("Eclipse of the Century") 2027
+    start: '2027-08-02'
+    source_url: https://www.timeanddate.com/eclipse/solar/2027-august-2
+    last_verified: '2026-07-21'
+    notes: CONFIRMED. Longest totality of the century (up to 6m22s near Luxor, Egypt); path crosses Spain,
+      Gibraltar, Morocco, Algeria, Libya, Egypt, Saudi Arabia, Yemen, Somalia. Longest total eclipse visible
+      from land until 2114.
+  - summary: Perseids Meteor Shower Peak 2027
+    start: '2027-08-12'
+    source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+    last_verified: '2026-07-21'
+    notes: CONFIRMED. Peaks night of Aug 12 / morning Aug 13; up to 60/hr. Waxing gibbous moon interferes
+      this year.
+  - summary: September Equinox 2027
+    start: '2027-09-23'
+    source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+    last_verified: '2026-07-21'
+    notes: CONFIRMED. Occurs 06:04 UTC; first day of autumn (N. Hemisphere).
+  - summary: Orionids Meteor Shower Peak 2027
+    start: '2027-10-21'
+    source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+    last_verified: '2026-07-21'
+    notes: CONFIRMED. Peaks night of Oct 21 / morning Oct 22; up to 20/hr (comet Halley debris).
+  - summary: Leonids Meteor Shower Peak 2027
+    start: '2027-11-17'
+    source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+    last_verified: '2026-07-21'
+    notes: CONFIRMED. Peaks night of Nov 17 / morning Nov 18; up to 15/hr. Near-full moon interferes this
+      year.
+  - summary: Geminids Meteor Shower Peak 2027
+    start: '2027-12-13'
+    source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+    last_verified: '2026-07-21'
+    notes: CONFIRMED. The "king" of showers; peaks night of Dec 13 / morning Dec 14; up to 120/hr. Full
+      moon interferes this year.
+  - summary: December Solstice 2027
+    start: '2027-12-22'
+    source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+    last_verified: '2026-07-21'
+    notes: CONFIRMED. Occurs 02:45 UTC; winter solstice (N. Hemisphere), first day of summer (S. Hemisphere).
+  - summary: Ursids Meteor Shower Peak 2027
+    start: '2027-12-22'
+    source_url: https://www.seasky.org/astronomy/astronomy-calendar-2027.html
+    last_verified: '2026-07-21'
+    notes: CONFIRMED. Peaks night of Dec 21 / morning Dec 22; 5-10/hr (comet Tuttle debris).
